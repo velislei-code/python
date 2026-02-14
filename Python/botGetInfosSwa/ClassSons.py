@@ -1,6 +1,12 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Fev/2026
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 import winsound
 import time
-
 
 class Sons:
     """Classe responsável por gravar linhas em arquivos de transferência de dados."""
