@@ -26,7 +26,7 @@ class myIdx:
     # Paths qdo uso PC-Home
     ajtPASTE: Final = 339   # Teste PC Iury() no notepad++ -> ajusta em: Paste
 
-    pcTEL: Final = False  # Comuta Dir config.ini entre notebook Tel e PC do Iury
+    pcTEL: Final = False  # Comuta Dir config.ini entre notebook Tel e PC-Home
     penImportSAE: Final = 'F:/Projetos/Python/botGetInfosSwa/PENDENCIAS.csv'
     infosSwaPyToPhp: Final = 'F:/Projetos/Python/botGetInfosSwa/infosSwatemp.txt'
     dadosTktPhpToPy: Final = 'F:/Projetos/Python/botGetInfosSwa/dadosTickettemp.csv'
@@ -37,7 +37,7 @@ class myIdx:
     ajtPASTE: Final = 496   # Producao no NOTEBook(-496) no notepad++ -> ajusta em: Paste
     #ajtPASTE: Final = 559   # Teste nOTE(-559) no notepad++ -> ajusta em: Paste
 
-    pcTEL: Final = True  # Comuta Dir config.ini entre notebook Tel e PC do Iury
+    pcTEL: Final = True  # Comuta Dir config.ini entre notebook Tel e PC-Home
     penImportSAE: Final = 'C:/wamp64/www/rd2r3/Robos/transfers/PENDENCIAS.csv'
     infosSwaPyToPhp: Final = 'C:/wamp64/www/rd2r3/Robos/transfers/infosSwaRascunho_temp.txt'
     infosSwaPyToPhpFmt: Final = 'C:/wamp64/www/rd2r3/Robos/transfers/infosSwa_temp.txt'
