@@ -1,5 +1,11 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Fev/2026
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 import os
-#--- Posicionar janela --- #
 import ctypes
 from ctypes import wintypes
 
