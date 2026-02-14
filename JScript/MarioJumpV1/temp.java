@@ -1,3 +1,10 @@
+/*
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Apr/2023
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+*/
 function Loop(){ 
 
                 const pipePositionLeft = constPipe.offsetLeft;  /* Pega posição Left de Pipe(tubo) */
