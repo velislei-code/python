@@ -1,3 +1,10 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Fev/2026
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 import time
 import pyautogui
 import pyperclip
