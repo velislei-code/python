@@ -1,3 +1,10 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) 2025-2026
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 import time
 import configparser
 import pyperclip
@@ -5,18 +12,6 @@ import pyperclip
 import sys
 from typing import Final
 import keyboard # usar tecla <esc> para interromper processo
-#--import re   # Formatação de texto - pegar padroes
-#--import ctypes
-#--import os
-#--import subprocess
-#--import ipaddress
-#--import pyautogui
-#--from datetime import datetime
-
-
-# ------------------------------------------------------------ #
-# import sys
-#--import importlib.util    # Para carregar classes em outro arquivo.py
 
 # Carregar Classes
 from ClassIndices import myIdx  # Importando a classe
