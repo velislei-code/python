@@ -1,3 +1,10 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Set/2025
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 import ipaddress
 import time
 import subprocess
