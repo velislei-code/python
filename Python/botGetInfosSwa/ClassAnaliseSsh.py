@@ -1,12 +1,15 @@
-#--import os
-#--- Posicionar janela --- #
-#--import ctypes
-#--from ctypes import wintypes
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) April/2023
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
+
 import pyautogui
 import pyperclip
 import time
 from datetime import datetime
-#--import pygetwindow as gw    # Ativar janela(Moba)
 import keyboard # usar tecla <esc> para interromper processo
 
 # --------------------------------------------------------#
