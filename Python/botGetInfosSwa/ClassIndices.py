@@ -1,3 +1,10 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Fev/2026
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 from typing import Final
 
 class myIdx:
@@ -16,7 +23,7 @@ class myIdx:
 
 
     """
-    # Paths qdo uso PC-Iury
+    # Paths qdo uso PC-Home
     ajtPASTE: Final = 339   # Teste PC Iury() no notepad++ -> ajusta em: Paste
 
     pcTEL: Final = False  # Comuta Dir config.ini entre notebook Tel e PC do Iury
