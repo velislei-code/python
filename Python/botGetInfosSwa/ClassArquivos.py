@@ -1,9 +1,11 @@
+"""
+by: Treuk, Velislei A
+email: velislei@gmail.com
+Copyright(c) Fev/2026
+All Rights Reserveds    
+Uso exclusivo para estudantes de código
+"""
 import configparser
-#--from typing import Final
-
-# ------------------------------------------------------------ #
-# import sys
-#--import importlib.util    # Para carregar classes em outro arquivo.py
 
 # Carregar Classes
 from ClassIndices import myIdx  # Importando a classe
@@ -11,12 +13,6 @@ from ClassTools import Tools  # Importando a classe
 
 # Instancia a classe
 objTools = Tools()
-
-# Chama método de instância
-# objArquivos.carregar()          # Saída: Carregando...
-
-# Acessa atributo de instância
-# print(objArquivos.dados)        # Saída: []
 
 # ------------------------------------------------------------------- #
 
