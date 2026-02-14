@@ -1,7 +1,7 @@
 """
 by: Treuk, Velislei A
 email: velislei@gmail.com
-Copyright(c) Set/2025
+Copyright(c) Set2025-2026
 All Rights Reserveds    
 Uso exclusivo para estudantes de código
 """
