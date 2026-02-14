@@ -1,0 +1,194 @@
+/* 
+    Animação...Movimentação de Frames.... 
+    by: Treuk, Velislei A
+    email: velislei@gmail.com
+    Copyright(c) April/2023
+    All Rights Reserveds    
+    Permitido uso para estudantes de código
+*/
+@keyframes stone-animation {
+
+    /* Metodo Animação do stone(tube) - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -10px;
+    }
+
+    /* Inicia na posição -150px para entrar por detras da tela */
+    to {
+        right: 120%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes inputHero-animation {
+
+    /* Esta animação hero cai do ceu, entrada no jogo  */
+    0% {
+        bottom: 500px;
+    }
+
+    /* Posicao(Vertical) inicial */
+    100% {
+        bottom: 0;
+    }
+
+    /* Posicao(Vertical) final, retorna a Zero pixels */
+}
+
+@keyframes jumpHero-animation {
+
+    /* Esta animação sobe/desce(saltar) a posição(Bottom-Vertical) do desenho do hero de 0px a 280px retornando a 0px*/
+    0% {
+        bottom: 0;
+    }
+
+    /* Posicao(Vertical) inicial */
+
+    /* Mantem Martio no ar por um tempo pra dar a ilusão de desaceleração */
+    40% {
+        bottom: 280px;
+    }
+
+    /* Posicao(Vertical) no meio do tempo, atinge a altura máxima do salto */
+    50% {
+        bottom: 280px;
+    }
+
+    /* Posicao(Vertical) no meio do tempo, atinge a altura máxima do salto */
+    60% {
+        bottom: 280px;
+    }
+
+    /* Posicao(Vertical) no meio do tempo, atinge a altura máxima do salto */
+
+    100% {
+        bottom: 0;
+    }
+
+    /* Posicao(Vertical) final, retorna a Zero pixels */
+
+
+}
+
+@keyframes clouds-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -550px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 110%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes clouds2-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -1550px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 110%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes clouds3-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -1050px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 110%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes forest1-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -500px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 90%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes forest2-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -1000px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 110%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes forest3-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -300px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 110%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes mountain1-animation {
+
+    /* Metodo Animação das Clouds - varia posição(right-horizontal) de 0 a 110%(110 pra sumir da tela) */
+    from {
+        right: -4000px;
+    }
+
+    /* Inicia na posição -550px para entrar por detras da tela */
+    to {
+        right: 110%;
+    }
+
+    /* vai até a posição 100% da tela */
+}
+
+@keyframes premio-animation {
+
+    /* Esta animação sobe/desce(saltar) a posição(Bottom-Vertical) do desenho do hero de 0px a 280px retornando a 0px*/
+    0% {
+        bottom: 30%;
+    }
+
+    /* Posicao(Vertical) inicial */
+    100% {
+        bottom: 80%;
+    }
+
+    /* Posicao(Vertical) final, retorna a Zero pixels */
+
+
+}

@@ -1,0 +1,216 @@
+/*
+    by: Treuk, Velislei A
+    email: velislei@gmail.com
+    Copyright(c) April/2023
+    All Rights Reserveds    
+    Permitido uso para estudantes de código
+*/
+
+* {
+    /* Reset geral no css */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.game-board {
+    width: 80%;                                /* Usamos 100% da Larg-Tela*/
+    height: 500px;
+    border: 1px solid #000;
+    border-bottom: 15px solid rgb(35,160,35);  /* Criamos um piso(15px) como grama */  
+    margin: 0 auto;
+    position: relative;
+    overflow: hidden;   /* Esconder imagem qdo estiver fora do quadro */
+    background: linear-gradient(#87ceeb, #e0f6ff);  /* Criamos fundo Gradiente como céu, q vai de: #87ceeb até #e0f6ff*/
+}
+.stone {     /* Tubo */
+    position:absolute;      /* Como usamos varias img, e não queremos q uma interfira na outra, deixamos absolut*/
+    bottom: 0;
+    width: 100px;       /* Larg/Alt do tubo 100x100 px*/
+    height: 100px;
+    opacity: 10.0;
+   
+
+    /* 
+        Posição(horizontal) do stone(tubo), 
+        negativo pro tubo surgir de trás da tela, 
+        ir entrando na tela 
+    */
+    right: -140px;    
+    
+    
+     /* 
+        Exec.Metodo(abaixo): stone-animation, 
+        2s: passa em 2s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem do stone seja em vel.constante 
+    */
+    animation: stone-animation 2s infinite linear;
+    
+   /* left: 150px;   somente para testar de posição */
+}
+.hero{
+    width: 150px;
+    height: 150px;
+    left: 0px;
+    position: absolute;
+    bottom: 0; 
+   
+}
+.input-Hero{  /* Essa Classe trata dos saltos do hero */
+
+    /* 
+       Exec.Metodo(abaixo): hero-jump, 
+       500ms: tempo de salto na tela, 
+       infinite: exec.infinito, 
+       ease-out: retorno(cair) suave
+   */
+   animation: inputHero-animation 500ms ease-out;  
+   
+}
+.jump-Hero{  /* Essa Classe trata dos saltos do hero */
+
+     /* 
+        Exec.Metodo(abaixo): hero-jump, 
+        500ms: tempo de salto na tela, 
+        infinite: exec.infinito, 
+        ease-out: retorno(cair) suave
+    */
+    animation: jumpHero-animation 500ms ease-out;  
+    
+}
+.explosion{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 70px;
+    height: 70px;
+    bottom: 30px; 
+    left: -100px; /* Esconde atras da Tela...poshero-> 50px; */          
+}
+.clouds{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 550px;
+    right: -550px;          /* Entrada por tras da tela */
+
+     /* 
+        Exec.Metodo(abaixo): Clouds-animation, 
+        2s: passa em 10s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: clouds-animation 100s infinite;
+
+}
+.clouds2{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 380px;
+    right: -1550px;          /* Entrada por tras da tela */
+    bottom: 300px;
+
+     /* 
+        Exec.Metodo(abaixo): Clouds-animation, 
+        2s: passa em 10s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: clouds2-animation 200s infinite linear;
+
+}
+
+.clouds3{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 365px;
+    right: -1050px;          /* Entrada por tras da tela */
+    bottom: 250px;
+
+     /* 
+        Exec.Metodo(abaixo): Clouds-animation, 
+        2s: passa em 10s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: clouds3-animation 300s infinite;
+
+}
+
+.forest1{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 1400px;
+    right: 0px;          /* Entrada por tras da tela */
+    bottom: 0px;
+
+     /* 
+        Exec.Metodo(abaixo): Clouds-animation, 
+        2s: passa em 10s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: forest1-animation 150s infinite linear;
+
+}
+.forest2{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 900px;
+    right: -1223px;          /* Entrada por tras da tela */
+    bottom: 0px;
+
+     /* 
+        Exec.Metodo(abaixo): Clouds-animation, 
+        2s: passa em 10s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: forest2-animation 300s infinite linear;
+}
+.forest3{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 500px;
+    right: -1223px;          /* Entrada por tras da tela */
+    bottom: 0px;
+
+     /* 
+        Exec.Metodo(abaixo): nome-animation, 
+        Xs: passa em Xs na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: forest3-animation 500s infinite linear;
+
+}
+.mountain1{    /* Classe que renderiza nuvens*/
+    position: absolute;     /* Absolute para não interferir na posição de outras img */
+    width: 5000px;
+    height: 400px;
+    right: 100px;          /* Entrada por tras da tela */
+    bottom: 0px;
+
+     /* 
+        Exec.Metodo(abaixo): Clouds-animation, 
+        2s: passa em 10s na tela, 
+        infinite: exec.infinito, 
+        linear: define que a passagem das nuvens seja em vel.constante 
+    */
+    animation: mountain1-animation 1100s infinite linear;
+
+}
+
+
+
+.premio{
+    width: 20px;
+    height: 20px;
+    left: -300px;    /* esconde atras da tela */
+    position: absolute;
+    bottom: -300px;    
+}
+.premio-Hero{  /* Essa Classe trata dos saltos do hero */
+
+    /* 
+       Exec.Metodo(abaixo): hero-jump, 
+       500ms: tempo de passagem na tela tela, 
+       infinite: exec.infinito, 
+       ease-out: retorno(cair) suave
+   */
+   animation: premio-animation 1500ms ease-out;  
+   
+}
+
+

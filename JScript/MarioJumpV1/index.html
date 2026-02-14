@@ -1,0 +1,130 @@
+<!--
+    by: Treuk, Velislei A
+    email: velislei@gmail.com
+    Copyright(c) April/2023
+    All Rights Reserveds    
+    Permitido uso para estudantes de código
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mario Jump</title>
+    <link rel="shortcut icon" href="./images/icon_mario3.png">
+    <link rel="stylesheet" href="css/style.css" /> <!-- Carrega css -->
+    <link rel="stylesheet" href="css/animacao.css" /> <!-- Carrega css -->
+    <link rel="stylesheet" href="css/Letras.css" /> <!-- Carrega css -->
+    <script src="./js/script.js" defer></script> <!-- Carrega script.js -->
+    <script src="http://code.jquery.com/jquery-1.11.3.min.js"></script>
+    <!-- Carrega jquery pra poder inserir linhas Html pelo JavaScript-->
+    <!-- 
+        defer: 
+            Se o atributo defer estiver definido, ele especifica que o script é 
+            baixado em paralelo à análise da página e executado após a conclusão da análise da página
+            Nota: O atributo defer é apenas para scripts externos (deve ser usado apenas se o atributo src estiver presente).
+    -->
+
+
+</head>
+
+<body>
+    <div class="game-board">
+        <!-- game roda aqui -->
+
+        <img src="./images/Clouds3.png" class="clouds3"> <!-- carrega nuvens -->
+        <img src="./images/montanha6tp.png" class="mountain1">
+        <!-- carrega montanhas: https://www.canstockphoto.com.br/montanhas-jogo-rochoso-tr%C3%AAs-47136032.html -->
+        <img src="./images/FlorestaPedra3.png" class="forest3"> <!-- carrega floresta 3 -->
+        <img src="./images/FlorestaPedra2.png" class="forest2"> <!-- carrega floresta -->
+        <img src="./images/FlorestaPedra1.png" class="forest1"> <!-- carrega floresta -->
+        <img src="./images/Clouds2.png" class="clouds2"> <!-- carrega nuvens -->
+        <img src="./images/Clouds.png" class="clouds"> <!-- carrega nuvens -->
+        <img src="./images/mario.gif" class="hero"> <!-- carrega mario.gif -->
+        <img src="./images/pedra4br.png" class="stone"> <!-- carrega pedra.png(stone) -->
+        <img src="./images/Explode.png" class="explosion"> <!-- carrega explosao -->
+
+    </div>
+
+    <div class="placa-start">
+        <h1>
+            <a href="#" onclick="Start();">
+                <span style="color: yellow">"S</span>
+                <span style="color: red">T</span>
+                <span style="color: blue">A</span>
+                <span style="color: chartreuse">R</span>
+                <span style="color: orange">T"</span>
+            </a>
+        </h1>
+    </div>
+
+    <div class="placa-GameOver">
+
+        <h1>
+            <span style="color: yellow">"G</span>
+            <span style="color: red">a</span>
+            <span style="color: blue">m</span>
+            <span style="color: chartreuse">e</span>
+            <span style="color: cyan">-</span>
+            <span style="color: orange">O</span>
+            <span style="color: red">v</span>
+            <span style="color: green">e</span>
+            <span style="color: blueviolet">r"</span>
+        </h1>
+
+        <div class="placa-restart"><!-- Restart -->
+            <h3>
+                <a href="#" onclick="Start();">
+                    <span style="color: yellow">"R</span>
+                    <span style="color: red">e</span>
+                    <span style="color: blue">s</span>
+                    <span style="color: chartreuse">t</span>
+                    <span style="color: orange">a</span>
+                    <span style="color: red">r</span>
+                    <span style="color: blueviolet">t"</span>
+                </a>
+            </h3>
+        </div>
+
+    </div>
+
+
+    <div class="placar">
+        <h3>
+            <p><span style="color: royalblue">&nbsp; &#402; &nbsp; <text id=showPhase></text></span></p>
+            <p><span style="color: red">&#129505; <text id=showLifes></text></span></p>
+            <p><span style="color: yellow">&#128176; <text id=showPoints></text> </span></p>
+            <p>
+                <a href="#" onclick="CtrlAudio();">
+                    <span style="color: yellow">&#127925;<text id=sInfoAudio></text></span>
+                </a>
+            </p>
+            <!-- Simbolos: https://www.w3schools.com/charsets/ref_emoji.asp -->
+            <!-- Teste exibe clock: <span style="color: yellow"> <div  class="showClock"></div> </span> -->
+        </h3>
+    </div>
+
+    <!-- Premiação - Imprime Figurinha(Diamante/moeda/medalha) da biblioteca Html5 -->
+    <div class="premio">
+        <h3>
+            <p><span><text id=showPremio></text></span></p>
+            <!-- Simbolos:diamante, 128142 https://www.w3schools.com/charsets/ref_emoji.asp -->
+        </h3>
+    </div>
+
+
+
+    <!--
+        <audio src="./audio/MarioBros-mudo.mp3" autoplay></audio>
+    
+        <audio controls>
+        <source src="horse.ogg" type="audio/ogg">
+        <source src="./audio/MarioBros.mp3" type="audio/mpeg">
+  
+      </audio>
+    -->
+</body>
+
+</html>
