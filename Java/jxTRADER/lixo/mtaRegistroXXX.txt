@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head>
+    <meta charset="utf-8"/>
+    <!-- Para evitar spam, esta página ainda não pode ser identificada pelos buscadores.
+         Assim que o site satisfizer certos critérios, ele será liberado para identificação.
+         Esta limitação não é válida para sites Pro e Business. -->
+    <meta name="robots" content="NOINDEX, NOFOLLOW"/>
+    <title>O que fazemos - Site de desenvolvimentos</title>
+<link rel="shortcut icon" href="//a2.jimstatic.com/s/img/favicon.ico"/>
+    <link rel="canonical" href="http://desenvolvimentos.jimdo.com/portugu&#xEA;s/o-que-fazemos/"/>
+
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no"/>
+    <link href="//a1.jimstatic.com/app/cdn/min/group/mobile_newui.css?1411565586" rel="stylesheet" type="text/css" media="all"/>
+    <link href="//a2.jimstatic.com/app/cdn/min/group/mobileTemplate1.css?1411565586" rel="stylesheet" type="text/css" media="all"/>
+    <link href="http://u.jimdo.com/www28/o/scaf0d20d4abcf26f/userlayout/css/main.css?t=1411567998" rel="stylesheet" type="text/css" id="jimdo_main_css"/>
+    <link href="http://u.jimdo.com/www28/o/scaf0d20d4abcf26f/userlayout/css/font.css?t=1411567998" rel="stylesheet" type="text/css" id="jimdo_font_css"/>
+
+<script>
+    //<![CDATA[
+        var jimdoData = {"isTestserver":false,"isLcJimdoCom":false,"isJimdoHelpCenter":false,"responseCode":200,"hasPrefetchHeader":false,"isProtectedPage":false,"cstok":"a1806eb8d0b185e717b93e9aa4d2c5b99c8fbf07","cacheJsKey":"1411562112","cacheCssKey":"1411565586","cdnUrl":"\/\/a0.jimstatic.com\/","minUrl":"\/\/a1.jimstatic.com\/app\/cdn\/min\/file\/","authUrl":"https:\/\/a.jimdo.com\/","webPath":"http:\/\/desenvolvimentos.jimdo.com\/","appUrl":"http:\/\/a.jimdo.com\/","webserver":"http:\/\/web28.jimdo.com\/","cmsLanguage":"pt_BR","isFreePackage":true,"mobile":true,"maintenance":false,"newModuleSystem":true,"isDevkitTemplateUsed":false,"websiteId":"scaf0d20d4abcf26f","pageId":2102863060,"packageId":1,"exfont":{"host":"jimdodev01.cpi.ad.jp"},"shop":{"deliveryTimeTexts":{"1":"Tempo de entrega: 1 - 3 dias","2":"Tempo de entrega: 3 - 5 dias","3":"5 a 8 dias para a entrega do produto"},"maintenance":false},"tr":{"gmap":{"searchNotFound":"N\u00e3o foi poss\u00edvel encontrar o endere\u00e7o inserido.","routeNotFound":"N\u00e3o foi poss\u00edvel calcular a rota. Motivos poss\u00edveis: o endere\u00e7o da origem n\u00e3o \u00e9 exato o suficiente ou est\u00e1 longe demais do endere\u00e7o do destinio. "},"shop":{"checkoutSubmit":{"next":"Pr\u00f3ximo passo","wait":"Por favor, aguarde"},"paypalError":"Infelizmente algo deu errado. Por favor, tente novamente!","cartBar":"Ao carrinho de compras","maintenance":"O servi\u00e7o da Loja-Online n\u00e3o est\u00e1 dispon\u00edvel no momento. Por favor, tente novamente mais tarde."},"common":{"timeout":"Ocorreu um erro. A a\u00e7\u00e3o selecionada foi cancelada. Por favor, tente novamente em alguns minutos."},"form":{"badRequest":"Ocorreu um erro: N\u00e3o foi poss\u00edvel transferir os seus dados. Por favor, tente novamente."}},"jQuery":"jimdoGen002"};
+    // ]]>
+</script>
+<link href="http://web28.jimdo.com/app/logstate2-css.php?site=scaf0d20d4abcf26f&amp;t=1411588815" rel="stylesheet" type="text/css"/>
+
+    <script src="//a2.jimstatic.com/app/cdn/min/group/mobile.js?1411562112"></script>
+
+</head>
+
+<body class="body cc-page cc-pagemode-default mobile cc-content-parent" id="page-2102863060">
+
+
+<div id="cc-m-container" class="cc-content-parent">
+    <header>
+                
+<div id="emotion-header" data-action="emoHeader" style="background: transparent;width: 850px; height: px;">
+            <a href="http://desenvolvimentos.jimdo.com/" style="border: 0; text-decoration: none; cursor: pointer;">
+    
+    <img src="http://u.jimdo.com/www28/o/scaf0d20d4abcf26f/emotion/crop/header.png?t=1411567999" id="emotion-header-img" alt=""/>
+
+
+
+    
+
+
+    <strong id="emotion-header-title" style="             left: 0%;             top: 36%;             font:  normal 49px/120% Raleway, cursive;             color: #FFFFFF;                         ">Eco•</strong>
+            </a>
+        </div>
+
+
+        <h1>O que fazemos - Site de desenvolvimentos</h1>
+            </header>
+    <div class="menubtn">
+        <a href="javascript:;">Menu</a>
+    </div>
+    <nav>
+        <div data-container="navigation"><div class="j-nav-variant-standard"><ul id="mainNav1" class="mainNav1"><li id="cc-nav-view-2102862860"><a href="/" class="parent level_1"><span>Português</span></a></li><li class="cc-nav-expand-open"><a href="javascript:;"><span></span></a><ul id="mainNav2" class="mainNav2"><li id="cc-nav-view-2102862960"><a href="/portugu&#xEA;s/sobre-n&#xF3;s/" class="level_2"><span>Sobre nós</span></a></li><li id="cc-nav-view-2102863060"><a href="/portugu&#xEA;s/o-que-fazemos/" class="current level_2"><span>O que fazemos</span></a></li><li id="cc-nav-view-2102863160"><a href="/portugu&#xEA;s/contato/" class="level_2"><span>Contato</span></a></li></ul></li><li id="cc-nav-view-2102863260"><a href="/ingl&#xEA;s/" class="level_1"><span>Inglês</span></a></li><li class="cc-nav-expand"><a href="javascript:;"><span></span></a><ul id="mainNav2" class="mainNav2"><li id="cc-nav-view-2102863360"><a href="/ingl&#xEA;s/nova-p&#xE1;gina/" class="level_2"><span>Nova página</span></a></li></ul></li><li id="cc-nav-view-2102863460"><a href="/espanhol/" class="level_1"><span>Espanhol</span></a></li><li class="cc-nav-expand"><a href="javascript:;"><span></span></a><ul id="mainNav2" class="mainNav2"><li id="cc-nav-view-2102863560"><a href="/espanhol/nova-p&#xE1;gina/" class="level_2"><span>Nova página</span></a></li></ul></li></ul></div></div>
+    </nav>
+
+    
+    <section id="tp-content" class="cc-content-parent">
+        <div id="content_area" data-container="content"><div id="content_start"></div>
+        
+        <div id="cc-matrix-2875170860"><div id="cc-m-10380885760" class="n j-header"><h1 class="" id="cc-m-header-10380885760">indo mais além</h1><script id="cc-m-reg-10380885760">// <![CDATA[
+    window.jimdoGen002.regModule("module_header", {"enableMultilineInput":"false","id":10380885760});
+// ]]>
+</script></div><div id="cc-m-10380886360" class="n j-spacing"><div class="cc-m-spacing-wrapper">
+
+    <div class="cc-m-spacer" style="height: 20px;">
+    
+</div>
+
+    </div>
+<script id="cc-m-reg-10380886360">// <![CDATA[
+    window.jimdoGen002.regModule("module_spacing", {"height":"20","minHeight":5,"maxHeight":500,"id":10380886360});
+// ]]>
+</script></div><div id="cc-m-10380888160" class="n j-hgrid">    <div class="cc-m-hgrid-column" style="width: 49%;">
+        <div id="cc-matrix-2875171660"><div id="cc-m-10380943360" class="n j-text"><p>
+    Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede
+    mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aen ean vulputate eleifend tellus.<br data-mce-bogus="1"/>
+</p></div></div>    </div>
+            <div class="cc-m-hgrid-separator" data-display="cms-only"><div></div></div>
+        <div class="cc-m-hgrid-column last" style="width: 49%;">
+        <div id="cc-matrix-2875171760"><div id="cc-m-10380888360" class="n j-text"><p>
+    Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede
+    mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aen ean vulputate eleifend tellus.
+</p></div></div>    </div>
+    
+<div class="cc-m-hgrid-overlay" data-display="cms-only"></div>
+
+<br class="cc-clear"/>
+
+<script id="cc-m-reg-10380888160">// <![CDATA[
+    window.jimdoGen002.regModule("module_hgrid", {"columnsCount":2,"minColumns":1,"maxColumns":6,"id":10380888160});
+// ]]>
+</script></div><div id="cc-m-10380888660" class="n j-spacing"><div class="cc-m-spacing-wrapper">
+
+    <div class="cc-m-spacer" style="height: 50px;">
+    
+</div>
+
+    </div>
+<script id="cc-m-reg-10380888660">// <![CDATA[
+    window.jimdoGen002.regModule("module_spacing", {"height":"50","minHeight":5,"maxHeight":500,"id":10380888660});
+// ]]>
+</script></div><div id="cc-m-10380886260" class="n j-header"><h2 class="" id="cc-m-header-10380886260">"Aenean leo
+    ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam 
+lorem ante, dapibus in, viverra quis, feugiat a, tells. Phasellus 
+viverra nulla ut metus varius."</h2><script id="cc-m-reg-10380886260">// <![CDATA[
+    window.jimdoGen002.regModule("module_header", {"enableMultilineInput":"false","id":10380886260});
+// ]]>
+</script></div></div>
+        
+        </div>
+    </section>
+
+    <section id="tp-sidebar">
+        <div data-container="sidebar"></div>
+    </section>
+    <div class="tp-changeview">
+        <a href="#">Devolta ao topo</a>
+        <a href="?mobile=0" rel="nofollow">Visão padrão</a>
+    </div>
+    <footer>
+        <div id="contentfooter" data-container="footer">
+
+    
+    <div class="leftrow">
+        <a rel="nofollow" href="http://desenvolvimentos.jimdo.com/about/">Aviso legal</a> | <a href="http://desenvolvimentos.jimdo.com/sitemap/">Mapa do site</a>    </div>
+
+    <div class="rightrow">
+        
+<span class="loggedin">
+    <a rel="nofollow" id="logout" target="_top" href="http://www28.jimdo.com/app/cms/logout.php">
+        Logout Jimdo    </a>
+    |
+        <a rel="nofollow" id="edit" target="_top" href="http://www28.jimdo.com/app/scaf0d20d4abcf26f/pb3526f68e8eb4b6c/?cmsEdit=1">Editar</a>
+</span>
+    </div>
+
+    <div id="fallback-own-ad" class="jimdo-free-footer-ad "> <a id="fallback-ad-logo" class="jimdo-footer-branding pull-left" href=" http://br.jimdo.com/?utm_source=jimdofree%20pt_BR&amp;utm_medium=footer%20ad&amp;utm_campaign=ownads%20fallback">Jimdo</a> <p class="pull-left"> <strong>Este site foi criado com Jimdo.</strong> Comece já a criar o seu. Grátis com <a id="fallback-ad-textlink" href=" http://br.jimdo.com/?utm_source=jimdofree%20pt_BR&amp;utm_medium=footer%20ad&amp;utm_campaign=ownads%20fallback" class="jimdolink">br.jimdo.com</a>. </p> </div> <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"> </script> <script type="text/javascript"> /*<![CDATA[*/ (function(){ var isJCVisitor = location.hash.indexOf('jc=') > -1; if(isJCVisitor) { var linkTemplate = 'http://br.jimdo.com/?utm_source={{source}}&utm_medium=footer%20ad&utm_campaign=jc%20via%20ownad'; var source = "garbled"; var passedSource = location.hash.match(/jc=([^&$]+)/); if (passedSource && passedSource[1]) { source = passedSource[1]; } var linkForAds = linkTemplate.replace('{{source}}', source); var logo = document.getElementById("fallback-ad-logo"); if (logo) { logo.href = linkForAds; } var text = document.getElementById("fallback-ad-textlink"); if (text) { text.href = linkForAds; } (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','_jc_tracker'); _jc_tracker('create', 'UA-54647672-1', { alwaysSendReferrer: true, cookieDomain: location.hostname, cookieName: '_jc_tracker', siteSpeedSampleRate: 50, anonymizeIp: true }); _jc_tracker('set', { 'page': location.hostname, 'campaignSource': source, 'campaignMedium': 'link pt_BR', 'campaignName': 'share your website' }); _jc_tracker('send', 'pageview'); /* set all doubleclick function to noop, or make them throw up so we keep the fallback */ GS_googleAddAdSenseService = GS_googleEnableAllServices = GA_googleAddSlot = GA_googleFillSlot = function(){}; GA_googleFetchAds = function(){throw new Error('peng')}; } }()); /* ]]> */ </script> <script type="text/javascript"> GS_googleAddAdSenseService("ca-pub-0286599533665329"); GS_googleEnableAllServices(); </script> <script type="text/javascript"> GA_googleAddSlot("ca-pub-0286599533665329", 'pt_BR_Footer_Ad'); </script> <script type="text/javascript"> (function(){ GA_googleFetchAds(); /*remove fallback add first*/ var fallback = document.getElementById("fallback-own-ad"); fallback.parentElement.removeChild(fallback); }()); </script> <script type="text/javascript"> GA_googleFillSlot('pt_BR_Footer_Ad'); </script>
+</div>
+
+    </footer>
+</div>
+
+
+
+    <div id="loginbox" class="hidden">
+
+    <div id="loginbox-header">
+
+    <a href="http://br.jimdo.com/">
+        <img class="logo" src="//a2.jimstatic.com/s/img/cc/login_jimdo.gif" alt=""/>
+    </a>
+
+    <a class="cc-close" title="Fechar este elemento" href="javascript:CC_close();">fechar</a>
+
+    <div class="c"></div>
+
+</div>
+
+<div id="loginbox-content">
+    
+        <div id="resendpw"></div>
+
+        <div id="loginboxOuter"></div>
+    </div>
+</div>
+<div id="loginbox-darklayer" class="hidden"></div>
+
+</body>
+
+
+
+</html>

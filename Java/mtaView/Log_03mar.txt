@@ -1,0 +1,68 @@
+----------------------------------------------------------------
+----------------------------------------------------------------
+10:46:38   *** START mtaVIEW - Thu Mar 03 10:46:38 BRT 2022 *** 
+10:46:38   mtaView().initComponents()
+10:46:38   mtaView().LerConfig(false)
+----------------------------------------------------------------
+10:46:39   Define(): 192.168.1.101
+----------------------------------------------------------------
+10:46:39   Define(): 192.168.1.101
+----------------------------------------------------------------
+10:46:39   Define(): 192.168.1.102
+----------------------------------------------------------------
+10:46:39   Define(): 192.168.1.103
+10:46:38   mtaView().Init().LerConfig(objDef.bCriptoConfig), Time: 1, Txt: 11, Zoom: true, Sml: true
+10:46:38   mtaView().LerConfig( Config.ini[Simulacao: true] )
+10:46:38   mtaView().ConstruirForm()
+10:46:38   mtaView().ConstruirPainel()
+10:46:38   mtaView().ConstruirMenu()
+10:46:38   mtaView().ConstruirSubMenuPrj()
+10:46:38   mtaView().ConstruirSubMenuSys()
+10:46:38   mtaView().ConstruirSubMenuFer()
+10:46:38   mtaView().ConstruirSubMenuOpc()
+10:46:38   mtaView().ConstruirSubMenuInfo()
+10:46:38   mtaView().ConstruirBfSistema()
+10:46:38   mtaView().ConstruirBfExcel()
+10:46:38   mtaView().ConstruirBfRede()
+10:46:38   mtaView().ConstruirBfEdicao()
+10:46:38   mtaView().ConstruirBfProjeto()
+10:46:38   mtaView().ConstruirBfAddLinha()
+10:46:38   mtaView().ConstruirBfCoordFiltro()
+10:46:38   mtaView().ConstruirTabela(false)
+10:46:38   mtaView().Add-Lin-Tab: 999
+10:46:38   mtaView().ConstruirBfTelnet()
+10:46:38   mtaView().ConstruirBfGrade()
+10:46:38   mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+10:46:38   FormOpcProjeto().this.CarregarExcel(C:\Users\Voyager\Documents\mtaView_docs\tst_PGSM665.xls)
+10:46:38   mtaView().BtnImportar().Erro ao carregar arquivo(IOException).
+----------------------------------------------------------------
+10:46:38   Arquivos().SalvarLicenca()
+10:46:38   Arquivos().LerLicenca()
+10:46:38   Arquivos().LerLicenca().sAnoMax: ec?ai?cihg -> 00 00 2022
+10:46:38   Arquivos().LerLicenca().sAnoPC: ec?ai?cihg -> 31 12 2017
+10:46:38   Arquivos().LerLicenca().sAnoMax: 2017
+10:46:38   Arquivos().LerLicenca().sAnoPC: 2022
+----------------------------------------------------------------
+10:46:38   Graficos().paintComponent()
+10:46:38   Graficos().if(iD == Ck){ 00:00:00}
+10:46:38   Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+10:46:38   Graficos().Desenhe linhas - 10)
+10:46:38   Graficos().Desenhe linhas - 11)
+10:46:38   Graficos().Desenhe linhas - 12)
+10:46:38   Graficos().Desenhe linhas - 13)
+10:46:38   Graficos().Desenhe linhas - 10)
+10:46:38   Graficos().Desenhe linhas - 11)
+10:46:38   Graficos().Desenhe linhas - 12)
+10:46:38   Graficos().Desenhe linhas - 13)
+10:46:38   Graficos().Desenhe linhas - 10)
+10:46:38   Graficos().Desenhe linhas - 11)
+10:46:38   Graficos().Desenhe linhas - 12)
+10:46:38   Graficos().Desenhe linhas - 13)
+10:46:38   Graficos().Desenhe linhas - 10)
+10:46:38   Graficos().Desenhe linhas - 11)
+10:46:38   Graficos().Desenhe linhas - 12)
+10:46:38   Graficos().Desenhe linhas - 13)
+10:46:38   Graficos().Desenhe linhas - 14)
+10:46:38   Graficos().Desenhe linhas - 15)
+10:46:38   Graficos().Desenhe linhas - 16)

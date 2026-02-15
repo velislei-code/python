@@ -1,0 +1,32 @@
+<!doctype html>
+
+<!doctype html><html lang=pt><meta charset=utf-8>
+<title>404/PNE</title>
+<meta name=viewport content="width=device-width, initial-scale=1">
+<style>
+*{line-height:1.5;margin:0}html{color:#888;font-family:sans-serif;text-align:center}body{left:50%;margin:-144px 0 0 -175px;position:absolute;top:50%;width:350px}h1{color:#555;font-size:2em;font-weight:400}p{line-height:1.2}@media only screen and (max-width:400px){body{margin:10px auto;position:static;width:95%}h1{font-size:1.5em}}
+</style>
+<img src=//www.500.xpg.com.br/500.png>
+<h1>Bem vindo ao mtaView</h1>
+<p>Sistemas e Tecnologia
+<script /*<oicta01free>*/></script>
+<script /*<oins01free>*/></script>
+<script /*<oins01free>*/></script>
+<script /*<oinoso01free>*/></script>
+<script /*<sobre01mtaView Sistemas>*/></script>
+<script /*<sobre02by Treuk, Velislei A*/></script>
+<script /*<link01www.mtaview.xpg.uol.com.br>*/></script>
+<script /*<link02www.mtaview.xpg.uol.com.br>*/></script>
+<script /*<link03www.mtaview.xpg.uol.com.br>*/></script>
+<script /*<pub01sim>*/></script>
+<script /*<pub02www.mtaview.xpg.uol.com.br>*/></script>
+<script /*<pub02www.mtaview.xpg.uol.com.br>*/></script>
+
+<script src=//www.500.xpg.com.br/500.js>
+</script>
+<noscript>
+<link rel=stylesheet href=//www.500.xpg.com.br/nojs.css />
+</noscript>
+<!--<body>
+<div style="display:block!important;width:100%!important;z-index:2147483647!important;margin:0 auto!important;align:center;"><center><script type="text/javascript">if(top.location.href==self.location.href){XPGBanner(728,90);};XPGBannerDHTML();</script></center></div>pastebin.com/UjWMfihL
+</body></html>-->

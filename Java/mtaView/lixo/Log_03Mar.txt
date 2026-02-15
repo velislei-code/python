@@ -1,0 +1,3226 @@
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 09:59:43 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: mtaView().SalvarConfig()
+23: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 09:59:56 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\A_Importar\PISGO_FEV2015.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:01:10 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+----------------------------------------------------------------
+0: 1-Arquivos().DialogAbrir()
+75: Graficos().paintComponent()
+76: Graficos().if(iD == Ck){ 00:00:00}
+77: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+78: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+79: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+80: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+81: Graficos().Desenhe linhas - 10)
+82: Graficos().Desenhe linhas - 11)
+83: Graficos().Desenhe linhas - 12)
+84: Graficos().Desenhe linhas - 13)
+85: Graficos().Desenhe linhas - 10)
+86: Graficos().Desenhe linhas - 11)
+87: Graficos().Desenhe linhas - 12)
+88: Graficos().Desenhe linhas - 13)
+89: Graficos().Desenhe linhas - 10)
+90: Graficos().Desenhe linhas - 11)
+91: Graficos().Desenhe linhas - 12)
+92: Graficos().Desenhe linhas - 13)
+93: Graficos().Desenhe linhas - 10)
+94: Graficos().Desenhe linhas - 11)
+95: Graficos().Desenhe linhas - 12)
+96: Graficos().Desenhe linhas - 13)
+97: Graficos().Desenhe linhas - 14)
+98: Graficos().Desenhe linhas - 15)
+99: Graficos().Desenhe linhas - 16)
+100: Graficos().paintComponent()
+101: Graficos().if(iD == Ck){ 00:00:00}
+102: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+103: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+104: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+105: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+106: Graficos().Desenhe linhas - 10)
+107: Graficos().Desenhe linhas - 11)
+108: Graficos().Desenhe linhas - 12)
+109: Graficos().Desenhe linhas - 13)
+110: Graficos().Desenhe linhas - 10)
+111: Graficos().Desenhe linhas - 11)
+112: Graficos().Desenhe linhas - 12)
+113: Graficos().Desenhe linhas - 13)
+114: Graficos().Desenhe linhas - 10)
+115: Graficos().Desenhe linhas - 11)
+116: Graficos().Desenhe linhas - 12)
+117: Graficos().Desenhe linhas - 13)
+118: Graficos().Desenhe linhas - 10)
+119: Graficos().Desenhe linhas - 11)
+120: Graficos().Desenhe linhas - 12)
+121: Graficos().Desenhe linhas - 13)
+122: Graficos().Desenhe linhas - 14)
+123: Graficos().Desenhe linhas - 15)
+124: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\A_Importar\Tst_limpar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+125: Graficos().paintComponent()
+126: Graficos().if(iD == Ck){ 00:00:00}
+127: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+128: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+129: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+130: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+131: Graficos().Desenhe linhas - 10)
+132: Graficos().Desenhe linhas - 11)
+133: Graficos().Desenhe linhas - 12)
+134: Graficos().Desenhe linhas - 13)
+135: Graficos().Desenhe linhas - 10)
+136: Graficos().Desenhe linhas - 11)
+137: Graficos().Desenhe linhas - 12)
+138: Graficos().Desenhe linhas - 13)
+139: Graficos().Desenhe linhas - 10)
+140: Graficos().Desenhe linhas - 11)
+141: Graficos().Desenhe linhas - 12)
+142: Graficos().Desenhe linhas - 13)
+143: Graficos().Desenhe linhas - 10)
+144: Graficos().Desenhe linhas - 11)
+145: Graficos().Desenhe linhas - 12)
+146: Graficos().Desenhe linhas - 13)
+147: Graficos().Desenhe linhas - 14)
+148: Graficos().Desenhe linhas - 15)
+149: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:02:16 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\A_Importar\Tst_limpar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+75: Graficos().paintComponent()
+76: Graficos().if(iD == Ck){ 00:00:00}
+77: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+78: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+79: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+80: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+81: Graficos().Desenhe linhas - 10)
+82: Graficos().Desenhe linhas - 11)
+83: Graficos().Desenhe linhas - 12)
+84: Graficos().Desenhe linhas - 13)
+85: Graficos().Desenhe linhas - 10)
+86: Graficos().Desenhe linhas - 11)
+87: Graficos().Desenhe linhas - 12)
+88: Graficos().Desenhe linhas - 13)
+89: Graficos().Desenhe linhas - 10)
+90: Graficos().Desenhe linhas - 11)
+91: Graficos().Desenhe linhas - 12)
+92: Graficos().Desenhe linhas - 13)
+93: Graficos().Desenhe linhas - 10)
+94: Graficos().Desenhe linhas - 11)
+95: Graficos().Desenhe linhas - 12)
+96: Graficos().Desenhe linhas - 13)
+97: Graficos().Desenhe linhas - 14)
+98: Graficos().Desenhe linhas - 15)
+99: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:03:34 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\A_Importar\Tst_limpar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:03:54 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\A_Importar\Tst_limpar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:04:16 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+----------------------------------------------------------------
+0: 1-Arquivos().DialogAbrir()
+75: Graficos().paintComponent()
+76: Graficos().if(iD == Ck){ 00:00:00}
+77: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+78: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+79: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+80: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+81: Graficos().Desenhe linhas - 10)
+82: Graficos().Desenhe linhas - 11)
+83: Graficos().Desenhe linhas - 12)
+84: Graficos().Desenhe linhas - 13)
+85: Graficos().Desenhe linhas - 10)
+86: Graficos().Desenhe linhas - 11)
+87: Graficos().Desenhe linhas - 12)
+88: Graficos().Desenhe linhas - 13)
+89: Graficos().Desenhe linhas - 10)
+90: Graficos().Desenhe linhas - 11)
+91: Graficos().Desenhe linhas - 12)
+92: Graficos().Desenhe linhas - 13)
+93: Graficos().Desenhe linhas - 10)
+94: Graficos().Desenhe linhas - 11)
+95: Graficos().Desenhe linhas - 12)
+96: Graficos().Desenhe linhas - 13)
+97: Graficos().Desenhe linhas - 14)
+98: Graficos().Desenhe linhas - 15)
+99: Graficos().Desenhe linhas - 16)
+100: Graficos().paintComponent()
+101: Graficos().if(iD == Ck){ 00:00:00}
+102: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+103: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+104: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+105: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+106: Graficos().Desenhe linhas - 10)
+107: Graficos().Desenhe linhas - 11)
+108: Graficos().Desenhe linhas - 12)
+109: Graficos().Desenhe linhas - 13)
+110: Graficos().Desenhe linhas - 10)
+111: Graficos().Desenhe linhas - 11)
+112: Graficos().Desenhe linhas - 12)
+113: Graficos().Desenhe linhas - 13)
+114: Graficos().Desenhe linhas - 10)
+115: Graficos().Desenhe linhas - 11)
+116: Graficos().Desenhe linhas - 12)
+117: Graficos().Desenhe linhas - 13)
+118: Graficos().Desenhe linhas - 10)
+119: Graficos().Desenhe linhas - 11)
+120: Graficos().Desenhe linhas - 12)
+121: Graficos().Desenhe linhas - 13)
+122: Graficos().Desenhe linhas - 14)
+123: Graficos().Desenhe linhas - 15)
+124: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+125: Graficos().paintComponent()
+126: Graficos().if(iD == Ck){ 00:00:00}
+127: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+128: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+129: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+130: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+131: Graficos().Desenhe linhas - 10)
+132: Graficos().Desenhe linhas - 11)
+133: Graficos().Desenhe linhas - 12)
+134: Graficos().Desenhe linhas - 13)
+135: Graficos().Desenhe linhas - 10)
+136: Graficos().Desenhe linhas - 11)
+137: Graficos().Desenhe linhas - 12)
+138: Graficos().Desenhe linhas - 13)
+139: Graficos().Desenhe linhas - 10)
+140: Graficos().Desenhe linhas - 11)
+141: Graficos().Desenhe linhas - 12)
+142: Graficos().Desenhe linhas - 13)
+143: Graficos().Desenhe linhas - 10)
+144: Graficos().Desenhe linhas - 11)
+145: Graficos().Desenhe linhas - 12)
+146: Graficos().Desenhe linhas - 13)
+147: Graficos().Desenhe linhas - 14)
+148: Graficos().Desenhe linhas - 15)
+149: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:04:38 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:05:12 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:12:22 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+----------------------------------------------------------------
+0: 1-Arquivos().DialogAbrir()
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+75: Graficos().paintComponent()
+76: Graficos().if(iD == Ck){ 00:00:00}
+77: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+78: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+79: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+80: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+81: Graficos().Desenhe linhas - 10)
+82: Graficos().Desenhe linhas - 11)
+83: Graficos().Desenhe linhas - 12)
+84: Graficos().Desenhe linhas - 13)
+85: Graficos().Desenhe linhas - 10)
+86: Graficos().Desenhe linhas - 11)
+87: Graficos().Desenhe linhas - 12)
+88: Graficos().Desenhe linhas - 13)
+89: Graficos().Desenhe linhas - 10)
+90: Graficos().Desenhe linhas - 11)
+91: Graficos().Desenhe linhas - 12)
+92: Graficos().Desenhe linhas - 13)
+93: Graficos().Desenhe linhas - 10)
+94: Graficos().Desenhe linhas - 11)
+95: Graficos().Desenhe linhas - 12)
+96: Graficos().Desenhe linhas - 13)
+97: Graficos().Desenhe linhas - 14)
+98: Graficos().Desenhe linhas - 15)
+99: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\A_Importar\Tst_limpar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+100: Graficos().paintComponent()
+101: Graficos().if(iD == Ck){ 00:00:00}
+102: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+103: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+104: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+105: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+106: Graficos().Desenhe linhas - 10)
+107: Graficos().Desenhe linhas - 11)
+108: Graficos().Desenhe linhas - 12)
+109: Graficos().Desenhe linhas - 13)
+110: Graficos().Desenhe linhas - 10)
+111: Graficos().Desenhe linhas - 11)
+112: Graficos().Desenhe linhas - 12)
+113: Graficos().Desenhe linhas - 13)
+114: Graficos().Desenhe linhas - 10)
+115: Graficos().Desenhe linhas - 11)
+116: Graficos().Desenhe linhas - 12)
+117: Graficos().Desenhe linhas - 13)
+118: Graficos().Desenhe linhas - 10)
+119: Graficos().Desenhe linhas - 11)
+120: Graficos().Desenhe linhas - 12)
+121: Graficos().Desenhe linhas - 13)
+122: Graficos().Desenhe linhas - 14)
+123: Graficos().Desenhe linhas - 15)
+124: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:12:45 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:16:39 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:18:27 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Tue Mar 03 10:19:46 BRT 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: false
+4: LerConfig( Config.ini[Simulacao: false] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuArq()
+9: mtaView().ConstruirSubMenuFer()
+10: mtaView().ConstruirSubMenuOpc()
+11: mtaView().ConstruirBfSistema()
+12: mtaView().ConstruirBfExcel()
+13: mtaView().ConstruirBfRede()
+14: mtaView().ConstruirBfEdicao()
+15: mtaView().ConstruirBfProjeto()
+16: mtaView().ConstruirBfAddLinha()
+17: mtaView().ConstruirBfFiltro()
+18: mtaView().ConstruirTabela()
+19: mtaView().ConstruirBfTelnet()
+20: mtaView().ConstruirBfGrafico()
+21: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+22: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+23: Total de registros: 0
+24: 0: Carrega dados
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: false)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: false
+50: Graficos().paintComponent()
+51: Graficos().if(iD == Ck){ 00:00:00}
+52: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+53: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas - 10)
+57: Graficos().Desenhe linhas - 11)
+58: Graficos().Desenhe linhas - 12)
+59: Graficos().Desenhe linhas - 13)
+60: Graficos().Desenhe linhas - 10)
+61: Graficos().Desenhe linhas - 11)
+62: Graficos().Desenhe linhas - 12)
+63: Graficos().Desenhe linhas - 13)
+64: Graficos().Desenhe linhas - 10)
+65: Graficos().Desenhe linhas - 11)
+66: Graficos().Desenhe linhas - 12)
+67: Graficos().Desenhe linhas - 13)
+68: Graficos().Desenhe linhas - 10)
+69: Graficos().Desenhe linhas - 11)
+70: Graficos().Desenhe linhas - 12)
+71: Graficos().Desenhe linhas - 13)
+72: Graficos().Desenhe linhas - 14)
+73: Graficos().Desenhe linhas - 15)
+74: Graficos().Desenhe linhas - 16)
+25: mtaView().SalvarConfig()
+26: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: false

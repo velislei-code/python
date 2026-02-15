@@ -1,0 +1,119 @@
+----------------------------------------------------------------
+----------------------------------------------------------------
+18:23:07   *** START mtaVIEW - Sat Feb 14 18:23:07 BRT 2026 *** 
+18:23:07   mtaView().initComponents()
+18:23:07   mtaView().LerConfig(false)
+----------------------------------------------------------------
+18:23:07   Define(): 192.168.1.101
+----------------------------------------------------------------
+18:23:07   Define(): 192.168.1.101
+----------------------------------------------------------------
+18:23:07   Define(): 192.168.1.102
+----------------------------------------------------------------
+18:23:07   Define(): 192.168.1.103
+18:23:07   mtaView().Init().LerConfig(objDef.bCriptoConfig), Time: 1, Txt: 11, Zoom: true, Sml: true
+18:23:07   mtaView().LerConfig( Config.ini[Simulacao: true] )
+18:23:07   mtaView().ConstruirForm()
+18:23:07   mtaView().ConstruirPainel()
+18:23:07   mtaView().ConstruirMenu()
+18:23:07   mtaView().ConstruirSubMenuPrj()
+18:23:07   mtaView().ConstruirSubMenuSys()
+18:23:07   mtaView().ConstruirSubMenuFer()
+18:23:07   mtaView().ConstruirSubMenuOpc()
+18:23:07   mtaView().ConstruirSubMenuInfo()
+18:23:07   mtaView().ConstruirBfSistema()
+18:23:07   mtaView().ConstruirBfExcel()
+18:23:07   mtaView().ConstruirBfRede()
+18:23:07   mtaView().ConstruirBfEdicao()
+18:23:07   mtaView().ConstruirBfProjeto()
+18:23:07   mtaView().ConstruirBfAddLinha()
+18:23:07   mtaView().ConstruirBfCoordFiltro()
+18:23:07   mtaView().ConstruirTabela(false)
+18:23:07   mtaView().ConstruirBfTelnet()
+18:23:07   mtaView().ConstruirBfGrade()
+18:23:07   mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+18:23:07   FormOpcProjeto().this.CarregarExcel(C:\Users\Voyager\Documents\mtaView_docs\tst_PGSM665.xls)
+18:23:07   mtaView().BtnImportar().Erro ao carregar arquivo(IOException).
+----------------------------------------------------------------
+18:23:07   Arquivos().SalvarLicenca()
+18:23:07   Arquivos().SalvarLicenca() -> Erro ao criar arquivo[java.io.IOException: O sistema não pode encontrar o caminho especificado - e002a]
+18:23:07   Arquivos().LerLicenca()
+18:23:07   Arquivos().LerLicenca().sAnoMax: ec?ai?cihg -> 00 00 2026
+18:23:07   Arquivos().LerLicenca().sAnoPC: ec?ai?cihg -> 31 12 2017
+18:23:07   Arquivos().LerLicenca().sAnoMax: 2017
+18:23:07   Arquivos().LerLicenca().sAnoPC: 2026
+----------------------------------------------------------------
+18:23:07   Graficos().paintComponent()
+18:23:07   Graficos().if(iD == Ck){ 00:00:00}
+18:23:07   Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 14)
+18:23:07   Graficos().Desenhe linhas - 15)
+18:23:07   Graficos().Desenhe linhas - 16)
+18:23:07   Graficos().paintComponent()
+18:23:07   Graficos().if(iD == Ck){ 00:00:00}
+18:23:07   Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 10)
+18:23:07   Graficos().Desenhe linhas - 11)
+18:23:07   Graficos().Desenhe linhas - 12)
+18:23:07   Graficos().Desenhe linhas - 13)
+18:23:07   Graficos().Desenhe linhas - 14)
+18:23:07   Graficos().Desenhe linhas - 15)
+18:23:07   Graficos().Desenhe linhas - 16)
+----------------------------------------------------------------
+18:23:07   Ferramentas().LinToMd(): iLinAtual: 10
+18:23:07   Ferramentas().LinToMd(): iSeq: 2
+18:23:07   Ferramentas().LinToMd(): iMd: 2
+18:23:07   Ferramentas().LinToMd(10): SEQ2, MD2
+18:23:07   mtaView().Tabela.addMouseListener(new MouseAdapter()
+18:23:07   mtaView().AtivarTestes()
+18:23:07   mtaView().AtivarTestes().PeguePlanXls(false)
+18:23:07   mtaView().LerConfig(false)
+----------------------------------------------------------------
+18:23:16   Define(): 192.168.1.101
+----------------------------------------------------------------
+18:23:16   Define(): 192.168.1.101
+----------------------------------------------------------------
+18:23:16   Define(): 192.168.1.102
+----------------------------------------------------------------
+18:23:16   Define(): 192.168.1.103
+18:23:07   mtaView().AtivarTestes()->PeguePlanXls(false)
+18:23:07   Arquivos().PegueAbreDirArq()->null
+18:23:07   Arquivos().FixeAbreDirArq(null)
+18:23:07   mtaView().AtivarTestes().iNumLin: 1001
+18:23:07   Ferramentas().ContarReg().Contem: )
+18:23:07   Ferramentas().ContarReg() = 0
+18:23:07   Total de registros: 0
+18:23:07   0: Carrega dados
+18:23:07   FormOpcProjeto().ConstruirPnModem(Simulação: true)
+18:23:07   BtnOK()
+----------------------------------------------------------------
+18:23:07   Ferramentas().ContarReg() = 0

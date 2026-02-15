@@ -1,0 +1,8 @@
+Biblioteca de manipulação MySQL
+http://dev.mysql.com/downloads/connector/j/
+
+Dentro do projeto adicione a Biblioteca em:
+	JRE System(Bt Direito do mouse)
+		->Build Path
+			->Config Build Path
+				->Add Externs JAR´s

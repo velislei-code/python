@@ -1,0 +1,102 @@
+----------------------------------------------------------------
+----------------------------------------------------------------
+08:37:12   *** START mtaVIEW - Thu Sep 26 08:37:12 BRT 2019 *** 
+08:37:12   mtaView().initComponents()
+08:37:12   mtaView().LerConfig(false)
+----------------------------------------------------------------
+08:37:12   Define(): 192.168.1.101
+----------------------------------------------------------------
+08:37:12   Define(): 192.168.1.101
+----------------------------------------------------------------
+08:37:12   Define(): 192.168.1.102
+----------------------------------------------------------------
+08:37:12   Define(): 192.168.1.103
+08:37:12   mtaView().Init().LerConfig(objDef.bCriptoConfig), Time: 1, Txt: 11, Zoom: true, Sml: true
+08:37:12   mtaView().LerConfig( Config.ini[Simulacao: true] )
+08:37:12   mtaView().ConstruirForm()
+08:37:12   mtaView().ConstruirPainel()
+08:37:12   mtaView().ConstruirMenu()
+08:37:12   mtaView().ConstruirSubMenuPrj()
+08:37:12   mtaView().ConstruirSubMenuSys()
+08:37:12   mtaView().ConstruirSubMenuFer()
+08:37:12   mtaView().ConstruirSubMenuOpc()
+08:37:12   mtaView().ConstruirSubMenuInfo()
+08:37:12   mtaView().ConstruirBfSistema()
+08:37:12   mtaView().ConstruirBfExcel()
+08:37:12   mtaView().ConstruirBfRede()
+08:37:12   mtaView().ConstruirBfEdicao()
+08:37:12   mtaView().ConstruirBfProjeto()
+08:37:12   mtaView().ConstruirBfAddLinha()
+08:37:12   mtaView().ConstruirBfCoordFiltro()
+08:37:12   mtaView().ConstruirTabela(false)
+08:37:12   mtaView().Add-Lin-Tab: 999
+08:37:12   mtaView().ConstruirBfTelnet()
+08:37:12   mtaView().ConstruirBfGrade()
+08:37:12   mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+08:37:12   FormOpcProjeto().this.CarregarExcel(C:\Users\Voyager\Documents\mtaView_docs\tst_PGSM665.xls)
+08:37:12   mtaView().BtnImportar().Erro ao carregar arquivo(IOException).
+----------------------------------------------------------------
+08:37:12   Arquivos().SalvarLicenca()
+08:37:12   Arquivos().LerLicenca()
+08:37:12   Arquivos().LerLicenca().sAnoMax: ec?ai?cihg -> 00 00 2019
+08:37:12   Arquivos().LerLicenca().sAnoPC: ec?ai?cihg -> 31 12 2017
+08:37:12   Arquivos().LerLicenca().sAnoMax: 2017
+08:37:12   Arquivos().LerLicenca().sAnoPC: 2019
+----------------------------------------------------------------
+08:37:12   Graficos().paintComponent()
+08:37:12   Graficos().if(iD == Ck){ 00:00:00}
+08:37:12   Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 14)
+08:37:12   Graficos().Desenhe linhas - 15)
+08:37:12   Graficos().Desenhe linhas - 16)
+08:37:12   VerSincronismo()
+----------------------------------------------------------------
+08:37:12   DLinkOpticom().Simula(Cmd: Status)
+08:37:12   Simula SINC.HubDlink: DOWN
+----------------------------------------------------------------
+08:37:12   Dsl2500e().Simula(Cmd: Status)
+08:37:12   Simula SINC.DSL2500e: DOWN
+08:37:12   Dsl2500e().Simula(Cmd: Status)
+08:37:12   Simula SINC.DSL2500e: UP
+08:37:12   Dsl2500e().Simula(Cmd: Status)
+08:37:12   Simula SINC.DSL2500e: DOWN
+08:37:12   Graficos().repinte()
+08:37:12   Graficos().paintComponent()
+08:37:12   Graficos().if(iD == Ck){ 00:00:00}
+08:37:12   Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 10)
+08:37:12   Graficos().Desenhe linhas - 11)
+08:37:12   Graficos().Desenhe linhas - 12)
+08:37:12   Graficos().Desenhe linhas - 13)
+08:37:12   Graficos().Desenhe linhas - 14)
+08:37:12   Graficos().Desenhe linhas - 15)
+08:37:12   Graficos().Desenhe linhas - 16)

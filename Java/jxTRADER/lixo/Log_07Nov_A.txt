@@ -1,0 +1,2720 @@
+----------------------------------------------------------------
+0: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+
+----------------------------------------------------------------
+0: *** START mtaVIEW - Sat Nov 07 16:59:34 BRST 2015 *** 
+1: mtaView().initComponents()
+2: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+3: mtaView().Init().LerConfig(), T: 1, Txt: 11, Z: true, Sml: true
+4: LerConfig( Config.ini[Simulacao: true] )
+5: mtaView().ConstruirForm()
+6: mtaView().ConstruirPainel()
+7: mtaView().ConstruirMenu()
+8: mtaView().ConstruirSubMenuPrj()
+9: mtaView().ConstruirSubMenuSys()
+10: mtaView().ConstruirSubMenuFer()
+11: mtaView().ConstruirSubMenuOpc()
+12: mtaView().ConstruirSubMenuInfo()
+13: mtaView().ConstruirBfSistema()
+14: mtaView().ConstruirBfExcel()
+15: mtaView().ConstruirBfRede()
+16: mtaView().ConstruirBfEdicao()
+17: mtaView().ConstruirBfProjeto()
+18: mtaView().ConstruirBfAddLinha()
+19: mtaView().ConstruirBfCoordFiltro()
+20: mtaView().ConstruirTabela()
+21: mtaView().ConstruirBfTelnet()
+22: mtaView().ConstruirBfGrafico()
+23: mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+0: Graficos().paintComponent()
+1: Graficos().if(iD == Ck){ 00:00:00}
+2: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+3: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+4: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+5: Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+6: Graficos().Desenhe linhas - 10)
+7: Graficos().Desenhe linhas - 11)
+8: Graficos().Desenhe linhas - 12)
+9: Graficos().Desenhe linhas - 13)
+10: Graficos().Desenhe linhas - 10)
+11: Graficos().Desenhe linhas - 11)
+12: Graficos().Desenhe linhas - 12)
+13: Graficos().Desenhe linhas - 13)
+14: Graficos().Desenhe linhas - 10)
+15: Graficos().Desenhe linhas - 11)
+16: Graficos().Desenhe linhas - 12)
+17: Graficos().Desenhe linhas - 13)
+18: Graficos().Desenhe linhas - 10)
+19: Graficos().Desenhe linhas - 11)
+20: Graficos().Desenhe linhas - 12)
+21: Graficos().Desenhe linhas - 13)
+22: Graficos().Desenhe linhas - 14)
+23: Graficos().Desenhe linhas - 15)
+24: Graficos().Desenhe linhas - 16)
+1: FormOpcProjeto().ConstruirPnModem(Simulacao: true)
+25: Graficos().paintComponent()
+26: Graficos().if(iD == Ck){ 00:00:00}
+27: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+28: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+29: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+30: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+31: Graficos().Desenhe linhas - 10)
+32: Graficos().Desenhe linhas - 11)
+33: Graficos().Desenhe linhas - 12)
+34: Graficos().Desenhe linhas - 13)
+35: Graficos().Desenhe linhas - 10)
+36: Graficos().Desenhe linhas - 11)
+37: Graficos().Desenhe linhas - 12)
+38: Graficos().Desenhe linhas - 13)
+39: Graficos().Desenhe linhas - 10)
+40: Graficos().Desenhe linhas - 11)
+41: Graficos().Desenhe linhas - 12)
+42: Graficos().Desenhe linhas - 13)
+43: Graficos().Desenhe linhas - 10)
+44: Graficos().Desenhe linhas - 11)
+45: Graficos().Desenhe linhas - 12)
+46: Graficos().Desenhe linhas - 13)
+47: Graficos().Desenhe linhas - 14)
+48: Graficos().Desenhe linhas - 15)
+49: Graficos().Desenhe linhas - 16)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+2: mtaView().CarregarExcel(C:\Users\Soiuz\Documents\mtaView_docs\Teste_Importar.xls)
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+3: FormOpcProjeto().SalvarConfig()
+4: FormOpcProjeto().Tempo(1)
+5: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: false, Sml: true
+24: Arquivos().LerConfig()
+----------------------------------------------------------------
+0: Define(): 192.168.1.101
+----------------------------------------------------------------
+0: Define(): 192.168.1.102
+----------------------------------------------------------------
+0: Define(): 192.168.1.103
+----------------------------------------------------------------
+0: Define(): 192.168.1.104
+----------------------------------------------------------------
+0: Ferramentas().ContarReg()
+1: Ferramentas().ContarReg() - 6
+25: Total de registros: 42
+26: mtaView().DeletarLinha(0)
+27: Atualiza clock(gf): 00:00:00
+50: Graficos().setClock( 00:00:00)
+51: Graficos().repinte()
+28: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+29: mtaView().VerFimTeste()
+52: Graficos().paintComponent()
+53: Graficos().if(iD == Ck){ 00:00:00}
+54: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+55: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+56: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+57: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+58: Graficos().Desenhe linhas - 10)
+59: Graficos().Desenhe linhas - 11)
+60: Graficos().Desenhe linhas - 12)
+61: Graficos().Desenhe linhas - 13)
+62: Graficos().Desenhe linhas - 10)
+63: Graficos().Desenhe linhas - 11)
+64: Graficos().Desenhe linhas - 12)
+65: Graficos().Desenhe linhas - 13)
+66: Graficos().Desenhe linhas - 10)
+67: Graficos().Desenhe linhas - 11)
+68: Graficos().Desenhe linhas - 12)
+69: Graficos().Desenhe linhas - 13)
+70: Graficos().Desenhe linhas - 10)
+71: Graficos().Desenhe linhas - 11)
+72: Graficos().Desenhe linhas - 12)
+73: Graficos().Desenhe linhas - 13)
+74: Graficos().Desenhe linhas - 16)
+30: Atualiza clock(gf): 00:00:01
+75: Graficos().setClock( 00:00:01)
+76: Graficos().repinte()
+31: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+2: Ferramentas().SeqToLin(0, 0): 0
+32: mtaView().DispararTesteV2(V: 1, M:0, T: 1, L: 0)
+3: Ferramentas().ContarReg()
+4: Ferramentas().ContarReg() - 6
+5: Ferramentas().LinToMd(): iLinAtual: 0
+6: Ferramentas().LinToMd(): iSeq: 0
+7: Ferramentas().LinToMd(): iMd: 0
+8: Ferramentas().LinToMd(0): SEQ0, MD0
+33: mtaView().DispararTesteV2() - 002b
+34: mtaView().DispararTesteV2() - 002c
+35: mtaView().DispararTesteV2( iLinMD:0, iTotalLinTab: 999
+36: mtaView().DispararTesteV2() - 003
+37: mtaView().DispararTesteV2(V: 1, M:0, T: 1, L: 0): Testar = Sim 
+38: MD[0], IP: 192.168.1.101, Cmd: Status
+----------------------------------------------------------------
+0: DLinkOpticom().Simula(Cmd: Status)
+1: Simula SINC.HubDlink: DOWN
+39: LerTArea(V: 1 Md: 0, Teste: 1, LinMD: 0)
+40: LerTArea(Num.Lin: 110 )
+41: ------------------------------------------------------
+2: DlinkOpticom().Decode(  > adsl info --stats )
+3: DlinkOpticom().Decode( adsl: ADSL driver and PHY status )
+4: DlinkOpticom().Decode( Status: Idle )
+5: DlinkOpticom().Decode( Retrain Reason: 0 )
+6: DlinkOpticom().Decode(  )
+7: DlinkOpticom().Decode( Link Power State:       LO )
+8: DlinkOpticom().Decode( Total time = 11 min 45 sec )
+9: DlinkOpticom().Decode( FEC:            0               0 )
+10: DlinkOpticom().Decode( CRC:            0               0 )
+11: DlinkOpticom().Decode( ES:             0               0 )
+12: DlinkOpticom().Decode( SES:            0               0 )
+13: DlinkOpticom().Decode( UAS:          328             328 )
+14: DlinkOpticom().Decode( LOS:            0               0 )
+15: DlinkOpticom().Decode( LOF:            0               0 )
+16: DlinkOpticom().Decode( Latest 15 minutes time = 5 min 45 sec )
+17: DlinkOpticom().Decode( FEC:            0               0 )
+18: DlinkOpticom().Decode( CRC:            0               0 )
+19: DlinkOpticom().Decode( ES:             0               0 )
+20: DlinkOpticom().Decode( SES:            0               0 )
+21: DlinkOpticom().Decode( UAS:          328             328 )
+22: DlinkOpticom().Decode( LOS:            0               0 )
+23: DlinkOpticom().Decode( LOF:            0               0 )
+24: DlinkOpticom().Decode( Previous 15 minutes time = 0 sec )
+25: DlinkOpticom().Decode( FEC:            0               0 )
+26: DlinkOpticom().Decode( CRC:            0               0 )
+27: DlinkOpticom().Decode( ES:             0               0 )
+28: DlinkOpticom().Decode( SES:            0               0 )
+29: DlinkOpticom().Decode( UAS:          328             328 )
+30: DlinkOpticom().Decode( LOS:            0               0 )
+31: DlinkOpticom().Decode( LOF:            0               0 )
+32: DlinkOpticom().Decode( Latest 1 day time = 5 min 45 sec )
+33: DlinkOpticom().Decode( FEC:            0               0 )
+34: DlinkOpticom().Decode( CRC:            0               0 )
+35: DlinkOpticom().Decode( ES:             0               0 )
+36: DlinkOpticom().Decode( SES:            0               0 )
+37: DlinkOpticom().Decode( UAS:          328             328 )
+38: DlinkOpticom().Decode( LOS:            0               0 )
+39: DlinkOpticom().Decode( LOF:            0               0 )
+40: DlinkOpticom().Decode( Previous 1 day time = 0 sec )
+41: DlinkOpticom().Decode( FEC:            0               0 )
+42: DlinkOpticom().Decode( CRC:            0               0 )
+43: DlinkOpticom().Decode( ES:             0               0 )
+44: DlinkOpticom().Decode( SES:            0               0 )
+45: DlinkOpticom().Decode( UAS:          328               0 )
+46: DlinkOpticom().Decode( LOS:            0               0 )
+47: DlinkOpticom().Decode( LOF:            0               0 )
+48: DlinkOpticom().Decode( Since Link time = 4 min 45 sec )
+49: DlinkOpticom().Decode( FEC:            0               0 )
+50: DlinkOpticom().Decode( CRC:            0               0 )
+51: DlinkOpticom().Decode( ES:             0               0 )
+52: DlinkOpticom().Decode( SES:            0               0 )
+53: DlinkOpticom().Decode( UAS:          328               0 )
+54: DlinkOpticom().Decode( LOS:            0               0 )
+55: DlinkOpticom().Decode( LOF:            0               0 )
+56: DlinkOpticom().Decode(  > )
+57: DlinkOpticom().Decode(  > adsl info --stats )
+58: DlinkOpticom().Decode( adsl: ADSL driver and PHY status )
+59: DlinkOpticom().Decode( Status: Idle )
+60: DlinkOpticom().Decode( Retrain Reason: 0 )
+61: DlinkOpticom().Decode(  )
+62: DlinkOpticom().Decode( Link Power State:       LO )
+63: DlinkOpticom().Decode( Total time = 11 min 45 sec )
+64: DlinkOpticom().Decode( FEC:            0               0 )
+65: DlinkOpticom().Decode( CRC:            0               0 )
+66: DlinkOpticom().Decode( ES:             0               0 )
+67: DlinkOpticom().Decode( SES:            0               0 )
+68: DlinkOpticom().Decode( UAS:          328             328 )
+69: DlinkOpticom().Decode( LOS:            0               0 )
+70: DlinkOpticom().Decode( LOF:            0               0 )
+71: DlinkOpticom().Decode( Latest 15 minutes time = 5 min 45 sec )
+72: DlinkOpticom().Decode( FEC:            0               0 )
+73: DlinkOpticom().Decode( CRC:            0               0 )
+74: DlinkOpticom().Decode( ES:             0               0 )
+75: DlinkOpticom().Decode( SES:            0               0 )
+76: DlinkOpticom().Decode( UAS:          328             328 )
+77: DlinkOpticom().Decode( LOS:            0               0 )
+78: DlinkOpticom().Decode( LOF:            0               0 )
+79: DlinkOpticom().Decode( Previous 15 minutes time = 0 sec )
+80: DlinkOpticom().Decode( FEC:            0               0 )
+81: DlinkOpticom().Decode( CRC:            0               0 )
+82: DlinkOpticom().Decode( ES:             0               0 )
+83: DlinkOpticom().Decode( SES:            0               0 )
+84: DlinkOpticom().Decode( UAS:          328             328 )
+85: DlinkOpticom().Decode( LOS:            0               0 )
+86: DlinkOpticom().Decode( LOF:            0               0 )
+87: DlinkOpticom().Decode( Latest 1 day time = 5 min 45 sec )
+88: DlinkOpticom().Decode( FEC:            0               0 )
+89: DlinkOpticom().Decode( CRC:            0               0 )
+90: DlinkOpticom().Decode( ES:             0               0 )
+91: DlinkOpticom().Decode( SES:            0               0 )
+92: DlinkOpticom().Decode( UAS:          328             328 )
+93: DlinkOpticom().Decode( LOS:            0               0 )
+94: DlinkOpticom().Decode( LOF:            0               0 )
+95: DlinkOpticom().Decode( Previous 1 day time = 0 sec )
+96: DlinkOpticom().Decode( FEC:            0               0 )
+97: DlinkOpticom().Decode( CRC:            0               0 )
+98: DlinkOpticom().Decode( ES:             0               0 )
+99: DlinkOpticom().Decode( SES:            0               0 )
+100: DlinkOpticom().Decode( UAS:          328               0 )
+101: DlinkOpticom().Decode( LOS:            0               0 )
+102: DlinkOpticom().Decode( LOF:            0               0 )
+103: DlinkOpticom().Decode( Since Link time = 4 min 45 sec )
+104: DlinkOpticom().Decode( FEC:            0               0 )
+105: DlinkOpticom().Decode( CRC:            0               0 )
+106: DlinkOpticom().Decode( ES:             0               0 )
+107: DlinkOpticom().Decode( SES:            0               0 )
+108: DlinkOpticom().Decode( UAS:          328               0 )
+109: DlinkOpticom().Decode( LOS:            0               0 )
+110: DlinkOpticom().Decode( LOF:            0               0 )
+111: DlinkOpticom().Decode(  > )
+42: ------------------------------------------------------
+43: VerificarDecode(LinMD: 0)
+44: LerTArea(bSinc[0] = false,ACTIVATING.)
+45: LerTArea(bAut[0] = false,)
+46: LerTArea(bPing[0] = false,)
+47: Entrando -> SincUP[0]
+48: mtaView().VerFimTeste()
+77: Graficos().paintComponent()
+78: Graficos().if(iD == Ck){ 00:00:01}
+79: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+80: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+81: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+82: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+83: Graficos().Desenhe linhas - 10)
+84: Graficos().Desenhe linhas - 11)
+85: Graficos().Desenhe linhas - 12)
+86: Graficos().Desenhe linhas - 13)
+87: Graficos().Desenhe linhas - 10)
+88: Graficos().Desenhe linhas - 11)
+89: Graficos().Desenhe linhas - 12)
+90: Graficos().Desenhe linhas - 13)
+91: Graficos().Desenhe linhas - 10)
+92: Graficos().Desenhe linhas - 11)
+93: Graficos().Desenhe linhas - 12)
+94: Graficos().Desenhe linhas - 13)
+95: Graficos().Desenhe linhas - 10)
+96: Graficos().Desenhe linhas - 11)
+97: Graficos().Desenhe linhas - 12)
+98: Graficos().Desenhe linhas - 13)
+99: Graficos().Desenhe linhas - 16)
+49: Atualiza clock(gf): 00:00:02
+100: Graficos().setClock( 00:00:02)
+101: Graficos().repinte()
+50: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+51: mtaView().VerFimTeste()
+102: Graficos().paintComponent()
+103: Graficos().if(iD == Ck){ 00:00:02}
+104: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+105: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+106: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+107: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+108: Graficos().Desenhe linhas - 10)
+109: Graficos().Desenhe linhas - 11)
+110: Graficos().Desenhe linhas - 12)
+111: Graficos().Desenhe linhas - 13)
+112: Graficos().Desenhe linhas - 10)
+113: Graficos().Desenhe linhas - 11)
+114: Graficos().Desenhe linhas - 12)
+115: Graficos().Desenhe linhas - 13)
+116: Graficos().Desenhe linhas - 10)
+117: Graficos().Desenhe linhas - 11)
+118: Graficos().Desenhe linhas - 12)
+119: Graficos().Desenhe linhas - 13)
+120: Graficos().Desenhe linhas - 10)
+121: Graficos().Desenhe linhas - 11)
+122: Graficos().Desenhe linhas - 12)
+123: Graficos().Desenhe linhas - 13)
+124: Graficos().Desenhe linhas - 16)
+52: Atualiza clock(gf): 00:00:03
+125: Graficos().setClock( 00:00:03)
+126: Graficos().repinte()
+53: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+54: mtaView().VerFimTeste()
+127: Graficos().paintComponent()
+128: Graficos().if(iD == Ck){ 00:00:03}
+129: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+130: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+131: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+132: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+133: Graficos().Desenhe linhas - 10)
+134: Graficos().Desenhe linhas - 11)
+135: Graficos().Desenhe linhas - 12)
+136: Graficos().Desenhe linhas - 13)
+137: Graficos().Desenhe linhas - 10)
+138: Graficos().Desenhe linhas - 11)
+139: Graficos().Desenhe linhas - 12)
+140: Graficos().Desenhe linhas - 13)
+141: Graficos().Desenhe linhas - 10)
+142: Graficos().Desenhe linhas - 11)
+143: Graficos().Desenhe linhas - 12)
+144: Graficos().Desenhe linhas - 13)
+145: Graficos().Desenhe linhas - 10)
+146: Graficos().Desenhe linhas - 11)
+147: Graficos().Desenhe linhas - 12)
+148: Graficos().Desenhe linhas - 13)
+149: Graficos().Desenhe linhas - 16)
+55: Atualiza clock(gf): 00:00:04
+150: Graficos().setClock( 00:00:04)
+151: Graficos().repinte()
+56: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+57: mtaView().VerFimTeste()
+152: Graficos().paintComponent()
+153: Graficos().if(iD == Ck){ 00:00:04}
+154: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+155: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+156: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+157: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+158: Graficos().Desenhe linhas - 10)
+159: Graficos().Desenhe linhas - 11)
+160: Graficos().Desenhe linhas - 12)
+161: Graficos().Desenhe linhas - 13)
+162: Graficos().Desenhe linhas - 10)
+163: Graficos().Desenhe linhas - 11)
+164: Graficos().Desenhe linhas - 12)
+165: Graficos().Desenhe linhas - 13)
+166: Graficos().Desenhe linhas - 10)
+167: Graficos().Desenhe linhas - 11)
+168: Graficos().Desenhe linhas - 12)
+169: Graficos().Desenhe linhas - 13)
+170: Graficos().Desenhe linhas - 10)
+171: Graficos().Desenhe linhas - 11)
+172: Graficos().Desenhe linhas - 12)
+173: Graficos().Desenhe linhas - 13)
+174: Graficos().Desenhe linhas - 16)
+58: Atualiza clock(gf): 00:00:05
+175: Graficos().setClock( 00:00:05)
+176: Graficos().repinte()
+59: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+9: Ferramentas().SeqToLin(0, 0): 0
+60: mtaView().DispararTesteV2(V: 1, M:0, T: 2, L: 0)
+10: Ferramentas().ContarReg()
+11: Ferramentas().ContarReg() - 6
+12: Ferramentas().LinToMd(): iLinAtual: 0
+13: Ferramentas().LinToMd(): iSeq: 0
+14: Ferramentas().LinToMd(): iMd: 0
+15: Ferramentas().LinToMd(0): SEQ0, MD0
+61: mtaView().DispararTesteV2() - 002b
+62: mtaView().DispararTesteV2() - 002c
+63: mtaView().DispararTesteV2( iLinMD:0, iTotalLinTab: 999
+64: mtaView().DispararTesteV2() - 003
+65: mtaView().DispararTesteV2(V: 1, M:0, T: 2, L: 0): Testar = Sim 
+66: Entrando -> SincUP[0]
+67: mtaView().VerFimTeste()
+177: Graficos().paintComponent()
+178: Graficos().if(iD == Ck){ 00:00:05}
+179: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+180: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+181: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+182: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+183: Graficos().Desenhe linhas - 10)
+184: Graficos().Desenhe linhas - 11)
+185: Graficos().Desenhe linhas - 12)
+186: Graficos().Desenhe linhas - 13)
+187: Graficos().Desenhe linhas - 10)
+188: Graficos().Desenhe linhas - 11)
+189: Graficos().Desenhe linhas - 12)
+190: Graficos().Desenhe linhas - 13)
+191: Graficos().Desenhe linhas - 10)
+192: Graficos().Desenhe linhas - 11)
+193: Graficos().Desenhe linhas - 12)
+194: Graficos().Desenhe linhas - 13)
+195: Graficos().Desenhe linhas - 10)
+196: Graficos().Desenhe linhas - 11)
+197: Graficos().Desenhe linhas - 12)
+198: Graficos().Desenhe linhas - 13)
+199: Graficos().Desenhe linhas - 16)
+68: Atualiza clock(gf): 00:00:06
+200: Graficos().setClock( 00:00:06)
+201: Graficos().repinte()
+69: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+70: mtaView().VerFimTeste()
+202: Graficos().paintComponent()
+203: Graficos().if(iD == Ck){ 00:00:06}
+204: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+205: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+206: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+207: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+208: Graficos().Desenhe linhas - 10)
+209: Graficos().Desenhe linhas - 11)
+210: Graficos().Desenhe linhas - 12)
+211: Graficos().Desenhe linhas - 13)
+212: Graficos().Desenhe linhas - 10)
+213: Graficos().Desenhe linhas - 11)
+214: Graficos().Desenhe linhas - 12)
+215: Graficos().Desenhe linhas - 13)
+216: Graficos().Desenhe linhas - 10)
+217: Graficos().Desenhe linhas - 11)
+218: Graficos().Desenhe linhas - 12)
+219: Graficos().Desenhe linhas - 13)
+220: Graficos().Desenhe linhas - 10)
+221: Graficos().Desenhe linhas - 11)
+222: Graficos().Desenhe linhas - 12)
+223: Graficos().Desenhe linhas - 13)
+224: Graficos().Desenhe linhas - 16)
+71: Atualiza clock(gf): 00:00:07
+225: Graficos().setClock( 00:00:07)
+226: Graficos().repinte()
+72: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+73: mtaView().VerFimTeste()
+227: Graficos().paintComponent()
+228: Graficos().if(iD == Ck){ 00:00:07}
+229: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+230: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+231: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+232: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+233: Graficos().Desenhe linhas - 10)
+234: Graficos().Desenhe linhas - 11)
+235: Graficos().Desenhe linhas - 12)
+236: Graficos().Desenhe linhas - 13)
+237: Graficos().Desenhe linhas - 10)
+238: Graficos().Desenhe linhas - 11)
+239: Graficos().Desenhe linhas - 12)
+240: Graficos().Desenhe linhas - 13)
+241: Graficos().Desenhe linhas - 10)
+242: Graficos().Desenhe linhas - 11)
+243: Graficos().Desenhe linhas - 12)
+244: Graficos().Desenhe linhas - 13)
+245: Graficos().Desenhe linhas - 10)
+246: Graficos().Desenhe linhas - 11)
+247: Graficos().Desenhe linhas - 12)
+248: Graficos().Desenhe linhas - 13)
+249: Graficos().Desenhe linhas - 16)
+74: Atualiza clock(gf): 00:00:08
+250: Graficos().setClock( 00:00:08)
+251: Graficos().repinte()
+75: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+76: mtaView().VerFimTeste()
+252: Graficos().paintComponent()
+253: Graficos().if(iD == Ck){ 00:00:08}
+254: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+255: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+256: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+257: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+258: Graficos().Desenhe linhas - 10)
+259: Graficos().Desenhe linhas - 11)
+260: Graficos().Desenhe linhas - 12)
+261: Graficos().Desenhe linhas - 13)
+262: Graficos().Desenhe linhas - 10)
+263: Graficos().Desenhe linhas - 11)
+264: Graficos().Desenhe linhas - 12)
+265: Graficos().Desenhe linhas - 13)
+266: Graficos().Desenhe linhas - 10)
+267: Graficos().Desenhe linhas - 11)
+268: Graficos().Desenhe linhas - 12)
+269: Graficos().Desenhe linhas - 13)
+270: Graficos().Desenhe linhas - 10)
+271: Graficos().Desenhe linhas - 11)
+272: Graficos().Desenhe linhas - 12)
+273: Graficos().Desenhe linhas - 13)
+274: Graficos().Desenhe linhas - 16)
+77: Atualiza clock(gf): 00:00:09
+275: Graficos().setClock( 00:00:09)
+276: Graficos().repinte()
+78: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+79: mtaView().VerFimTeste()
+277: Graficos().paintComponent()
+278: Graficos().if(iD == Ck){ 00:00:09}
+279: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+280: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+281: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+282: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+283: Graficos().Desenhe linhas - 10)
+284: Graficos().Desenhe linhas - 11)
+285: Graficos().Desenhe linhas - 12)
+286: Graficos().Desenhe linhas - 13)
+287: Graficos().Desenhe linhas - 10)
+288: Graficos().Desenhe linhas - 11)
+289: Graficos().Desenhe linhas - 12)
+290: Graficos().Desenhe linhas - 13)
+291: Graficos().Desenhe linhas - 10)
+292: Graficos().Desenhe linhas - 11)
+293: Graficos().Desenhe linhas - 12)
+294: Graficos().Desenhe linhas - 13)
+295: Graficos().Desenhe linhas - 10)
+296: Graficos().Desenhe linhas - 11)
+297: Graficos().Desenhe linhas - 12)
+298: Graficos().Desenhe linhas - 13)
+299: Graficos().Desenhe linhas - 16)
+80: Atualiza clock(gf): 00:00:10
+300: Graficos().setClock( 00:00:10)
+301: Graficos().repinte()
+81: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+16: Ferramentas().SeqToLin(0, 0): 0
+82: mtaView().DispararTesteV2(V: 1, M:0, T: 3, L: 0)
+17: Ferramentas().ContarReg()
+18: Ferramentas().ContarReg() - 6
+19: Ferramentas().LinToMd(): iLinAtual: 0
+20: Ferramentas().LinToMd(): iSeq: 0
+21: Ferramentas().LinToMd(): iMd: 0
+22: Ferramentas().LinToMd(0): SEQ0, MD0
+83: mtaView().DispararTesteV2() - 002b
+84: mtaView().DispararTesteV2() - 002c
+85: mtaView().DispararTesteV2( iLinMD:0, iTotalLinTab: 999
+86: mtaView().DispararTesteV2() - 003
+87: mtaView().DispararTesteV2(V: 1, M:0, T: 3, L: 0): Testar = Sim 
+88: Entrando -> SincUP[0]
+89: mtaView().VerFimTeste()
+302: Graficos().paintComponent()
+303: Graficos().if(iD == Ck){ 00:00:10}
+304: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+305: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+306: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+307: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+308: Graficos().Desenhe linhas - 10)
+309: Graficos().Desenhe linhas - 11)
+310: Graficos().Desenhe linhas - 12)
+311: Graficos().Desenhe linhas - 13)
+312: Graficos().Desenhe linhas - 10)
+313: Graficos().Desenhe linhas - 11)
+314: Graficos().Desenhe linhas - 12)
+315: Graficos().Desenhe linhas - 13)
+316: Graficos().Desenhe linhas - 10)
+317: Graficos().Desenhe linhas - 11)
+318: Graficos().Desenhe linhas - 12)
+319: Graficos().Desenhe linhas - 13)
+320: Graficos().Desenhe linhas - 10)
+321: Graficos().Desenhe linhas - 11)
+322: Graficos().Desenhe linhas - 12)
+323: Graficos().Desenhe linhas - 13)
+324: Graficos().Desenhe linhas - 16)
+90: Atualiza clock(gf): 00:00:11
+325: Graficos().setClock( 00:00:11)
+326: Graficos().repinte()
+91: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+92: mtaView().VerFimTeste()
+327: Graficos().paintComponent()
+328: Graficos().if(iD == Ck){ 00:00:11}
+329: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+330: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+331: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+332: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+333: Graficos().Desenhe linhas - 10)
+334: Graficos().Desenhe linhas - 11)
+335: Graficos().Desenhe linhas - 12)
+336: Graficos().Desenhe linhas - 13)
+337: Graficos().Desenhe linhas - 10)
+338: Graficos().Desenhe linhas - 11)
+339: Graficos().Desenhe linhas - 12)
+340: Graficos().Desenhe linhas - 13)
+341: Graficos().Desenhe linhas - 10)
+342: Graficos().Desenhe linhas - 11)
+343: Graficos().Desenhe linhas - 12)
+344: Graficos().Desenhe linhas - 13)
+345: Graficos().Desenhe linhas - 10)
+346: Graficos().Desenhe linhas - 11)
+347: Graficos().Desenhe linhas - 12)
+348: Graficos().Desenhe linhas - 13)
+349: Graficos().Desenhe linhas - 16)
+93: Atualiza clock(gf): 00:00:12
+350: Graficos().setClock( 00:00:12)
+351: Graficos().repinte()
+94: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+95: mtaView().VerFimTeste()
+352: Graficos().paintComponent()
+353: Graficos().if(iD == Ck){ 00:00:12}
+354: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+355: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+356: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+357: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+358: Graficos().Desenhe linhas - 10)
+359: Graficos().Desenhe linhas - 11)
+360: Graficos().Desenhe linhas - 12)
+361: Graficos().Desenhe linhas - 13)
+362: Graficos().Desenhe linhas - 10)
+363: Graficos().Desenhe linhas - 11)
+364: Graficos().Desenhe linhas - 12)
+365: Graficos().Desenhe linhas - 13)
+366: Graficos().Desenhe linhas - 10)
+367: Graficos().Desenhe linhas - 11)
+368: Graficos().Desenhe linhas - 12)
+369: Graficos().Desenhe linhas - 13)
+370: Graficos().Desenhe linhas - 10)
+371: Graficos().Desenhe linhas - 11)
+372: Graficos().Desenhe linhas - 12)
+373: Graficos().Desenhe linhas - 13)
+374: Graficos().Desenhe linhas - 16)
+96: Atualiza clock(gf): 00:00:13
+375: Graficos().setClock( 00:00:13)
+376: Graficos().repinte()
+97: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+98: mtaView().VerFimTeste()
+377: Graficos().paintComponent()
+378: Graficos().if(iD == Ck){ 00:00:13}
+379: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+380: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+381: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+382: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+383: Graficos().Desenhe linhas - 10)
+384: Graficos().Desenhe linhas - 11)
+385: Graficos().Desenhe linhas - 12)
+386: Graficos().Desenhe linhas - 13)
+387: Graficos().Desenhe linhas - 10)
+388: Graficos().Desenhe linhas - 11)
+389: Graficos().Desenhe linhas - 12)
+390: Graficos().Desenhe linhas - 13)
+391: Graficos().Desenhe linhas - 10)
+392: Graficos().Desenhe linhas - 11)
+393: Graficos().Desenhe linhas - 12)
+394: Graficos().Desenhe linhas - 13)
+395: Graficos().Desenhe linhas - 10)
+396: Graficos().Desenhe linhas - 11)
+397: Graficos().Desenhe linhas - 12)
+398: Graficos().Desenhe linhas - 13)
+399: Graficos().Desenhe linhas - 16)
+99: Atualiza clock(gf): 00:00:14
+400: Graficos().setClock( 00:00:14)
+401: Graficos().repinte()
+100: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+101: mtaView().VerFimTeste()
+402: Graficos().paintComponent()
+403: Graficos().if(iD == Ck){ 00:00:14}
+404: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+405: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+406: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+407: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+408: Graficos().Desenhe linhas - 10)
+409: Graficos().Desenhe linhas - 11)
+410: Graficos().Desenhe linhas - 12)
+411: Graficos().Desenhe linhas - 13)
+412: Graficos().Desenhe linhas - 10)
+413: Graficos().Desenhe linhas - 11)
+414: Graficos().Desenhe linhas - 12)
+415: Graficos().Desenhe linhas - 13)
+416: Graficos().Desenhe linhas - 10)
+417: Graficos().Desenhe linhas - 11)
+418: Graficos().Desenhe linhas - 12)
+419: Graficos().Desenhe linhas - 13)
+420: Graficos().Desenhe linhas - 10)
+421: Graficos().Desenhe linhas - 11)
+422: Graficos().Desenhe linhas - 12)
+423: Graficos().Desenhe linhas - 13)
+424: Graficos().Desenhe linhas - 16)
+102: Atualiza clock(gf): 00:00:15
+425: Graficos().setClock( 00:00:15)
+426: Graficos().repinte()
+103: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+104: mtaView().VerFimTeste()
+427: Graficos().paintComponent()
+428: Graficos().if(iD == Ck){ 00:00:15}
+429: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+430: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+431: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+432: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+433: Graficos().Desenhe linhas - 10)
+434: Graficos().Desenhe linhas - 11)
+435: Graficos().Desenhe linhas - 12)
+436: Graficos().Desenhe linhas - 13)
+437: Graficos().Desenhe linhas - 10)
+438: Graficos().Desenhe linhas - 11)
+439: Graficos().Desenhe linhas - 12)
+440: Graficos().Desenhe linhas - 13)
+441: Graficos().Desenhe linhas - 10)
+442: Graficos().Desenhe linhas - 11)
+443: Graficos().Desenhe linhas - 12)
+444: Graficos().Desenhe linhas - 13)
+445: Graficos().Desenhe linhas - 10)
+446: Graficos().Desenhe linhas - 11)
+447: Graficos().Desenhe linhas - 12)
+448: Graficos().Desenhe linhas - 13)
+449: Graficos().Desenhe linhas - 16)
+105: Atualiza clock(gf): 00:00:16
+450: Graficos().setClock( 00:00:16)
+451: Graficos().repinte()
+106: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+23: Ferramentas().SeqToLin(0, 1): 1
+107: mtaView().DispararTesteV2(V: 2, M:1, T: 1, L: 1)
+24: Ferramentas().ContarReg()
+25: Ferramentas().ContarReg() - 6
+26: Ferramentas().LinToMd(): iLinAtual: 1
+27: Ferramentas().LinToMd(): iSeq: 0
+28: Ferramentas().LinToMd(): iMd: 1
+29: Ferramentas().LinToMd(1): SEQ0, MD1
+108: mtaView().DispararTesteV2() - 002b
+109: mtaView().DispararTesteV2() - 002c
+110: mtaView().DispararTesteV2( iLinMD:1, iTotalLinTab: 999
+111: mtaView().DispararTesteV2() - 003
+112: mtaView().DispararTesteV2(V: 2, M:1, T: 1, L: 1): Testar = Sim 
+113: MD[1], IP: 192.168.1.102, Cmd: Status
+----------------------------------------------------------------
+0: Dsl2500e().Simula(Cmd: Status)
+1: Simula SINC.DSL2500e: DOWN
+114: LerTArea(V: 2 Md: 1, Teste: 1, LinMD: 1)
+115: LerTArea(Num.Lin: 34 )
+116: ------------------------------------------------------
+2: Dsl2500e().Decode( $sh )
+3: Dsl2500e().Decode( DSL_2500E#show adsl )
+4: Dsl2500e().Decode( Adsl Line Status         ACTIVATING. )
+5: Dsl2500e().Decode( Adsl Mode                   	  -- )
+6: Dsl2500e().Decode( Up Stream                 		  -- )
+7: Dsl2500e().Decode( Down Stream              		  -- )
+8: Dsl2500e().Decode( Attenuation Down Stream          -- )
+9: Dsl2500e().Decode( Attenuation Up Stream            -- )
+10: Dsl2500e().Decode( SNR Margin Down Stream           -- )
+11: Dsl2500e().Decode( SNR Margin Up Stream             -- )
+12: Dsl2500e().Decode( Firmware Version           3923c131 )
+13: Dsl2500e().Decode( 15 min ES Counter                -- )
+14: Dsl2500e().Decode( CRC upstream                     -- )
+15: Dsl2500e().Decode( CRC downstream                   -- )
+16: Dsl2500e().Decode( 1 day ES Counter                  0 )
+17: Dsl2500e().Decode( ES                               -- )
+18: Dsl2500e().Decode( SES                              -- )
+19: Dsl2500e().Decode( $sh )
+20: Dsl2500e().Decode( DSL_2500E#show adsl )
+21: Dsl2500e().Decode( Adsl Line Status         ACTIVATING. )
+22: Dsl2500e().Decode( Adsl Mode                   	  -- )
+23: Dsl2500e().Decode( Up Stream                 		  -- )
+24: Dsl2500e().Decode( Down Stream              		  -- )
+25: Dsl2500e().Decode( Attenuation Down Stream          -- )
+26: Dsl2500e().Decode( Attenuation Up Stream            -- )
+27: Dsl2500e().Decode( SNR Margin Down Stream           -- )
+28: Dsl2500e().Decode( SNR Margin Up Stream             -- )
+29: Dsl2500e().Decode( Firmware Version           3923c131 )
+30: Dsl2500e().Decode( 15 min ES Counter                -- )
+31: Dsl2500e().Decode( CRC upstream                     -- )
+32: Dsl2500e().Decode( CRC downstream                   -- )
+33: Dsl2500e().Decode( 1 day ES Counter                  0 )
+34: Dsl2500e().Decode( ES                               -- )
+35: Dsl2500e().Decode( SES                              -- )
+117: ------------------------------------------------------
+118: VerificarDecode(LinMD: 1)
+119: LerTArea(bSinc[1] = false, ACTIVATING.)
+120: LerTArea(bAut[1] = false,)
+121: LerTArea(bPing[1] = false,)
+122: Entrando -> SincUP[1]
+123: mtaView().VerFimTeste()
+452: Graficos().paintComponent()
+453: Graficos().if(iD == Ck){ 00:00:16}
+454: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+455: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+456: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+457: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+458: Graficos().Desenhe linhas - 10)
+459: Graficos().Desenhe linhas - 11)
+460: Graficos().Desenhe linhas - 12)
+461: Graficos().Desenhe linhas - 13)
+462: Graficos().Desenhe linhas - 10)
+463: Graficos().Desenhe linhas - 11)
+464: Graficos().Desenhe linhas - 12)
+465: Graficos().Desenhe linhas - 13)
+466: Graficos().Desenhe linhas - 10)
+467: Graficos().Desenhe linhas - 11)
+468: Graficos().Desenhe linhas - 12)
+469: Graficos().Desenhe linhas - 13)
+470: Graficos().Desenhe linhas - 10)
+471: Graficos().Desenhe linhas - 11)
+472: Graficos().Desenhe linhas - 12)
+473: Graficos().Desenhe linhas - 13)
+474: Graficos().Desenhe linhas - 16)
+124: Atualiza clock(gf): 00:00:17
+475: Graficos().setClock( 00:00:17)
+476: Graficos().repinte()
+125: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+126: mtaView().VerFimTeste()
+477: Graficos().paintComponent()
+478: Graficos().if(iD == Ck){ 00:00:17}
+479: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+480: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+481: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+482: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+483: Graficos().Desenhe linhas - 10)
+484: Graficos().Desenhe linhas - 11)
+485: Graficos().Desenhe linhas - 12)
+486: Graficos().Desenhe linhas - 13)
+487: Graficos().Desenhe linhas - 10)
+488: Graficos().Desenhe linhas - 11)
+489: Graficos().Desenhe linhas - 12)
+490: Graficos().Desenhe linhas - 13)
+491: Graficos().Desenhe linhas - 10)
+492: Graficos().Desenhe linhas - 11)
+493: Graficos().Desenhe linhas - 12)
+494: Graficos().Desenhe linhas - 13)
+495: Graficos().Desenhe linhas - 10)
+496: Graficos().Desenhe linhas - 11)
+497: Graficos().Desenhe linhas - 12)
+498: Graficos().Desenhe linhas - 13)
+499: Graficos().Desenhe linhas - 16)
+127: Atualiza clock(gf): 00:00:18
+500: Graficos().setClock( 00:00:18)
+501: Graficos().repinte()
+128: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+129: mtaView().VerFimTeste()
+502: Graficos().paintComponent()
+503: Graficos().if(iD == Ck){ 00:00:18}
+504: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+505: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+506: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+507: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+508: Graficos().Desenhe linhas - 10)
+509: Graficos().Desenhe linhas - 11)
+510: Graficos().Desenhe linhas - 12)
+511: Graficos().Desenhe linhas - 13)
+512: Graficos().Desenhe linhas - 10)
+513: Graficos().Desenhe linhas - 11)
+514: Graficos().Desenhe linhas - 12)
+515: Graficos().Desenhe linhas - 13)
+516: Graficos().Desenhe linhas - 10)
+517: Graficos().Desenhe linhas - 11)
+518: Graficos().Desenhe linhas - 12)
+519: Graficos().Desenhe linhas - 13)
+520: Graficos().Desenhe linhas - 10)
+521: Graficos().Desenhe linhas - 11)
+522: Graficos().Desenhe linhas - 12)
+523: Graficos().Desenhe linhas - 13)
+524: Graficos().Desenhe linhas - 16)
+130: Atualiza clock(gf): 00:00:19
+525: Graficos().setClock( 00:00:19)
+526: Graficos().repinte()
+131: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+132: mtaView().VerFimTeste()
+527: Graficos().paintComponent()
+528: Graficos().if(iD == Ck){ 00:00:19}
+529: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+530: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+531: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+532: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+533: Graficos().Desenhe linhas - 10)
+534: Graficos().Desenhe linhas - 11)
+535: Graficos().Desenhe linhas - 12)
+536: Graficos().Desenhe linhas - 13)
+537: Graficos().Desenhe linhas - 10)
+538: Graficos().Desenhe linhas - 11)
+539: Graficos().Desenhe linhas - 12)
+540: Graficos().Desenhe linhas - 13)
+541: Graficos().Desenhe linhas - 10)
+542: Graficos().Desenhe linhas - 11)
+543: Graficos().Desenhe linhas - 12)
+544: Graficos().Desenhe linhas - 13)
+545: Graficos().Desenhe linhas - 10)
+546: Graficos().Desenhe linhas - 11)
+547: Graficos().Desenhe linhas - 12)
+548: Graficos().Desenhe linhas - 13)
+549: Graficos().Desenhe linhas - 16)
+133: Atualiza clock(gf): 00:00:20
+550: Graficos().setClock( 00:00:20)
+551: Graficos().repinte()
+134: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+30: Ferramentas().SeqToLin(0, 1): 1
+135: mtaView().DispararTesteV2(V: 2, M:1, T: 2, L: 1)
+31: Ferramentas().ContarReg()
+32: Ferramentas().ContarReg() - 6
+33: Ferramentas().LinToMd(): iLinAtual: 1
+34: Ferramentas().LinToMd(): iSeq: 0
+35: Ferramentas().LinToMd(): iMd: 1
+36: Ferramentas().LinToMd(1): SEQ0, MD1
+136: mtaView().DispararTesteV2() - 002b
+137: mtaView().DispararTesteV2() - 002c
+138: mtaView().DispararTesteV2( iLinMD:1, iTotalLinTab: 999
+139: mtaView().DispararTesteV2() - 003
+140: mtaView().DispararTesteV2(V: 2, M:1, T: 2, L: 1): Testar = Sim 
+141: Entrando -> SincUP[1]
+142: mtaView().VerFimTeste()
+552: Graficos().paintComponent()
+553: Graficos().if(iD == Ck){ 00:00:20}
+554: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+555: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+556: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+557: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+558: Graficos().Desenhe linhas - 10)
+559: Graficos().Desenhe linhas - 11)
+560: Graficos().Desenhe linhas - 12)
+561: Graficos().Desenhe linhas - 13)
+562: Graficos().Desenhe linhas - 10)
+563: Graficos().Desenhe linhas - 11)
+564: Graficos().Desenhe linhas - 12)
+565: Graficos().Desenhe linhas - 13)
+566: Graficos().Desenhe linhas - 10)
+567: Graficos().Desenhe linhas - 11)
+568: Graficos().Desenhe linhas - 12)
+569: Graficos().Desenhe linhas - 13)
+570: Graficos().Desenhe linhas - 10)
+571: Graficos().Desenhe linhas - 11)
+572: Graficos().Desenhe linhas - 12)
+573: Graficos().Desenhe linhas - 13)
+574: Graficos().Desenhe linhas - 16)
+143: Atualiza clock(gf): 00:00:21
+575: Graficos().setClock( 00:00:21)
+576: Graficos().repinte()
+144: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+145: mtaView().VerFimTeste()
+577: Graficos().paintComponent()
+578: Graficos().if(iD == Ck){ 00:00:21}
+579: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+580: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+581: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+582: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+583: Graficos().Desenhe linhas - 10)
+584: Graficos().Desenhe linhas - 11)
+585: Graficos().Desenhe linhas - 12)
+586: Graficos().Desenhe linhas - 13)
+587: Graficos().Desenhe linhas - 10)
+588: Graficos().Desenhe linhas - 11)
+589: Graficos().Desenhe linhas - 12)
+590: Graficos().Desenhe linhas - 13)
+591: Graficos().Desenhe linhas - 10)
+592: Graficos().Desenhe linhas - 11)
+593: Graficos().Desenhe linhas - 12)
+594: Graficos().Desenhe linhas - 13)
+595: Graficos().Desenhe linhas - 10)
+596: Graficos().Desenhe linhas - 11)
+597: Graficos().Desenhe linhas - 12)
+598: Graficos().Desenhe linhas - 13)
+599: Graficos().Desenhe linhas - 16)
+146: Atualiza clock(gf): 00:00:22
+600: Graficos().setClock( 00:00:22)
+601: Graficos().repinte()
+147: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+148: mtaView().VerFimTeste()
+602: Graficos().paintComponent()
+603: Graficos().if(iD == Ck){ 00:00:22}
+604: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+605: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+606: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+607: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+608: Graficos().Desenhe linhas - 10)
+609: Graficos().Desenhe linhas - 11)
+610: Graficos().Desenhe linhas - 12)
+611: Graficos().Desenhe linhas - 13)
+612: Graficos().Desenhe linhas - 10)
+613: Graficos().Desenhe linhas - 11)
+614: Graficos().Desenhe linhas - 12)
+615: Graficos().Desenhe linhas - 13)
+616: Graficos().Desenhe linhas - 10)
+617: Graficos().Desenhe linhas - 11)
+618: Graficos().Desenhe linhas - 12)
+619: Graficos().Desenhe linhas - 13)
+620: Graficos().Desenhe linhas - 10)
+621: Graficos().Desenhe linhas - 11)
+622: Graficos().Desenhe linhas - 12)
+623: Graficos().Desenhe linhas - 13)
+624: Graficos().Desenhe linhas - 16)
+149: Atualiza clock(gf): 00:00:23
+625: Graficos().setClock( 00:00:23)
+626: Graficos().repinte()
+150: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+151: mtaView().VerFimTeste()
+627: Graficos().paintComponent()
+628: Graficos().if(iD == Ck){ 00:00:23}
+629: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+630: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+631: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+632: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+633: Graficos().Desenhe linhas - 10)
+634: Graficos().Desenhe linhas - 11)
+635: Graficos().Desenhe linhas - 12)
+636: Graficos().Desenhe linhas - 13)
+637: Graficos().Desenhe linhas - 10)
+638: Graficos().Desenhe linhas - 11)
+639: Graficos().Desenhe linhas - 12)
+640: Graficos().Desenhe linhas - 13)
+641: Graficos().Desenhe linhas - 10)
+642: Graficos().Desenhe linhas - 11)
+643: Graficos().Desenhe linhas - 12)
+644: Graficos().Desenhe linhas - 13)
+645: Graficos().Desenhe linhas - 10)
+646: Graficos().Desenhe linhas - 11)
+647: Graficos().Desenhe linhas - 12)
+648: Graficos().Desenhe linhas - 13)
+649: Graficos().Desenhe linhas - 16)
+152: Atualiza clock(gf): 00:00:24
+650: Graficos().setClock( 00:00:24)
+651: Graficos().repinte()
+153: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+154: mtaView().VerFimTeste()
+652: Graficos().paintComponent()
+653: Graficos().if(iD == Ck){ 00:00:24}
+654: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+655: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+656: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+657: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+658: Graficos().Desenhe linhas - 10)
+659: Graficos().Desenhe linhas - 11)
+660: Graficos().Desenhe linhas - 12)
+661: Graficos().Desenhe linhas - 13)
+662: Graficos().Desenhe linhas - 10)
+663: Graficos().Desenhe linhas - 11)
+664: Graficos().Desenhe linhas - 12)
+665: Graficos().Desenhe linhas - 13)
+666: Graficos().Desenhe linhas - 10)
+667: Graficos().Desenhe linhas - 11)
+668: Graficos().Desenhe linhas - 12)
+669: Graficos().Desenhe linhas - 13)
+670: Graficos().Desenhe linhas - 10)
+671: Graficos().Desenhe linhas - 11)
+672: Graficos().Desenhe linhas - 12)
+673: Graficos().Desenhe linhas - 13)
+674: Graficos().Desenhe linhas - 16)
+155: Atualiza clock(gf): 00:00:25
+675: Graficos().setClock( 00:00:25)
+676: Graficos().repinte()
+156: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+37: Ferramentas().SeqToLin(0, 1): 1
+157: mtaView().DispararTesteV2(V: 2, M:1, T: 3, L: 1)
+38: Ferramentas().ContarReg()
+39: Ferramentas().ContarReg() - 6
+40: Ferramentas().LinToMd(): iLinAtual: 1
+41: Ferramentas().LinToMd(): iSeq: 0
+42: Ferramentas().LinToMd(): iMd: 1
+43: Ferramentas().LinToMd(1): SEQ0, MD1
+158: mtaView().DispararTesteV2() - 002b
+159: mtaView().DispararTesteV2() - 002c
+160: mtaView().DispararTesteV2( iLinMD:1, iTotalLinTab: 999
+161: mtaView().DispararTesteV2() - 003
+162: mtaView().DispararTesteV2(V: 2, M:1, T: 3, L: 1): Testar = Sim 
+163: Entrando -> SincUP[1]
+164: mtaView().VerFimTeste()
+677: Graficos().paintComponent()
+678: Graficos().if(iD == Ck){ 00:00:25}
+679: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+680: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+681: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+682: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+683: Graficos().Desenhe linhas - 10)
+684: Graficos().Desenhe linhas - 11)
+685: Graficos().Desenhe linhas - 12)
+686: Graficos().Desenhe linhas - 13)
+687: Graficos().Desenhe linhas - 10)
+688: Graficos().Desenhe linhas - 11)
+689: Graficos().Desenhe linhas - 12)
+690: Graficos().Desenhe linhas - 13)
+691: Graficos().Desenhe linhas - 10)
+692: Graficos().Desenhe linhas - 11)
+693: Graficos().Desenhe linhas - 12)
+694: Graficos().Desenhe linhas - 13)
+695: Graficos().Desenhe linhas - 10)
+696: Graficos().Desenhe linhas - 11)
+697: Graficos().Desenhe linhas - 12)
+698: Graficos().Desenhe linhas - 13)
+699: Graficos().Desenhe linhas - 16)
+165: Atualiza clock(gf): 00:00:26
+700: Graficos().setClock( 00:00:26)
+701: Graficos().repinte()
+166: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+167: mtaView().VerFimTeste()
+702: Graficos().paintComponent()
+703: Graficos().if(iD == Ck){ 00:00:26}
+704: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+705: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+706: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+707: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+708: Graficos().Desenhe linhas - 10)
+709: Graficos().Desenhe linhas - 11)
+710: Graficos().Desenhe linhas - 12)
+711: Graficos().Desenhe linhas - 13)
+712: Graficos().Desenhe linhas - 10)
+713: Graficos().Desenhe linhas - 11)
+714: Graficos().Desenhe linhas - 12)
+715: Graficos().Desenhe linhas - 13)
+716: Graficos().Desenhe linhas - 10)
+717: Graficos().Desenhe linhas - 11)
+718: Graficos().Desenhe linhas - 12)
+719: Graficos().Desenhe linhas - 13)
+720: Graficos().Desenhe linhas - 10)
+721: Graficos().Desenhe linhas - 11)
+722: Graficos().Desenhe linhas - 12)
+723: Graficos().Desenhe linhas - 13)
+724: Graficos().Desenhe linhas - 16)
+168: Atualiza clock(gf): 00:00:27
+725: Graficos().setClock( 00:00:27)
+726: Graficos().repinte()
+169: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+170: mtaView().VerFimTeste()
+727: Graficos().paintComponent()
+728: Graficos().if(iD == Ck){ 00:00:27}
+729: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+730: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+731: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+732: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+733: Graficos().Desenhe linhas - 10)
+734: Graficos().Desenhe linhas - 11)
+735: Graficos().Desenhe linhas - 12)
+736: Graficos().Desenhe linhas - 13)
+737: Graficos().Desenhe linhas - 10)
+738: Graficos().Desenhe linhas - 11)
+739: Graficos().Desenhe linhas - 12)
+740: Graficos().Desenhe linhas - 13)
+741: Graficos().Desenhe linhas - 10)
+742: Graficos().Desenhe linhas - 11)
+743: Graficos().Desenhe linhas - 12)
+744: Graficos().Desenhe linhas - 13)
+745: Graficos().Desenhe linhas - 10)
+746: Graficos().Desenhe linhas - 11)
+747: Graficos().Desenhe linhas - 12)
+748: Graficos().Desenhe linhas - 13)
+749: Graficos().Desenhe linhas - 16)
+171: Atualiza clock(gf): 00:00:28
+750: Graficos().setClock( 00:00:28)
+751: Graficos().repinte()
+172: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+173: mtaView().VerFimTeste()
+752: Graficos().paintComponent()
+753: Graficos().if(iD == Ck){ 00:00:28}
+754: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+755: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+756: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+757: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+758: Graficos().Desenhe linhas - 10)
+759: Graficos().Desenhe linhas - 11)
+760: Graficos().Desenhe linhas - 12)
+761: Graficos().Desenhe linhas - 13)
+762: Graficos().Desenhe linhas - 10)
+763: Graficos().Desenhe linhas - 11)
+764: Graficos().Desenhe linhas - 12)
+765: Graficos().Desenhe linhas - 13)
+766: Graficos().Desenhe linhas - 10)
+767: Graficos().Desenhe linhas - 11)
+768: Graficos().Desenhe linhas - 12)
+769: Graficos().Desenhe linhas - 13)
+770: Graficos().Desenhe linhas - 10)
+771: Graficos().Desenhe linhas - 11)
+772: Graficos().Desenhe linhas - 12)
+773: Graficos().Desenhe linhas - 13)
+774: Graficos().Desenhe linhas - 16)
+174: Atualiza clock(gf): 00:00:29
+775: Graficos().setClock( 00:00:29)
+776: Graficos().repinte()
+175: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+176: mtaView().VerFimTeste()
+777: Graficos().paintComponent()
+778: Graficos().if(iD == Ck){ 00:00:29}
+779: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+780: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+781: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+782: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+783: Graficos().Desenhe linhas - 10)
+784: Graficos().Desenhe linhas - 11)
+785: Graficos().Desenhe linhas - 12)
+786: Graficos().Desenhe linhas - 13)
+787: Graficos().Desenhe linhas - 10)
+788: Graficos().Desenhe linhas - 11)
+789: Graficos().Desenhe linhas - 12)
+790: Graficos().Desenhe linhas - 13)
+791: Graficos().Desenhe linhas - 10)
+792: Graficos().Desenhe linhas - 11)
+793: Graficos().Desenhe linhas - 12)
+794: Graficos().Desenhe linhas - 13)
+795: Graficos().Desenhe linhas - 10)
+796: Graficos().Desenhe linhas - 11)
+797: Graficos().Desenhe linhas - 12)
+798: Graficos().Desenhe linhas - 13)
+799: Graficos().Desenhe linhas - 16)
+177: Atualiza clock(gf): 00:00:30
+800: Graficos().setClock( 00:00:30)
+801: Graficos().repinte()
+178: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+179: mtaView().VerFimTeste()
+802: Graficos().paintComponent()
+803: Graficos().if(iD == Ck){ 00:00:30}
+804: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+805: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+806: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+807: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+808: Graficos().Desenhe linhas - 10)
+809: Graficos().Desenhe linhas - 11)
+810: Graficos().Desenhe linhas - 12)
+811: Graficos().Desenhe linhas - 13)
+812: Graficos().Desenhe linhas - 10)
+813: Graficos().Desenhe linhas - 11)
+814: Graficos().Desenhe linhas - 12)
+815: Graficos().Desenhe linhas - 13)
+816: Graficos().Desenhe linhas - 10)
+817: Graficos().Desenhe linhas - 11)
+818: Graficos().Desenhe linhas - 12)
+819: Graficos().Desenhe linhas - 13)
+820: Graficos().Desenhe linhas - 10)
+821: Graficos().Desenhe linhas - 11)
+822: Graficos().Desenhe linhas - 12)
+823: Graficos().Desenhe linhas - 13)
+824: Graficos().Desenhe linhas - 16)
+180: Atualiza clock(gf): 00:00:31
+825: Graficos().setClock( 00:00:31)
+826: Graficos().repinte()
+181: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+44: Ferramentas().SeqToLin(0, 2): 2
+182: mtaView().DispararTesteV2(V: 2, M:2, T: 1, L: 2)
+45: Ferramentas().ContarReg()
+46: Ferramentas().ContarReg() - 6
+47: Ferramentas().LinToMd(): iLinAtual: 2
+48: Ferramentas().LinToMd(): iSeq: 0
+49: Ferramentas().LinToMd(): iMd: 2
+50: Ferramentas().LinToMd(2): SEQ0, MD2
+183: mtaView().DispararTesteV2() - 002b
+184: mtaView().DispararTesteV2() - 002c
+185: mtaView().DispararTesteV2( iLinMD:2, iTotalLinTab: 999
+186: mtaView().DispararTesteV2() - 003
+187: mtaView().DispararTesteV2(V: 2, M:2, T: 1, L: 2): Testar = Sim 
+188: MD[2], IP: 192.168.1.103, Cmd: Status
+36: Dsl2500e().Simula(Cmd: Status)
+37: Simula SINC.DSL2500e: DOWN
+189: LerTArea(V: 2 Md: 2, Teste: 1, LinMD: 2)
+190: LerTArea(Num.Lin: 34 )
+191: ------------------------------------------------------
+38: Dsl2500e().Decode( $sh )
+39: Dsl2500e().Decode( DSL_2500E#show adsl )
+40: Dsl2500e().Decode( Adsl Line Status         ACTIVATING. )
+41: Dsl2500e().Decode( Adsl Mode                   	  -- )
+42: Dsl2500e().Decode( Up Stream                 		  -- )
+43: Dsl2500e().Decode( Down Stream              		  -- )
+44: Dsl2500e().Decode( Attenuation Down Stream          -- )
+45: Dsl2500e().Decode( Attenuation Up Stream            -- )
+46: Dsl2500e().Decode( SNR Margin Down Stream           -- )
+47: Dsl2500e().Decode( SNR Margin Up Stream             -- )
+48: Dsl2500e().Decode( Firmware Version           3923c131 )
+49: Dsl2500e().Decode( 15 min ES Counter                -- )
+50: Dsl2500e().Decode( CRC upstream                     -- )
+51: Dsl2500e().Decode( CRC downstream                   -- )
+52: Dsl2500e().Decode( 1 day ES Counter                  0 )
+53: Dsl2500e().Decode( ES                               -- )
+54: Dsl2500e().Decode( SES                              -- )
+55: Dsl2500e().Decode( $sh )
+56: Dsl2500e().Decode( DSL_2500E#show adsl )
+57: Dsl2500e().Decode( Adsl Line Status         ACTIVATING. )
+58: Dsl2500e().Decode( Adsl Mode                   	  -- )
+59: Dsl2500e().Decode( Up Stream                 		  -- )
+60: Dsl2500e().Decode( Down Stream              		  -- )
+61: Dsl2500e().Decode( Attenuation Down Stream          -- )
+62: Dsl2500e().Decode( Attenuation Up Stream            -- )
+63: Dsl2500e().Decode( SNR Margin Down Stream           -- )
+64: Dsl2500e().Decode( SNR Margin Up Stream             -- )
+65: Dsl2500e().Decode( Firmware Version           3923c131 )
+66: Dsl2500e().Decode( 15 min ES Counter                -- )
+67: Dsl2500e().Decode( CRC upstream                     -- )
+68: Dsl2500e().Decode( CRC downstream                   -- )
+69: Dsl2500e().Decode( 1 day ES Counter                  0 )
+70: Dsl2500e().Decode( ES                               -- )
+71: Dsl2500e().Decode( SES                              -- )
+192: ------------------------------------------------------
+193: VerificarDecode(LinMD: 2)
+194: LerTArea(bSinc[2] = false, ACTIVATING.)
+195: LerTArea(bAut[2] = false,)
+196: LerTArea(bPing[2] = false,)
+197: Entrando -> SincUP[2]
+198: mtaView().VerFimTeste()
+827: Graficos().paintComponent()
+828: Graficos().if(iD == Ck){ 00:00:31}
+829: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+830: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+831: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+832: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+833: Graficos().Desenhe linhas - 10)
+834: Graficos().Desenhe linhas - 11)
+835: Graficos().Desenhe linhas - 12)
+836: Graficos().Desenhe linhas - 13)
+837: Graficos().Desenhe linhas - 10)
+838: Graficos().Desenhe linhas - 11)
+839: Graficos().Desenhe linhas - 12)
+840: Graficos().Desenhe linhas - 13)
+841: Graficos().Desenhe linhas - 10)
+842: Graficos().Desenhe linhas - 11)
+843: Graficos().Desenhe linhas - 12)
+844: Graficos().Desenhe linhas - 13)
+845: Graficos().Desenhe linhas - 10)
+846: Graficos().Desenhe linhas - 11)
+847: Graficos().Desenhe linhas - 12)
+848: Graficos().Desenhe linhas - 13)
+849: Graficos().Desenhe linhas - 16)
+199: Atualiza clock(gf): 00:00:32
+850: Graficos().setClock( 00:00:32)
+851: Graficos().repinte()
+200: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+201: mtaView().VerFimTeste()
+852: Graficos().paintComponent()
+853: Graficos().if(iD == Ck){ 00:00:32}
+854: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+855: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+856: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+857: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+858: Graficos().Desenhe linhas - 10)
+859: Graficos().Desenhe linhas - 11)
+860: Graficos().Desenhe linhas - 12)
+861: Graficos().Desenhe linhas - 13)
+862: Graficos().Desenhe linhas - 10)
+863: Graficos().Desenhe linhas - 11)
+864: Graficos().Desenhe linhas - 12)
+865: Graficos().Desenhe linhas - 13)
+866: Graficos().Desenhe linhas - 10)
+867: Graficos().Desenhe linhas - 11)
+868: Graficos().Desenhe linhas - 12)
+869: Graficos().Desenhe linhas - 13)
+870: Graficos().Desenhe linhas - 10)
+871: Graficos().Desenhe linhas - 11)
+872: Graficos().Desenhe linhas - 12)
+873: Graficos().Desenhe linhas - 13)
+874: Graficos().Desenhe linhas - 16)
+202: Atualiza clock(gf): 00:00:33
+875: Graficos().setClock( 00:00:33)
+876: Graficos().repinte()
+203: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+204: mtaView().VerFimTeste()
+877: Graficos().paintComponent()
+878: Graficos().if(iD == Ck){ 00:00:33}
+879: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+880: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+881: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+882: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+883: Graficos().Desenhe linhas - 10)
+884: Graficos().Desenhe linhas - 11)
+885: Graficos().Desenhe linhas - 12)
+886: Graficos().Desenhe linhas - 13)
+887: Graficos().Desenhe linhas - 10)
+888: Graficos().Desenhe linhas - 11)
+889: Graficos().Desenhe linhas - 12)
+890: Graficos().Desenhe linhas - 13)
+891: Graficos().Desenhe linhas - 10)
+892: Graficos().Desenhe linhas - 11)
+893: Graficos().Desenhe linhas - 12)
+894: Graficos().Desenhe linhas - 13)
+895: Graficos().Desenhe linhas - 10)
+896: Graficos().Desenhe linhas - 11)
+897: Graficos().Desenhe linhas - 12)
+898: Graficos().Desenhe linhas - 13)
+899: Graficos().Desenhe linhas - 16)
+205: Atualiza clock(gf): 00:00:34
+900: Graficos().setClock( 00:00:34)
+901: Graficos().repinte()
+206: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+207: mtaView().VerFimTeste()
+902: Graficos().paintComponent()
+903: Graficos().if(iD == Ck){ 00:00:34}
+904: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+905: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+906: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+907: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+908: Graficos().Desenhe linhas - 10)
+909: Graficos().Desenhe linhas - 11)
+910: Graficos().Desenhe linhas - 12)
+911: Graficos().Desenhe linhas - 13)
+912: Graficos().Desenhe linhas - 10)
+913: Graficos().Desenhe linhas - 11)
+914: Graficos().Desenhe linhas - 12)
+915: Graficos().Desenhe linhas - 13)
+916: Graficos().Desenhe linhas - 10)
+917: Graficos().Desenhe linhas - 11)
+918: Graficos().Desenhe linhas - 12)
+919: Graficos().Desenhe linhas - 13)
+920: Graficos().Desenhe linhas - 10)
+921: Graficos().Desenhe linhas - 11)
+922: Graficos().Desenhe linhas - 12)
+923: Graficos().Desenhe linhas - 13)
+924: Graficos().Desenhe linhas - 16)
+208: Atualiza clock(gf): 00:00:35
+925: Graficos().setClock( 00:00:35)
+926: Graficos().repinte()
+209: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+51: Ferramentas().SeqToLin(0, 2): 2
+210: mtaView().DispararTesteV2(V: 2, M:2, T: 2, L: 2)
+52: Ferramentas().ContarReg()
+53: Ferramentas().ContarReg() - 6
+54: Ferramentas().LinToMd(): iLinAtual: 2
+55: Ferramentas().LinToMd(): iSeq: 0
+56: Ferramentas().LinToMd(): iMd: 2
+57: Ferramentas().LinToMd(2): SEQ0, MD2
+211: mtaView().DispararTesteV2() - 002b
+212: mtaView().DispararTesteV2() - 002c
+213: mtaView().DispararTesteV2( iLinMD:2, iTotalLinTab: 999
+214: mtaView().DispararTesteV2() - 003
+215: mtaView().DispararTesteV2(V: 2, M:2, T: 2, L: 2): Testar = Sim 
+216: Entrando -> SincUP[2]
+217: mtaView().VerFimTeste()
+927: Graficos().paintComponent()
+928: Graficos().if(iD == Ck){ 00:00:35}
+929: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+930: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+931: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+932: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+933: Graficos().Desenhe linhas - 10)
+934: Graficos().Desenhe linhas - 11)
+935: Graficos().Desenhe linhas - 12)
+936: Graficos().Desenhe linhas - 13)
+937: Graficos().Desenhe linhas - 10)
+938: Graficos().Desenhe linhas - 11)
+939: Graficos().Desenhe linhas - 12)
+940: Graficos().Desenhe linhas - 13)
+941: Graficos().Desenhe linhas - 10)
+942: Graficos().Desenhe linhas - 11)
+943: Graficos().Desenhe linhas - 12)
+944: Graficos().Desenhe linhas - 13)
+945: Graficos().Desenhe linhas - 10)
+946: Graficos().Desenhe linhas - 11)
+947: Graficos().Desenhe linhas - 12)
+948: Graficos().Desenhe linhas - 13)
+949: Graficos().Desenhe linhas - 16)
+218: Atualiza clock(gf): 00:00:36
+950: Graficos().setClock( 00:00:36)
+951: Graficos().repinte()
+219: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+220: mtaView().VerFimTeste()
+952: Graficos().paintComponent()
+953: Graficos().if(iD == Ck){ 00:00:36}
+954: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+955: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+956: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+957: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+958: Graficos().Desenhe linhas - 10)
+959: Graficos().Desenhe linhas - 11)
+960: Graficos().Desenhe linhas - 12)
+961: Graficos().Desenhe linhas - 13)
+962: Graficos().Desenhe linhas - 10)
+963: Graficos().Desenhe linhas - 11)
+964: Graficos().Desenhe linhas - 12)
+965: Graficos().Desenhe linhas - 13)
+966: Graficos().Desenhe linhas - 10)
+967: Graficos().Desenhe linhas - 11)
+968: Graficos().Desenhe linhas - 12)
+969: Graficos().Desenhe linhas - 13)
+970: Graficos().Desenhe linhas - 10)
+971: Graficos().Desenhe linhas - 11)
+972: Graficos().Desenhe linhas - 12)
+973: Graficos().Desenhe linhas - 13)
+974: Graficos().Desenhe linhas - 16)
+221: Atualiza clock(gf): 00:00:37
+975: Graficos().setClock( 00:00:37)
+976: Graficos().repinte()
+222: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+223: mtaView().VerFimTeste()
+977: Graficos().paintComponent()
+978: Graficos().if(iD == Ck){ 00:00:37}
+979: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+980: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+981: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+982: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+983: Graficos().Desenhe linhas - 10)
+984: Graficos().Desenhe linhas - 11)
+985: Graficos().Desenhe linhas - 12)
+986: Graficos().Desenhe linhas - 13)
+987: Graficos().Desenhe linhas - 10)
+988: Graficos().Desenhe linhas - 11)
+989: Graficos().Desenhe linhas - 12)
+990: Graficos().Desenhe linhas - 13)
+991: Graficos().Desenhe linhas - 10)
+992: Graficos().Desenhe linhas - 11)
+993: Graficos().Desenhe linhas - 12)
+994: Graficos().Desenhe linhas - 13)
+995: Graficos().Desenhe linhas - 10)
+996: Graficos().Desenhe linhas - 11)
+997: Graficos().Desenhe linhas - 12)
+998: Graficos().Desenhe linhas - 13)
+999: Graficos().Desenhe linhas - 16)
+224: Atualiza clock(gf): 00:00:38
+1000: Graficos().setClock( 00:00:38)
+1001: Graficos().repinte()
+225: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+226: mtaView().VerFimTeste()
+1002: Graficos().paintComponent()
+1003: Graficos().if(iD == Ck){ 00:00:38}
+1004: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1005: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1006: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1007: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1008: Graficos().Desenhe linhas - 10)
+1009: Graficos().Desenhe linhas - 11)
+1010: Graficos().Desenhe linhas - 12)
+1011: Graficos().Desenhe linhas - 13)
+1012: Graficos().Desenhe linhas - 10)
+1013: Graficos().Desenhe linhas - 11)
+1014: Graficos().Desenhe linhas - 12)
+1015: Graficos().Desenhe linhas - 13)
+1016: Graficos().Desenhe linhas - 10)
+1017: Graficos().Desenhe linhas - 11)
+1018: Graficos().Desenhe linhas - 12)
+1019: Graficos().Desenhe linhas - 13)
+1020: Graficos().Desenhe linhas - 10)
+1021: Graficos().Desenhe linhas - 11)
+1022: Graficos().Desenhe linhas - 12)
+1023: Graficos().Desenhe linhas - 13)
+1024: Graficos().Desenhe linhas - 16)
+227: Atualiza clock(gf): 00:00:39
+1025: Graficos().setClock( 00:00:39)
+1026: Graficos().repinte()
+228: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+229: mtaView().VerFimTeste()
+1027: Graficos().paintComponent()
+1028: Graficos().if(iD == Ck){ 00:00:39}
+1029: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1030: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1031: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1032: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1033: Graficos().Desenhe linhas - 10)
+1034: Graficos().Desenhe linhas - 11)
+1035: Graficos().Desenhe linhas - 12)
+1036: Graficos().Desenhe linhas - 13)
+1037: Graficos().Desenhe linhas - 10)
+1038: Graficos().Desenhe linhas - 11)
+1039: Graficos().Desenhe linhas - 12)
+1040: Graficos().Desenhe linhas - 13)
+1041: Graficos().Desenhe linhas - 10)
+1042: Graficos().Desenhe linhas - 11)
+1043: Graficos().Desenhe linhas - 12)
+1044: Graficos().Desenhe linhas - 13)
+1045: Graficos().Desenhe linhas - 10)
+1046: Graficos().Desenhe linhas - 11)
+1047: Graficos().Desenhe linhas - 12)
+1048: Graficos().Desenhe linhas - 13)
+1049: Graficos().Desenhe linhas - 16)
+230: Atualiza clock(gf): 00:00:40
+1050: Graficos().setClock( 00:00:40)
+1051: Graficos().repinte()
+231: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+58: Ferramentas().SeqToLin(0, 2): 2
+232: mtaView().DispararTesteV2(V: 2, M:2, T: 3, L: 2)
+59: Ferramentas().ContarReg()
+60: Ferramentas().ContarReg() - 6
+61: Ferramentas().LinToMd(): iLinAtual: 2
+62: Ferramentas().LinToMd(): iSeq: 0
+63: Ferramentas().LinToMd(): iMd: 2
+64: Ferramentas().LinToMd(2): SEQ0, MD2
+233: mtaView().DispararTesteV2() - 002b
+234: mtaView().DispararTesteV2() - 002c
+235: mtaView().DispararTesteV2( iLinMD:2, iTotalLinTab: 999
+236: mtaView().DispararTesteV2() - 003
+237: mtaView().DispararTesteV2(V: 2, M:2, T: 3, L: 2): Testar = Sim 
+238: Entrando -> SincUP[2]
+239: mtaView().VerFimTeste()
+1052: Graficos().paintComponent()
+1053: Graficos().if(iD == Ck){ 00:00:40}
+1054: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1055: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1056: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1057: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1058: Graficos().Desenhe linhas - 10)
+1059: Graficos().Desenhe linhas - 11)
+1060: Graficos().Desenhe linhas - 12)
+1061: Graficos().Desenhe linhas - 13)
+1062: Graficos().Desenhe linhas - 10)
+1063: Graficos().Desenhe linhas - 11)
+1064: Graficos().Desenhe linhas - 12)
+1065: Graficos().Desenhe linhas - 13)
+1066: Graficos().Desenhe linhas - 10)
+1067: Graficos().Desenhe linhas - 11)
+1068: Graficos().Desenhe linhas - 12)
+1069: Graficos().Desenhe linhas - 13)
+1070: Graficos().Desenhe linhas - 10)
+1071: Graficos().Desenhe linhas - 11)
+1072: Graficos().Desenhe linhas - 12)
+1073: Graficos().Desenhe linhas - 13)
+1074: Graficos().Desenhe linhas - 16)
+240: Atualiza clock(gf): 00:00:41
+1075: Graficos().setClock( 00:00:41)
+1076: Graficos().repinte()
+241: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+242: mtaView().VerFimTeste()
+1077: Graficos().paintComponent()
+1078: Graficos().if(iD == Ck){ 00:00:41}
+1079: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1080: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1081: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1082: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1083: Graficos().Desenhe linhas - 10)
+1084: Graficos().Desenhe linhas - 11)
+1085: Graficos().Desenhe linhas - 12)
+1086: Graficos().Desenhe linhas - 13)
+1087: Graficos().Desenhe linhas - 10)
+1088: Graficos().Desenhe linhas - 11)
+1089: Graficos().Desenhe linhas - 12)
+1090: Graficos().Desenhe linhas - 13)
+1091: Graficos().Desenhe linhas - 10)
+1092: Graficos().Desenhe linhas - 11)
+1093: Graficos().Desenhe linhas - 12)
+1094: Graficos().Desenhe linhas - 13)
+1095: Graficos().Desenhe linhas - 10)
+1096: Graficos().Desenhe linhas - 11)
+1097: Graficos().Desenhe linhas - 12)
+1098: Graficos().Desenhe linhas - 13)
+1099: Graficos().Desenhe linhas - 16)
+243: Atualiza clock(gf): 00:00:42
+1100: Graficos().setClock( 00:00:42)
+1101: Graficos().repinte()
+244: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+245: mtaView().VerFimTeste()
+1102: Graficos().paintComponent()
+1103: Graficos().if(iD == Ck){ 00:00:42}
+1104: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1105: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1106: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1107: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1108: Graficos().Desenhe linhas - 10)
+1109: Graficos().Desenhe linhas - 11)
+1110: Graficos().Desenhe linhas - 12)
+1111: Graficos().Desenhe linhas - 13)
+1112: Graficos().Desenhe linhas - 10)
+1113: Graficos().Desenhe linhas - 11)
+1114: Graficos().Desenhe linhas - 12)
+1115: Graficos().Desenhe linhas - 13)
+1116: Graficos().Desenhe linhas - 10)
+1117: Graficos().Desenhe linhas - 11)
+1118: Graficos().Desenhe linhas - 12)
+1119: Graficos().Desenhe linhas - 13)
+1120: Graficos().Desenhe linhas - 10)
+1121: Graficos().Desenhe linhas - 11)
+1122: Graficos().Desenhe linhas - 12)
+1123: Graficos().Desenhe linhas - 13)
+1124: Graficos().Desenhe linhas - 16)
+246: Atualiza clock(gf): 00:00:43
+1125: Graficos().setClock( 00:00:43)
+1126: Graficos().repinte()
+247: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+248: mtaView().VerFimTeste()
+1127: Graficos().paintComponent()
+1128: Graficos().if(iD == Ck){ 00:00:43}
+1129: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1130: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1131: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1132: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1133: Graficos().Desenhe linhas - 10)
+1134: Graficos().Desenhe linhas - 11)
+1135: Graficos().Desenhe linhas - 12)
+1136: Graficos().Desenhe linhas - 13)
+1137: Graficos().Desenhe linhas - 10)
+1138: Graficos().Desenhe linhas - 11)
+1139: Graficos().Desenhe linhas - 12)
+1140: Graficos().Desenhe linhas - 13)
+1141: Graficos().Desenhe linhas - 10)
+1142: Graficos().Desenhe linhas - 11)
+1143: Graficos().Desenhe linhas - 12)
+1144: Graficos().Desenhe linhas - 13)
+1145: Graficos().Desenhe linhas - 10)
+1146: Graficos().Desenhe linhas - 11)
+1147: Graficos().Desenhe linhas - 12)
+1148: Graficos().Desenhe linhas - 13)
+1149: Graficos().Desenhe linhas - 16)
+249: Atualiza clock(gf): 00:00:44
+1150: Graficos().setClock( 00:00:44)
+1151: Graficos().repinte()
+250: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+251: mtaView().VerFimTeste()
+1152: Graficos().paintComponent()
+1153: Graficos().if(iD == Ck){ 00:00:44}
+1154: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1155: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1156: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1157: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1158: Graficos().Desenhe linhas - 10)
+1159: Graficos().Desenhe linhas - 11)
+1160: Graficos().Desenhe linhas - 12)
+1161: Graficos().Desenhe linhas - 13)
+1162: Graficos().Desenhe linhas - 10)
+1163: Graficos().Desenhe linhas - 11)
+1164: Graficos().Desenhe linhas - 12)
+1165: Graficos().Desenhe linhas - 13)
+1166: Graficos().Desenhe linhas - 10)
+1167: Graficos().Desenhe linhas - 11)
+1168: Graficos().Desenhe linhas - 12)
+1169: Graficos().Desenhe linhas - 13)
+1170: Graficos().Desenhe linhas - 10)
+1171: Graficos().Desenhe linhas - 11)
+1172: Graficos().Desenhe linhas - 12)
+1173: Graficos().Desenhe linhas - 13)
+1174: Graficos().Desenhe linhas - 16)
+252: Atualiza clock(gf): 00:00:45
+1175: Graficos().setClock( 00:00:45)
+1176: Graficos().repinte()
+253: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+254: mtaView().VerFimTeste()
+1177: Graficos().paintComponent()
+1178: Graficos().if(iD == Ck){ 00:00:45}
+1179: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1180: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1181: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1182: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1183: Graficos().Desenhe linhas - 10)
+1184: Graficos().Desenhe linhas - 11)
+1185: Graficos().Desenhe linhas - 12)
+1186: Graficos().Desenhe linhas - 13)
+1187: Graficos().Desenhe linhas - 10)
+1188: Graficos().Desenhe linhas - 11)
+1189: Graficos().Desenhe linhas - 12)
+1190: Graficos().Desenhe linhas - 13)
+1191: Graficos().Desenhe linhas - 10)
+1192: Graficos().Desenhe linhas - 11)
+1193: Graficos().Desenhe linhas - 12)
+1194: Graficos().Desenhe linhas - 13)
+1195: Graficos().Desenhe linhas - 10)
+1196: Graficos().Desenhe linhas - 11)
+1197: Graficos().Desenhe linhas - 12)
+1198: Graficos().Desenhe linhas - 13)
+1199: Graficos().Desenhe linhas - 16)
+255: Atualiza clock(gf): 00:00:46
+1200: Graficos().setClock( 00:00:46)
+1201: Graficos().repinte()
+256: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+65: Ferramentas().SeqToLin(0, 3): 3
+257: mtaView().DispararTesteV2(V: 2, M:3, T: 1, L: 3)
+66: Ferramentas().ContarReg()
+67: Ferramentas().ContarReg() - 6
+68: Ferramentas().LinToMd(): iLinAtual: 3
+69: Ferramentas().LinToMd(): iSeq: 0
+70: Ferramentas().LinToMd(): iMd: 3
+71: Ferramentas().LinToMd(3): SEQ0, MD3
+258: mtaView().DispararTesteV2() - 002b
+259: mtaView().DispararTesteV2() - 002c
+260: mtaView().DispararTesteV2( iLinMD:3, iTotalLinTab: 999
+261: mtaView().DispararTesteV2() - 003
+262: mtaView().DispararTesteV2(V: 2, M:3, T: 1, L: 3): Testar = Sim 
+263: MD[3], IP: 192.168.1.104, Cmd: Status
+72: Dsl2500e().Simula(Cmd: Status)
+73: Simula SINC.DSL2500e: UP
+264: LerTArea(V: 2 Md: 3, Teste: 1, LinMD: 3)
+265: LerTArea(Num.Lin: 34 )
+266: ------------------------------------------------------
+74: Dsl2500e().Decode( $sh )
+75: Dsl2500e().Decode( DSL_2500E#show adsl )
+76: Dsl2500e().Decode( Adsl Line Status         SHOWTIME. )
+77: Dsl2500e().Decode( Adsl Mode                   G992.1 )
+78: Dsl2500e().Decode( Up Stream                 320 kbps )
+79: Dsl2500e().Decode( Down Stream              1024 kbps )
+80: Dsl2500e().Decode( Attenuation Down Stream          7 )
+81: Dsl2500e().Decode( Attenuation Up Stream            3 )
+82: Dsl2500e().Decode( SNR Margin Down Stream        40.8 )
+83: Dsl2500e().Decode( SNR Margin Up Stream          31.0 )
+84: Dsl2500e().Decode( Firmware Version          3923c131 )
+85: Dsl2500e().Decode( 15 min ES Counter                0 )
+86: Dsl2500e().Decode( CRC upstream                     10 )
+87: Dsl2500e().Decode( CRC downstream                   7 )
+88: Dsl2500e().Decode( 1 day ES Counter                 0 )
+89: Dsl2500e().Decode( ES                               0 )
+90: Dsl2500e().Decode( SES                              0 )
+91: Dsl2500e().Decode( $sh )
+92: Dsl2500e().Decode( DSL_2500E#show adsl )
+93: Dsl2500e().Decode( Adsl Line Status         SHOWTIME. )
+94: Dsl2500e().Decode( Adsl Mode                   G992.1 )
+95: Dsl2500e().Decode( Up Stream                 320 kbps )
+96: Dsl2500e().Decode( Down Stream              1024 kbps )
+97: Dsl2500e().Decode( Attenuation Down Stream          7 )
+98: Dsl2500e().Decode( Attenuation Up Stream            3 )
+99: Dsl2500e().Decode( SNR Margin Down Stream        40.8 )
+100: Dsl2500e().Decode( SNR Margin Up Stream          31.0 )
+101: Dsl2500e().Decode( Firmware Version          3923c131 )
+102: Dsl2500e().Decode( 15 min ES Counter                0 )
+103: Dsl2500e().Decode( CRC upstream                     10 )
+104: Dsl2500e().Decode( CRC downstream                   7 )
+105: Dsl2500e().Decode( 1 day ES Counter                 0 )
+106: Dsl2500e().Decode( ES                               0 )
+107: Dsl2500e().Decode( SES                              0 )
+267: ------------------------------------------------------
+268: VerificarDecode(LinMD: 3)
+72: Ferramentas().AjusteTempo( Md: 3, Aj: 15, iS: 46, iM: 0 )
+73: Ferramentas().AjusteTempo( iTSeg = (iMin * 60) + iSeg : 46 )
+74: Ferramentas().AjusteTempo( iS = iTSeg - (iAjuste * iModem): 1 )
+75: Ferramentas().AjusteTempo() = 00:01
+269: mtaView().AcionarGrafico(3, 3)
+1202: Graficos().setSinais()
+76: Ferramentas().HoraToSeg(00:01)
+77: Ferramentas().HoraToSeg(00:01).Tam: 5
+78: Ferramentas().HoraToSeg(00:01).T=5
+79: Ferramentas().HoraToSeg(00:01), sM: 00, sS: 01
+80: Ferramentas().HoraToSeg(00:01) = 1
+1203: Graficos().repinte()
+270: VerificarDecode().iModem[0] - SRUP: 31, SRDN: 40, AtUP: 3, AtDN: 7, CrcUP: 10, CrcDN: 7
+271: LerTArea(bSinc[3] = true,UP)
+272: LerTArea(bAut[3] = false,)
+273: LerTArea(bPing[3] = false,)
+274: Entrando -> SincUP[3]
+275: mtaView().VerFimTeste()
+1204: Graficos().paintComponent()
+1205: Graficos().if(iD == Ck){ 00:00:46}
+1206: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1207: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1208: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1209: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1210: Graficos().Desenhe linhas - 10)
+1211: Graficos().Desenhe linhas - 11)
+1212: Graficos().Desenhe linhas - 12)
+1213: Graficos().Desenhe linhas - 13)
+1214: Graficos().Desenhe linhas - 10)
+1215: Graficos().Desenhe linhas - 11)
+1216: Graficos().Desenhe linhas - 12)
+1217: Graficos().Desenhe linhas - 13)
+1218: Graficos().Desenhe linhas - 10)
+1219: Graficos().Desenhe linhas - 11)
+1220: Graficos().Desenhe linhas - 12)
+1221: Graficos().Desenhe linhas - 13)
+1222: Graficos().Desenhe linhas - 10)
+1223: Graficos().Desenhe linhas - 11)
+1224: Graficos().Desenhe linhas - 12)
+1225: Graficos().Desenhe linhas - 13)
+1226: Graficos().Desenhe linhas - 16)
+276: Atualiza clock(gf): 00:00:47
+1227: Graficos().setClock( 00:00:47)
+1228: Graficos().repinte()
+277: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+278: mtaView().VerFimTeste()
+1229: Graficos().paintComponent()
+1230: Graficos().if(iD == Ck){ 00:00:47}
+1231: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1232: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1233: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1234: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1235: Graficos().Desenhe linhas - 10)
+1236: Graficos().Desenhe linhas - 11)
+1237: Graficos().Desenhe linhas - 12)
+1238: Graficos().Desenhe linhas - 13)
+1239: Graficos().Desenhe linhas - 10)
+1240: Graficos().Desenhe linhas - 11)
+1241: Graficos().Desenhe linhas - 12)
+1242: Graficos().Desenhe linhas - 13)
+1243: Graficos().Desenhe linhas - 10)
+1244: Graficos().Desenhe linhas - 11)
+1245: Graficos().Desenhe linhas - 12)
+1246: Graficos().Desenhe linhas - 13)
+1247: Graficos().Desenhe linhas - 10)
+1248: Graficos().Desenhe linhas - 11)
+1249: Graficos().Desenhe linhas - 12)
+1250: Graficos().Desenhe linhas - 13)
+1251: Graficos().Desenhe linhas - 16)
+279: Atualiza clock(gf): 00:00:48
+1252: Graficos().setClock( 00:00:48)
+1253: Graficos().repinte()
+280: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+281: mtaView().VerFimTeste()
+1254: Graficos().paintComponent()
+1255: Graficos().if(iD == Ck){ 00:00:48}
+1256: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1257: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1258: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1259: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1260: Graficos().Desenhe linhas - 10)
+1261: Graficos().Desenhe linhas - 11)
+1262: Graficos().Desenhe linhas - 12)
+1263: Graficos().Desenhe linhas - 13)
+1264: Graficos().Desenhe linhas - 10)
+1265: Graficos().Desenhe linhas - 11)
+1266: Graficos().Desenhe linhas - 12)
+1267: Graficos().Desenhe linhas - 13)
+1268: Graficos().Desenhe linhas - 10)
+1269: Graficos().Desenhe linhas - 11)
+1270: Graficos().Desenhe linhas - 12)
+1271: Graficos().Desenhe linhas - 13)
+1272: Graficos().Desenhe linhas - 10)
+1273: Graficos().Desenhe linhas - 11)
+1274: Graficos().Desenhe linhas - 12)
+1275: Graficos().Desenhe linhas - 13)
+1276: Graficos().Desenhe linhas - 16)
+282: Atualiza clock(gf): 00:00:49
+1277: Graficos().setClock( 00:00:49)
+1278: Graficos().repinte()
+283: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+284: mtaView().VerFimTeste()
+1279: Graficos().paintComponent()
+1280: Graficos().if(iD == Ck){ 00:00:49}
+1281: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1282: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1283: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1284: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1285: Graficos().Desenhe linhas - 10)
+1286: Graficos().Desenhe linhas - 11)
+1287: Graficos().Desenhe linhas - 12)
+1288: Graficos().Desenhe linhas - 13)
+1289: Graficos().Desenhe linhas - 10)
+1290: Graficos().Desenhe linhas - 11)
+1291: Graficos().Desenhe linhas - 12)
+1292: Graficos().Desenhe linhas - 13)
+1293: Graficos().Desenhe linhas - 10)
+1294: Graficos().Desenhe linhas - 11)
+1295: Graficos().Desenhe linhas - 12)
+1296: Graficos().Desenhe linhas - 13)
+1297: Graficos().Desenhe linhas - 10)
+1298: Graficos().Desenhe linhas - 11)
+1299: Graficos().Desenhe linhas - 12)
+1300: Graficos().Desenhe linhas - 13)
+1301: Graficos().Desenhe linhas - 16)
+285: Atualiza clock(gf): 00:00:50
+1302: Graficos().setClock( 00:00:50)
+1303: Graficos().repinte()
+286: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+81: Ferramentas().SeqToLin(0, 3): 3
+287: mtaView().DispararTesteV2(V: 2, M:3, T: 2, L: 3)
+82: Ferramentas().ContarReg()
+83: Ferramentas().ContarReg() - 6
+84: Ferramentas().LinToMd(): iLinAtual: 3
+85: Ferramentas().LinToMd(): iSeq: 0
+86: Ferramentas().LinToMd(): iMd: 3
+87: Ferramentas().LinToMd(3): SEQ0, MD3
+288: mtaView().DispararTesteV2() - 002b
+289: mtaView().DispararTesteV2() - 002c
+290: mtaView().DispararTesteV2( iLinMD:3, iTotalLinTab: 999
+291: mtaView().DispararTesteV2() - 003
+292: mtaView().DispararTesteV2(V: 2, M:3, T: 2, L: 3): Testar = Sim 
+293: Entrando -> SincUP[3]
+294: MD[3], IP: 192.168.1.104, Cmd: AUTH
+108: Dsl2500e().Simula(Cmd: Auth)
+295: LerTArea(V: 2 Md: 3, Teste: 2, LinMD: 3)
+296: LerTArea(Num.Lin: 44 )
+297: ------------------------------------------------------
+109: Dsl2500e().Decode( $show status )
+110: Dsl2500e().Decode( System )
+111: Dsl2500e().Decode( Alias Name              : RTL867x ADSL Modem )
+112: Dsl2500e().Decode( Uptime                  : 1 21:1:48 )
+113: Dsl2500e().Decode( Date/Time               : Fri Jan  2 21:1:48 1970 )
+114: Dsl2500e().Decode( Firmware Version        : OI_V1.11 Build.131106 Rel.0668919 )
+115: Dsl2500e().Decode(  )
+116: Dsl2500e().Decode( DSL )
+117: Dsl2500e().Decode( Operational Status      : -- )
+118: Dsl2500e().Decode( Upstream Speed          : -- )
+119: Dsl2500e().Decode( Downstream Speed        : -- )
+120: Dsl2500e().Decode(  )
+121: Dsl2500e().Decode( LAN Configuration )
+122: Dsl2500e().Decode( IP Address              : 10.42.0.254 )
+123: Dsl2500e().Decode( Subnet Mask             : 255.255.252.0 )
+124: Dsl2500e().Decode( DHCP Server             : Disable )
+125: Dsl2500e().Decode( MAC Address             : C4:A8:1D:DA:CD:99 )
+126: Dsl2500e().Decode(  )
+127: Dsl2500e().Decode( WAN Configuration )
+128: Dsl2500e().Decode( Interface VPI/VCI Encap Droute Protocol IP Address Gateway Status )
+129: Dsl2500e().Decode( ---------------------------------------------------------- )
+130: Dsl2500e().Decode( pppoe1  0/35    LLC   On     PPPoE  	0.0.0.0  0.0.0.0   down )
+131: Dsl2500e().Decode( $show status )
+132: Dsl2500e().Decode( System )
+133: Dsl2500e().Decode( Alias Name              : RTL867x ADSL Modem )
+134: Dsl2500e().Decode( Uptime                  : 1 21:1:48 )
+135: Dsl2500e().Decode( Date/Time               : Fri Jan  2 21:1:48 1970 )
+136: Dsl2500e().Decode( Firmware Version        : OI_V1.11 Build.131106 Rel.0668919 )
+137: Dsl2500e().Decode(  )
+138: Dsl2500e().Decode( DSL )
+139: Dsl2500e().Decode( Operational Status      : -- )
+140: Dsl2500e().Decode( Upstream Speed          : -- )
+141: Dsl2500e().Decode( Downstream Speed        : -- )
+142: Dsl2500e().Decode(  )
+143: Dsl2500e().Decode( LAN Configuration )
+144: Dsl2500e().Decode( IP Address              : 10.42.0.254 )
+145: Dsl2500e().Decode( Subnet Mask             : 255.255.252.0 )
+146: Dsl2500e().Decode( DHCP Server             : Disable )
+147: Dsl2500e().Decode( MAC Address             : C4:A8:1D:DA:CD:99 )
+148: Dsl2500e().Decode(  )
+149: Dsl2500e().Decode( WAN Configuration )
+150: Dsl2500e().Decode( Interface VPI/VCI Encap Droute Protocol IP Address Gateway Status )
+151: Dsl2500e().Decode( ---------------------------------------------------------- )
+152: Dsl2500e().Decode( pppoe1  0/35    LLC   On     PPPoE  	0.0.0.0  0.0.0.0   down )
+298: ------------------------------------------------------
+299: VerificarDecode(LinMD: 3)
+300: LerTArea(bSinc[3] = true,UP)
+301: LerTArea(bAut[3] = false,Down)
+302: LerTArea(bPing[3] = false,)
+303: mtaView().VerFimTeste()
+1304: Graficos().paintComponent()
+1305: Graficos().if(iD == Ck){ 00:00:50}
+1306: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1307: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1308: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1309: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1310: Graficos().Desenhe linhas - 10)
+1311: Graficos().Desenhe linhas - 11)
+1312: Graficos().Desenhe linhas - 12)
+1313: Graficos().Desenhe linhas - 13)
+1314: Graficos().Desenhe linhas - 10)
+1315: Graficos().Desenhe linhas - 11)
+1316: Graficos().Desenhe linhas - 12)
+1317: Graficos().Desenhe linhas - 13)
+1318: Graficos().Desenhe linhas - 10)
+1319: Graficos().Desenhe linhas - 11)
+1320: Graficos().Desenhe linhas - 12)
+1321: Graficos().Desenhe linhas - 13)
+1322: Graficos().Desenhe linhas - 10)
+1323: Graficos().Desenhe linhas - 11)
+1324: Graficos().Desenhe linhas - 12)
+1325: Graficos().Desenhe linhas - 13)
+1326: Graficos().Desenhe linhas - 16)
+304: Atualiza clock(gf): 00:00:51
+1327: Graficos().setClock( 00:00:51)
+1328: Graficos().repinte()
+305: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+306: mtaView().VerFimTeste()
+1329: Graficos().paintComponent()
+1330: Graficos().if(iD == Ck){ 00:00:51}
+1331: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1332: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1333: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1334: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1335: Graficos().Desenhe linhas - 10)
+1336: Graficos().Desenhe linhas - 11)
+1337: Graficos().Desenhe linhas - 12)
+1338: Graficos().Desenhe linhas - 13)
+1339: Graficos().Desenhe linhas - 10)
+1340: Graficos().Desenhe linhas - 11)
+1341: Graficos().Desenhe linhas - 12)
+1342: Graficos().Desenhe linhas - 13)
+1343: Graficos().Desenhe linhas - 10)
+1344: Graficos().Desenhe linhas - 11)
+1345: Graficos().Desenhe linhas - 12)
+1346: Graficos().Desenhe linhas - 13)
+1347: Graficos().Desenhe linhas - 10)
+1348: Graficos().Desenhe linhas - 11)
+1349: Graficos().Desenhe linhas - 12)
+1350: Graficos().Desenhe linhas - 13)
+1351: Graficos().Desenhe linhas - 16)
+307: Atualiza clock(gf): 00:00:52
+1352: Graficos().setClock( 00:00:52)
+1353: Graficos().repinte()
+308: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+309: mtaView().VerFimTeste()
+1354: Graficos().paintComponent()
+1355: Graficos().if(iD == Ck){ 00:00:52}
+1356: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1357: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1358: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1359: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1360: Graficos().Desenhe linhas - 10)
+1361: Graficos().Desenhe linhas - 11)
+1362: Graficos().Desenhe linhas - 12)
+1363: Graficos().Desenhe linhas - 13)
+1364: Graficos().Desenhe linhas - 10)
+1365: Graficos().Desenhe linhas - 11)
+1366: Graficos().Desenhe linhas - 12)
+1367: Graficos().Desenhe linhas - 13)
+1368: Graficos().Desenhe linhas - 10)
+1369: Graficos().Desenhe linhas - 11)
+1370: Graficos().Desenhe linhas - 12)
+1371: Graficos().Desenhe linhas - 13)
+1372: Graficos().Desenhe linhas - 10)
+1373: Graficos().Desenhe linhas - 11)
+1374: Graficos().Desenhe linhas - 12)
+1375: Graficos().Desenhe linhas - 13)
+1376: Graficos().Desenhe linhas - 16)
+310: Atualiza clock(gf): 00:00:53
+1377: Graficos().setClock( 00:00:53)
+1378: Graficos().repinte()
+311: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+312: mtaView().VerFimTeste()
+1379: Graficos().paintComponent()
+1380: Graficos().if(iD == Ck){ 00:00:53}
+1381: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1382: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1383: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1384: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1385: Graficos().Desenhe linhas - 10)
+1386: Graficos().Desenhe linhas - 11)
+1387: Graficos().Desenhe linhas - 12)
+1388: Graficos().Desenhe linhas - 13)
+1389: Graficos().Desenhe linhas - 10)
+1390: Graficos().Desenhe linhas - 11)
+1391: Graficos().Desenhe linhas - 12)
+1392: Graficos().Desenhe linhas - 13)
+1393: Graficos().Desenhe linhas - 10)
+1394: Graficos().Desenhe linhas - 11)
+1395: Graficos().Desenhe linhas - 12)
+1396: Graficos().Desenhe linhas - 13)
+1397: Graficos().Desenhe linhas - 10)
+1398: Graficos().Desenhe linhas - 11)
+1399: Graficos().Desenhe linhas - 12)
+1400: Graficos().Desenhe linhas - 13)
+1401: Graficos().Desenhe linhas - 16)
+313: Atualiza clock(gf): 00:00:54
+1402: Graficos().setClock( 00:00:54)
+1403: Graficos().repinte()
+314: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+315: mtaView().VerFimTeste()
+1404: Graficos().paintComponent()
+1405: Graficos().if(iD == Ck){ 00:00:54}
+1406: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1407: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1408: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1409: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1410: Graficos().Desenhe linhas - 10)
+1411: Graficos().Desenhe linhas - 11)
+1412: Graficos().Desenhe linhas - 12)
+1413: Graficos().Desenhe linhas - 13)
+1414: Graficos().Desenhe linhas - 10)
+1415: Graficos().Desenhe linhas - 11)
+1416: Graficos().Desenhe linhas - 12)
+1417: Graficos().Desenhe linhas - 13)
+1418: Graficos().Desenhe linhas - 10)
+1419: Graficos().Desenhe linhas - 11)
+1420: Graficos().Desenhe linhas - 12)
+1421: Graficos().Desenhe linhas - 13)
+1422: Graficos().Desenhe linhas - 10)
+1423: Graficos().Desenhe linhas - 11)
+1424: Graficos().Desenhe linhas - 12)
+1425: Graficos().Desenhe linhas - 13)
+1426: Graficos().Desenhe linhas - 16)
+316: Atualiza clock(gf): 00:00:55
+1427: Graficos().setClock( 00:00:55)
+1428: Graficos().repinte()
+317: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+88: Ferramentas().SeqToLin(0, 3): 3
+318: mtaView().DispararTesteV2(V: 2, M:3, T: 3, L: 3)
+89: Ferramentas().ContarReg()
+90: Ferramentas().ContarReg() - 6
+91: Ferramentas().LinToMd(): iLinAtual: 3
+92: Ferramentas().LinToMd(): iSeq: 0
+93: Ferramentas().LinToMd(): iMd: 3
+94: Ferramentas().LinToMd(3): SEQ0, MD3
+319: mtaView().DispararTesteV2() - 002b
+320: mtaView().DispararTesteV2() - 002c
+321: mtaView().DispararTesteV2( iLinMD:3, iTotalLinTab: 999
+322: mtaView().DispararTesteV2() - 003
+323: mtaView().DispararTesteV2(V: 2, M:3, T: 3, L: 3): Testar = Sim 
+324: Entrando -> SincUP[3]
+325: mtaView().VerFimTeste()
+1429: Graficos().paintComponent()
+1430: Graficos().if(iD == Ck){ 00:00:55}
+1431: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1432: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1433: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1434: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1435: Graficos().Desenhe linhas - 10)
+1436: Graficos().Desenhe linhas - 11)
+1437: Graficos().Desenhe linhas - 12)
+1438: Graficos().Desenhe linhas - 13)
+1439: Graficos().Desenhe linhas - 10)
+1440: Graficos().Desenhe linhas - 11)
+1441: Graficos().Desenhe linhas - 12)
+1442: Graficos().Desenhe linhas - 13)
+1443: Graficos().Desenhe linhas - 10)
+1444: Graficos().Desenhe linhas - 11)
+1445: Graficos().Desenhe linhas - 12)
+1446: Graficos().Desenhe linhas - 13)
+1447: Graficos().Desenhe linhas - 10)
+1448: Graficos().Desenhe linhas - 11)
+1449: Graficos().Desenhe linhas - 12)
+1450: Graficos().Desenhe linhas - 13)
+1451: Graficos().Desenhe linhas - 16)
+326: Atualiza clock(gf): 00:00:56
+1452: Graficos().setClock( 00:00:56)
+1453: Graficos().repinte()
+327: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+328: mtaView().VerFimTeste()
+1454: Graficos().paintComponent()
+1455: Graficos().if(iD == Ck){ 00:00:56}
+1456: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1457: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1458: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1459: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1460: Graficos().Desenhe linhas - 10)
+1461: Graficos().Desenhe linhas - 11)
+1462: Graficos().Desenhe linhas - 12)
+1463: Graficos().Desenhe linhas - 13)
+1464: Graficos().Desenhe linhas - 10)
+1465: Graficos().Desenhe linhas - 11)
+1466: Graficos().Desenhe linhas - 12)
+1467: Graficos().Desenhe linhas - 13)
+1468: Graficos().Desenhe linhas - 10)
+1469: Graficos().Desenhe linhas - 11)
+1470: Graficos().Desenhe linhas - 12)
+1471: Graficos().Desenhe linhas - 13)
+1472: Graficos().Desenhe linhas - 10)
+1473: Graficos().Desenhe linhas - 11)
+1474: Graficos().Desenhe linhas - 12)
+1475: Graficos().Desenhe linhas - 13)
+1476: Graficos().Desenhe linhas - 16)
+329: Atualiza clock(gf): 00:00:57
+1477: Graficos().setClock( 00:00:57)
+1478: Graficos().repinte()
+330: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+331: mtaView().VerFimTeste()
+1479: Graficos().paintComponent()
+1480: Graficos().if(iD == Ck){ 00:00:57}
+1481: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1482: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1483: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1484: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1485: Graficos().Desenhe linhas - 10)
+1486: Graficos().Desenhe linhas - 11)
+1487: Graficos().Desenhe linhas - 12)
+1488: Graficos().Desenhe linhas - 13)
+1489: Graficos().Desenhe linhas - 10)
+1490: Graficos().Desenhe linhas - 11)
+1491: Graficos().Desenhe linhas - 12)
+1492: Graficos().Desenhe linhas - 13)
+1493: Graficos().Desenhe linhas - 10)
+1494: Graficos().Desenhe linhas - 11)
+1495: Graficos().Desenhe linhas - 12)
+1496: Graficos().Desenhe linhas - 13)
+1497: Graficos().Desenhe linhas - 10)
+1498: Graficos().Desenhe linhas - 11)
+1499: Graficos().Desenhe linhas - 12)
+1500: Graficos().Desenhe linhas - 13)
+1501: Graficos().Desenhe linhas - 16)
+332: Atualiza clock(gf): 00:00:58
+1502: Graficos().setClock( 00:00:58)
+1503: Graficos().repinte()
+333: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+334: mtaView().VerFimTeste()
+1504: Graficos().paintComponent()
+1505: Graficos().if(iD == Ck){ 00:00:58}
+1506: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1507: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1508: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1509: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1510: Graficos().Desenhe linhas - 10)
+1511: Graficos().Desenhe linhas - 11)
+1512: Graficos().Desenhe linhas - 12)
+1513: Graficos().Desenhe linhas - 13)
+1514: Graficos().Desenhe linhas - 10)
+1515: Graficos().Desenhe linhas - 11)
+1516: Graficos().Desenhe linhas - 12)
+1517: Graficos().Desenhe linhas - 13)
+1518: Graficos().Desenhe linhas - 10)
+1519: Graficos().Desenhe linhas - 11)
+1520: Graficos().Desenhe linhas - 12)
+1521: Graficos().Desenhe linhas - 13)
+1522: Graficos().Desenhe linhas - 10)
+1523: Graficos().Desenhe linhas - 11)
+1524: Graficos().Desenhe linhas - 12)
+1525: Graficos().Desenhe linhas - 13)
+1526: Graficos().Desenhe linhas - 16)
+335: Atualiza clock(gf): 00:00:59
+1527: Graficos().setClock( 00:00:59)
+1528: Graficos().repinte()
+336: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+337: mtaView().VerFimTeste()
+1529: Graficos().paintComponent()
+1530: Graficos().if(iD == Ck){ 00:00:59}
+1531: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1532: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1533: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1534: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1535: Graficos().Desenhe linhas - 10)
+1536: Graficos().Desenhe linhas - 11)
+1537: Graficos().Desenhe linhas - 12)
+1538: Graficos().Desenhe linhas - 13)
+1539: Graficos().Desenhe linhas - 10)
+1540: Graficos().Desenhe linhas - 11)
+1541: Graficos().Desenhe linhas - 12)
+1542: Graficos().Desenhe linhas - 13)
+1543: Graficos().Desenhe linhas - 10)
+1544: Graficos().Desenhe linhas - 11)
+1545: Graficos().Desenhe linhas - 12)
+1546: Graficos().Desenhe linhas - 13)
+1547: Graficos().Desenhe linhas - 10)
+1548: Graficos().Desenhe linhas - 11)
+1549: Graficos().Desenhe linhas - 12)
+1550: Graficos().Desenhe linhas - 13)
+1551: Graficos().Desenhe linhas - 16)
+338: Atualiza clock(gf): 00:01:00
+1552: Graficos().setClock( 00:01:00)
+1553: Graficos().repinte()
+339: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true
+340: mtaView().VerFimTeste()
+341: mtaView().AnalisarTeste()
+95: Ferramentas().SeqToLin(0, 0): 0
+342: mtaView().AnalisarTeste().iLinMdX: 0, sResAcao: []
+96: Ferramentas().ContarReg()
+97: Ferramentas().ContarReg() - 6
+98: Ferramentas().SeqToLin(0, 1): 1
+343: mtaView().AnalisarTeste().iLinMdX: 1, sResAcao: []
+99: Ferramentas().ContarReg()
+100: Ferramentas().ContarReg() - 6
+101: Ferramentas().SeqToLin(0, 2): 2
+344: mtaView().AnalisarTeste().iLinMdX: 2, sResAcao: []
+102: Ferramentas().ContarReg()
+103: Ferramentas().ContarReg() - 6
+104: Ferramentas().SeqToLin(0, 3): 3
+345: mtaView().AnalisarTeste().iLinMdX: 3, sResAcao: []
+105: Ferramentas().ContarReg()
+106: Ferramentas().ContarReg() - 6
+346: mtaView().VerFimTeste()-001
+107: Ferramentas().ContarReg()
+108: Ferramentas().ContarReg() - 6
+----------------------------------------------------------------
+0: Arquivos().BackupMtaIni(C:\Users\Soiuz\documents\mtaView_docs\backup\PrjTeste_07Nov05h.mta)
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+----------------------------------------------------------------
+0: Ferramentas().NumToChar()...n
+1: mtaView().AutoBackup(Arquivo salvo em: C:\Users\Soiuz\documents\mtaView_docs\backup\PrjTeste_07Nov05h.mta)
+347: mtaView().VerFimTeste()-002
+1554: Graficos().paintComponent()
+1555: Graficos().if(iD == Ck){ 00:01:00}
+1556: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1557: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1558: Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+1559: Graficos().Desenhe linhas, iLinSrUPAj[i] :87
+1560: Graficos().Desenhe linhas - 10)
+1561: Graficos().Desenhe linhas - 11)
+1562: Graficos().Desenhe linhas - 12)
+1563: Graficos().Desenhe linhas - 13)
+1564: Graficos().Desenhe linhas - 10)
+1565: Graficos().Desenhe linhas - 11)
+1566: Graficos().Desenhe linhas - 12)
+1567: Graficos().Desenhe linhas - 13)
+1568: Graficos().Desenhe linhas - 10)
+1569: Graficos().Desenhe linhas - 11)
+1570: Graficos().Desenhe linhas - 12)
+1571: Graficos().Desenhe linhas - 13)
+1572: Graficos().Desenhe linhas - 10)
+1573: Graficos().Desenhe linhas - 11)
+1574: Graficos().Desenhe linhas - 12)
+1575: Graficos().Desenhe linhas - 13)
+1576: Graficos().Desenhe linhas - 16)
+348: mtaView().SalvarConfig()
+349: mtaView().SalvarConfig(), T: 1, Txt: 11, Z: true, Sml: true

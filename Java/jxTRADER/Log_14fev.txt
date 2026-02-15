@@ -1,0 +1,186 @@
+----------------------------------------------------------------
+----------------------------------------------------------------
+18:22:33   *** START mtaVIEW - Sat Feb 14 18:22:33 BRT 2026 *** 
+18:22:33   mtaView().initComponents()
+18:22:33   mtaView().LerConfig(false)
+----------------------------------------------------------------
+18:22:33   Define(): 192.168.1.1
+----------------------------------------------------------------
+18:22:33   Define(): 192.168.1.101
+----------------------------------------------------------------
+18:22:33   Define(): 192.168.1.102
+----------------------------------------------------------------
+18:22:33   Define(): 192.168.1.103
+18:22:33   mtaView().Init().LerConfig(objDef.bCriptoConfig), Time: 1, Txt: 9, Zoom: true, Sml: true
+18:22:33   mtaView().LerConfig( Config.ini[Simulacao: true] )
+18:22:33   mtaView().ConstruirForm()
+18:22:33   mtaView().ConstruirPainel()
+18:22:33   mtaView().ConstruirMenu()
+18:22:33   mtaView().ConstruirSubMenuPrj()
+18:22:33   mtaView().ConstruirSubMenuSys()
+18:22:33   mtaView().ConstruirSubMenuFer()
+18:22:33   mtaView().ConstruirSubMenuOpc()
+18:22:33   mtaView().ConstruirSubMenuInfo()
+18:22:33   mtaView().ConstruirBfSistema()
+18:22:33   mtaView().ConstruirBfExcel()
+18:22:33   mtaView().ConstruirBfRede()
+18:22:33   mtaView().ConstruirBfEdicao()
+18:22:33   mtaView().ConstruirBfProjeto()
+18:22:33   mtaView().ConstruirBfAddLinha()
+18:22:33   mtaView().ConstruirBfCoordFiltro()
+18:22:33   mtaView().ConstruirTabela(false)
+18:22:33   mtaView().ConstruirBfTelnet()
+18:22:33   mtaView().ConstruirBfGrade()
+18:22:33   mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+18:22:33   FormOpcProjeto().this.CarregarExcel(C:\Users\oi298979\Documents\jxTrader_docs\cotacao\GGBR4_M5_201901021000_201905031615.csv.jxt)
+18:22:33   mtaView().BtnImportar().Erro ao carregar arquivo(IOException).
+----------------------------------------------------------------
+18:22:33   Arquivos().SalvarLicenca()
+18:22:33   Arquivos().SalvarLicenca() -> Erro ao criar arquivo[java.io.IOException: O sistema não pode encontrar o caminho especificado - e002a]
+18:22:33   Arquivos().LerLicenca()
+18:22:33   Arquivos().LerLicenca().sAnoMax: ec?ai?cihg -> 00 00 2026
+18:22:33   Arquivos().LerLicenca().sAnoPC: ec?ai?cihg -> 31 12 2017
+18:22:33   Arquivos().LerLicenca().sAnoMax: 2017
+18:22:33   Arquivos().LerLicenca().sAnoPC: 2026
+----------------------------------------------------------------
+18:22:33   Graficos().paintComponent()
+18:22:33   Graficos().if(iD == Ck){ 00:00:00}
+18:22:33   Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 14)
+18:22:33   Graficos().Desenhe linhas - 15)
+18:22:33   Graficos().Desenhe linhas - 16)
+18:22:33   Graficos().paintComponent()
+18:22:33   Graficos().if(iD == Ck){ 00:00:00}
+18:22:33   Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 10)
+18:22:33   Graficos().Desenhe linhas - 11)
+18:22:33   Graficos().Desenhe linhas - 12)
+18:22:33   Graficos().Desenhe linhas - 13)
+18:22:33   Graficos().Desenhe linhas - 14)
+18:22:33   Graficos().Desenhe linhas - 15)
+18:22:33   Graficos().Desenhe linhas - 16)
+----------------------------------------------------------------
+18:22:33   Ferramentas().LinToMd(): iLinAtual: 6
+18:22:33   Ferramentas().LinToMd(): iSeq: 1
+18:22:33   Ferramentas().LinToMd(): iMd: 2
+18:22:33   Ferramentas().LinToMd(6): SEQ1, MD2
+18:22:33   mtaView().Tabela.addMouseListener(new MouseAdapter()
+----------------------------------------------------------------
+----------------------------------------------------------------
+18:25:05   *** START mtaVIEW - Sat Feb 14 18:25:05 BRT 2026 *** 
+18:25:05   mtaView().initComponents()
+18:25:05   mtaView().LerConfig(false)
+----------------------------------------------------------------
+18:25:06   Define(): 192.168.1.1
+----------------------------------------------------------------
+18:25:06   Define(): 192.168.1.101
+----------------------------------------------------------------
+18:25:06   Define(): 192.168.1.102
+----------------------------------------------------------------
+18:25:06   Define(): 192.168.1.103
+18:25:05   mtaView().Init().LerConfig(objDef.bCriptoConfig), Time: 1, Txt: 9, Zoom: true, Sml: true
+18:25:05   mtaView().LerConfig( Config.ini[Simulacao: true] )
+18:25:05   mtaView().ConstruirForm()
+18:25:05   mtaView().ConstruirPainel()
+18:25:05   mtaView().ConstruirMenu()
+18:25:05   mtaView().ConstruirSubMenuPrj()
+18:25:05   mtaView().ConstruirSubMenuSys()
+18:25:05   mtaView().ConstruirSubMenuFer()
+18:25:05   mtaView().ConstruirSubMenuOpc()
+18:25:05   mtaView().ConstruirSubMenuInfo()
+18:25:05   mtaView().ConstruirBfSistema()
+18:25:05   mtaView().ConstruirBfExcel()
+18:25:05   mtaView().ConstruirBfRede()
+18:25:05   mtaView().ConstruirBfEdicao()
+18:25:05   mtaView().ConstruirBfProjeto()
+18:25:05   mtaView().ConstruirBfAddLinha()
+18:25:05   mtaView().ConstruirBfCoordFiltro()
+18:25:05   mtaView().ConstruirTabela(false)
+18:25:05   mtaView().ConstruirBfTelnet()
+18:25:05   mtaView().ConstruirBfGrade()
+18:25:05   mtaView().ConstruirBStatus2()
+----------------------------------------------------------------
+18:25:05   FormOpcProjeto().this.CarregarExcel(C:\Users\oi298979\Documents\jxTrader_docs\cotacao\GGBR4_M5_201901021000_201905031615.csv.jxt)
+18:25:05   mtaView().BtnImportar().Erro ao carregar arquivo(IOException).
+----------------------------------------------------------------
+18:25:06   Arquivos().SalvarLicenca()
+18:25:06   Arquivos().SalvarLicenca() -> Erro ao criar arquivo[java.io.IOException: O sistema não pode encontrar o caminho especificado - e002a]
+18:25:06   Arquivos().LerLicenca()
+18:25:06   Arquivos().LerLicenca().sAnoMax: ec?ai?cihg -> 00 00 2026
+18:25:06   Arquivos().LerLicenca().sAnoPC: ec?ai?cihg -> 31 12 2017
+18:25:06   Arquivos().LerLicenca().sAnoMax: 2017
+18:25:06   Arquivos().LerLicenca().sAnoPC: 2026
+----------------------------------------------------------------
+18:25:06   Graficos().paintComponent()
+18:25:06   Graficos().if(iD == Ck){ 00:00:00}
+18:25:06   Graficos().Desenhe linhas, iLinSrUPAj[i] :0
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 14)
+18:25:06   Graficos().Desenhe linhas - 15)
+18:25:06   Graficos().Desenhe linhas - 16)
+18:25:06   Graficos().paintComponent()
+18:25:06   Graficos().if(iD == Ck){ 00:00:00}
+18:25:06   Graficos().Desenhe linhas, iLinSrUPAj[i] :180
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 10)
+18:25:06   Graficos().Desenhe linhas - 11)
+18:25:06   Graficos().Desenhe linhas - 12)
+18:25:06   Graficos().Desenhe linhas - 13)
+18:25:06   Graficos().Desenhe linhas - 14)
+18:25:06   Graficos().Desenhe linhas - 15)
+18:25:06   Graficos().Desenhe linhas - 16)

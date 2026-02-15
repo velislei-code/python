@@ -1,0 +1,10 @@
+﻿Biblioteca de manipulação:
+- commons-net-3.3: usado para ativar telnet
+- inieditor-r5: para usar edição de arquivo.ini
+- jxl.jar: permite usar planilha no java 
+
+Dentro do projeto adicione a Biblioteca em:
+	JRE System(Bt Direito do mouse)
+		->Build Path
+			->Config Build Path
+				->Add Externs JAR´s
