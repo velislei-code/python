@@ -21,7 +21,6 @@ objTools = Tools()
 # ------------------------------------------------------------------- #
 
 class Arquivos:
-    """Classe responsável por gravar linhas em arquivos de transferência de dados."""
 
     def __init__(self):
         self.dados = []
@@ -33,9 +32,69 @@ class Arquivos:
     def inicializar(self):
         print("Inicializando...")
         self.lerVarsIni()       # ← método "privado"
+        #self.lerConfigIni()
 
-    @staticmethod    
-    def gravar_infosArqTransferPhp(arqToPhp, tipo, linha):
+    @staticmethod  
+    def lerConfigIni():
+
+        try:
+            config = configparser.ConfigParser()
+            config.read(r'C:/wamp64/www/rd2r3/Robos/configs/getInfosSwa.ini')
+            """
+            config = configparser.ConfigParser()
+            #config.read('config.ini')
+            if myIdx.pcTEL:  # noteBook TEL
+                config.read(r'C:\wamp64\www\rd2r3\Robos\configs\getInfosSwa.ini')
+            else:  # PC-Home
+                config.read(r'F:\Projetos\Python\botGetInfosSwa\getInfosSwa.ini')
+            """
+            retVars = {}
+            
+            # Tempos
+            retVars[myIdx.cfgTFast] = str(config['TEMPOS']['tFast'])
+            retVars[myIdx.cfgtCmd] = str(config['TEMPOS']['tCmd'])
+            retVars[myIdx.cfgtLog] = str(config['TEMPOS']['tLogar'])
+        
+            # msg = str(config['CONFIG']['msg'])
+            retVars[myIdx.cfgDsvBugLog] = str(config['CONFIG']['desviaBugsLogar'])        # Aqui tive de criar 2 tipos de Desvia Bugs, pois ocorrem diferentes
+            retVars[myIdx.cfgDsvBugCmd] = str(config['CONFIG']['desviaBugsCmd'])
+            retVars[myIdx.cfgIcoAppX] = str(config['CONFIG']['icoAppGetInfosSwaX'])  # habilita copiar instancia do processo(da Flow->Pagina)
+            retVars[myIdx.cfgIcoAppY] = str(config['CONFIG']['icoAppGetInfosSwaY'])  # habilita copiar instancia do processo(da Flow->Pagina)
+            retVars[myIdx.cfgPwLog] = str(config['CONFIG']['pwLog']) 
+
+            retVars[myIdx.cfgIcoMobaX] = str(config['MOBA']['icoMobaX'])
+            retVars[myIdx.cfgIcoMobaY] = str(config['MOBA']['icoMobaY'])
+            retVars[myIdx.cfgJanMobaX] = str(config['MOBA']['janMobaX'])
+            retVars[myIdx.cfgJanMobaY] = str(config['MOBA']['janMobaY'])
+            retVars[myIdx.cfgAbaMoba2X] = str(config['MOBA']['abaMoba2X'])
+            retVars[myIdx.cfgAbaMoba2Y] = str(config['MOBA']['abaMoba2Y'])
+            retVars[myIdx.cfgAbaMoba3X] = str(config['MOBA']['abaMoba3X'])
+            retVars[myIdx.cfgAbaMoba3Y] = str(config['MOBA']['abaMoba3Y'])
+            retVars[myIdx.cfgPagMobaX] = str(config['MOBA']['folhaMobaX'])    # campo de digitação
+            retVars[myIdx.cfgPagMobaY] = str(config['MOBA']['folhaMobaY'])
+            retVars[myIdx.cfgnEnter] = str(config['MOBA']['nEnter'])
+
+            # Posições X,Y quadro Copiar texto-teste-IP-Moba(Copy&arraste)
+            retVars[myIdx.cfgPosIniArtCpX] = str(config['MOBA']['posIniArrasteCopyX'])
+            retVars[myIdx.cfgPosIniArtCpY] = str(config['MOBA']['posIniArrasteCopyY'])
+        
+            # Pagina-Php
+            retVars[myIdx.cfgPhpTaRscX] = str(config['PHP']['PhpTaRascunhoX'])
+            retVars[myIdx.cfgPhpTaRscY] = str(config['PHP']['PhpTaRascunhoY'])
+            retVars[myIdx.cfgPhpBtnSvX] = str(config['PHP']['PhpBtnSalvarX'])
+            retVars[myIdx.cfgPhpBtnSvY] = str(config['PHP']['PhpBtnSalvarY'])
+         
+         
+            return retVars
+        
+        except Exception as e:
+            print(f"Exception lerConfigIni() {e}")
+            objTools.debbug(myIdx.noJumpLin, f"Exception objArquivos.lerConfigIni() -  {e}")
+            return None
+    
+    # end def lerConfigINI()
+
+    def gravar_infosArqTransferPhp(self, arqToPhp, tipo, linha):
         # GRAVA LINHAS LIDAS NO SWA(INFOS)
         # arqToPhp = myIdx.infosSwaPyToPhp  # Transferencia de dados entre Php e Robos
             
@@ -46,14 +105,13 @@ class Arquivos:
                     arquivo.write(linha)  # Sem Add Lin a mensagem com uma quebra de linha.            
                             
         except Exception as e:
-            print("Exception gravar_infosArqTransferPhp()->lin633")
-            print(f"Erro ao escrever no log: {e}")
+            print("Exception gravar_infosArqTransferPhp() - Erro ao escrever no log: {e}")
+            objTools.debbug(myIdx.noJumpLin, f"Exception objArquivos.gravar_infosArqTransferPhp() -  {e}")
 
+    # end  def gravar_infosArqTransferPhp
 
     def gravarVars1a1Ini(self, dirArq, tipo, key, valor):
-        """
-        Atualiza uma variável específica. Se o arquivo não existir, cria com valores padrão.
-        """
+        """ Atualiza uma variável específica(enviada em key). Se o arquivo não existir, cria com valores padrão.  """
         # para gravar 1a1, seleciona item(chave) a ser re-gravada - grava(abaixo)
         if key == myIdx.iniRST: chave = 'siglauf'
         if key == myIdx.iniID: chave = 'id'
@@ -106,6 +164,8 @@ class Arquivos:
         
         print(f"✓ '{chave}' = '{valor}'")
 
+    # end def gravarVars1a1Ini
+
 
     def lerVarsIni(self):
 
@@ -125,19 +185,22 @@ class Arquivos:
             retVars[myIdx.iniGVLAN] = str(config['VARIAVEIS']['numgvlan']) 
             retVars[myIdx.iniSVLAN] = str(config['VARIAVEIS']['numsvlan']) 
             retVars[myIdx.iniHL5G] = str(config['VARIAVEIS']['nomehl5g']) 
-            # retVars[myIdx.iniIpHL5G] = str(config['VARIAVEIS']['iphl5g']) 
+            retVars[myIdx.iniIpHL5G] = str(config['VARIAVEIS']['iphl5g']) 
 
             return retVars
         
         except Exception as e:
-            print(f"Exception lerVarsIni() {e}")
-        
+            print(f"Exception objArquivos.lerVarsIni() {e}")
+            objTools.debbug(myIdx.noJumpLin, f"Exception objArquivos.lerVarsIni() - {e}")
+
+            
+
+    # end def lerVarsIni(self)
+
+
     # Le arquivo, e retorna valor da linha solicitada
     def ler_infosArqTransferPhp(self, dirArq, string_busca):
-        """
-        Versão simples: retorna a linha inteira que contém a string
-        Retorna None se não encontrar
-        """
+        """  Retorna a linha inteira que contém a string_busca """
         dirArq = 'C:/wamp64/www/rd2r3/Robos/transfers/infosSwaRascunho_temp.txt';  # Transferencia de dados entre Php e Robos
         resLin = ""
         try:
@@ -149,12 +212,16 @@ class Arquivos:
                             return resLinX
                     
             return None
-        except:
-            return None
+        except Exception as e:            
+            print(f"Exception objArquivos.ler_infosArqTransferPhp() {e}")
+            objTools.debbug(myIdx.noJumpLin, f"Exception objArquivos.ler_infosArqTranferPhp() - {e}")
 
+            return None
+        
+    # end def ler_infosArqTransferPhp
 
     def formatarInfosSwaRa(self):
-        # Faz uma organização/formata da InfosSwa/RSD pegas pelo Bot - tira lixo, deixa só infos relevantes, sem repetições
+        """ Faz uma organização/formata da InfosSwa/RSD pegas pelo Bot - tira lixo, deixa só infos relevantes, sem repetições """
 
         linNomeIpSwa = ""
 
@@ -229,12 +296,11 @@ class Arquivos:
         self.gravar_infosArqTransferPhp(myIdx.infosSwaPyToPhpFmt, myIdx.ADD, '}\n')
         self.gravar_infosArqTransferPhp(myIdx.infosSwaPyToPhpFmt, myIdx.ADD, '\n=================================================================================\n')
 
+    # end def formatarInfosSwaRa
 
 
     def gravarVarsIni_block(self, acao, dirArq, siglaUF, nomeSWA, ipSWA, nomeRA, numPtRA, numGVLAN, numSVLAN, nomeHL5G):
-        """
-        Grava variáveis usando ConfigParser (formato INI padrão)
-        """
+        """  Grava variáveis usando ConfigParser (formato INI padrão)  """
         print(f"gravarVarsIni({acao}, {siglaUF}, {nomeSWA}, {ipSWA}, {nomeRA}, {numPtRA}, {numGVLAN}, {numSVLAN}, {nomeHL5G}")
         
         try:
@@ -290,12 +356,15 @@ class Arquivos:
             
             print("Variáveis gravadas com sucesso usando ConfigParser")
         except Exception as e:
-            print(f"Exception  gravarVarsIni() {e}")
+            print(f"Exception  objArquivos.gravarVarsIni() {e}")
+            objTools.debbug(myIdx.noJumpLin, f"Exception objArquivos.gravarVarsIni_block() - {e}")
+
+    # end def gravarVarsIni_block
 
     #------------ Ler arq-transfer com dados da Pagina -----------#
     def lerArqDadosTicket(self, arquivo):
-        # Este le arq.csv com infos do ticket em uso produzido pelo Php
-        objTools.debbug(myIdx.noJumpLin, 'lerArqDadosTicket()')   
+        """ Ler arq.csv com infos do ticket em uso gerado pelo Php """
+        objTools.debbug(myIdx.noJumpLin, 'objArquivos().lerArqDadosTicket()')   
 
         # Inicializa uma lista para armazenar as linhas
         linhas = []
@@ -316,15 +385,16 @@ class Arquivos:
                 print(str(n)+': '+linhas+'\n')
                 n+=1
         except FileNotFoundError:
-            objTools.debbug(myIdx.noJumpLin,'ler_dadosTicket(O arquivo:' +  arquivo + ' não foi encontrado.)')
+            objTools.debbug(myIdx.noJumpLin,'objArquivos().ler_dadosTicket(O arquivo:' +  arquivo + ' não foi encontrado.)')
             print("O arquivo dadosTicket.csv não foi encontrado.")
         except Exception as e:
-            print(f"Exception lerArqdadosTicket()->lin515 - {e}")
-            objTools.debbug(myIdx.noJumpLin,f"Ocorreu um erro: {e} -> " +  arquivo)
+            print(f"Exception lerArqdadosTicket() - {e}")
+            objTools.debbug(myIdx.noJumpLin,f"objArquivos().lerArqDadosTicket() - Ocorreu um erro: {e} => " +  arquivo)
             print(f"Ocorreu um erro: {e}")
         
         return linhas
 
+    # end  def lerArqDadosTicket
 
     #-------------------------------------------------------------------------------#
     # Lê dados do Ticket
@@ -333,7 +403,7 @@ class Arquivos:
         try:
 
             dadosTicket = self.lerArqDadosTicket()   # carrega dados do Ticket: C:\wamp64\www\rd2r3\Robos\transfers\dadosTicket_temp.csv
-            objTools.debbug(myIdx.noJumpLin,'getDadosTkt()')
+            objTools.debbug(myIdx.noJumpLin,'objArquivos().getDadosTkt()')
             
             linDadosTicket = objTools.separaCelulas(dadosTicket[0])  
             
@@ -361,8 +431,10 @@ class Arquivos:
         #except Exception:
         except Exception as e:
             #print(f"Exception main().while->lin2182:  {e}")
-            print(f"Exception getdadosTkt()->lin555: {e}")
+            print(f"Exception getdadosTkt() - {e}")
             dados = [{'Null', 'Null','Null','Null','Null','Null','Null','Null','Null','Null','Null','Null','Null','Null','Null','Null'}]
             return dados
+        
+    # end  def getDadosTkt
 
     

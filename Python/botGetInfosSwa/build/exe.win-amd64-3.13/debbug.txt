@@ -1,0 +1,6 @@
+
+Debbug[15/02/2026] main()
+Debbug[12:35:20] janela()
+Debbug[12:35:20] cores()
+Debbug[12:35:20] objBots().mover_e_clicar(Unknown call, 951, 1050)
+Debbug[12:35:20] objBots().mover_e_clicar(Unknown call, 951, 1050)

@@ -16,10 +16,10 @@ class myIdx:
 
 
     """
-    # Paths qdo uso PC-Iury
+    # Paths qdo uso PC-Home
     ajtPASTE: Final = 339   # Teste PC Iury() no notepad++ -> ajusta em: Paste
 
-    pcTEL: Final = False  # Comuta Dir config.ini entre notebook Tel e PC do Iury
+    pcTEL: Final = False  # Comuta Dir config.ini entre notebook Tel e PC-Home
     penImportSAE: Final = 'F:/Projetos/Python/botGetInfosSwa/PENDENCIAS.csv'
     infosSwaPyToPhp: Final = 'F:/Projetos/Python/botGetInfosSwa/infosSwatemp.txt'
     dadosTktPhpToPy: Final = 'F:/Projetos/Python/botGetInfosSwa/dadosTickettemp.csv'
@@ -37,6 +37,33 @@ class myIdx:
     dadosTktPhpToPy: Final = 'C:/wamp64/www/rd2r3/Robos/transfers/dadosTicket_temp.csv'
     analiseSaePyToPhp: Final = 'C:/wamp64/www/rd2r3/Robos/transfers/penden_analise.txt'
     arqVarsINI: Final = 'C:/wamp64/www/rd2r3/Robos/configs/varsGetInfos.ini'
+
+    # Config Ini(Pos)
+    cfgTFast: Final = 0
+    cfgtCmd: Final = 1
+    cfgtLog: Final = 2
+    cfgDsvBugLog: Final = 3
+    cfgDsvBugCmd: Final = 4
+    cfgIcoAppX: Final = 5
+    cfgIcoAppY: Final = 6
+    cfgPwLog: Final = 7
+    cfgIcoMobaX: Final = 8
+    cfgIcoMobaY: Final = 9
+    cfgJanMobaX: Final = 10
+    cfgJanMobaY: Final = 11
+    cfgAbaMoba2X: Final = 12
+    cfgAbaMoba2Y: Final = 13
+    cfgAbaMoba3X: Final = 14
+    cfgAbaMoba3Y: Final = 15
+    cfgPagMobaX: Final = 16
+    cfgPagMobaY: Final = 17
+    cfgnEnter: Final = 18
+    cfgPosIniArtCpX: Final = 19
+    cfgPosIniArtCpY: Final = 20
+    cfgPhpTaRscX: Final = 21
+    cfgPhpTaRscY: Final = 22
+    cfgPhpBtnSvX: Final = 23
+    cfgPhpBtnSvY: Final = 24
 
 
     # Arquivo.ini
@@ -144,3 +171,4 @@ class myIdx:
     rtLgRA: Final = 4
     rtCltRA: Final = 5
 
+ 

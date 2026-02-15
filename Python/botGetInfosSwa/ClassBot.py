@@ -2,7 +2,6 @@ import time
 import pyautogui
 import pyperclip
 
-
 from ClassWindow import Windows  # Importando a classe
 from ClassTools import Tools  # Importando a classe
 from ClassIndices import myIdx 
@@ -12,7 +11,6 @@ objWindows = Windows()
 objTools = Tools()
 
 class Bots:
-    """Classe responsável por gravar linhas em arquivos de transferência de dados."""
 
     def __init__(self):
         self.dados = []
@@ -27,7 +25,7 @@ class Bots:
 
     @staticmethod 
     def colar_pw_enter(self, conteudo, desviaBugs):
-        objTools.debbug(myIdx.noJumpLin, 'colar_pw_enter('+conteudo+')')
+        objTools.debbug(myIdx.noJumpLin, 'objBots().colar_pw_enter('+conteudo+')')
         
         pyautogui.write(conteudo)
         pyautogui.hotkey('shift', 'insert')
@@ -101,7 +99,7 @@ class Bots:
     """        
 
     def logar(self, host, pwLog, cmdMobaX, cmdMobaY, posIniArtCopyX, posIniArtCopyY, tFast, tLogar, desviaBugsLgX, shAppX, shAppY):
-        objTools.debbug(myIdx.noJumpLin, 'logar('+str(host)+', '+str(pwLog)+',,,,,,,,)')
+        objTools.debbug(myIdx.noJumpLin, 'objBots().logar('+str(host)+', '+str(pwLog)+',,,,,,,,)')
         
         pyperclip.copy('')
         time.sleep(tFast)
@@ -183,15 +181,16 @@ class Bots:
         time.sleep(tFast)
         # -------------------------------------------------------------------------------------- #
         pyperclip.copy('')  # Limpar Clipboard antes de iniciar testes IP - necessario pois esta ficando lixo                 
-        
+
+    # end logar()   
 
     def mover_e_clicar(self, origem, x, y):
-        objTools.debbug(myIdx.noJumpLin, 'mover_e_clicar('+ origem +' call, '+str(x)+', '+str(y)+ ')')
+        objTools.debbug(myIdx.noJumpLin, 'objBots().mover_e_clicar('+ origem +' call, '+str(x)+', '+str(y)+ ')')
         pyautogui.moveTo(x, y)
         pyautogui.click()
 
     def mover_e_copiar(self, x, y):
-        objTools.debbug(myIdx.noJumpLin, 'mover_e_copiar()')
+        objTools.debbug(myIdx.noJumpLin, 'objBots().mover_e_copiar()')
         pyautogui.moveTo(x, y)
         for _ in range(3):
             pyautogui.click()
@@ -200,7 +199,7 @@ class Bots:
         time.sleep(0.5)
 
     def mover_e_colar(self, x, y):
-        objTools.debbug(myIdx.noJumpLin, 'mover_e_colar()')
+        objTools.debbug(myIdx.noJumpLin, 'objBots().mover_e_colar()')
         pyautogui.moveTo(x, y)    
         pyautogui.click()
         time.sleep(0.5)
@@ -208,7 +207,7 @@ class Bots:
         time.sleep(0.5)
 
     def moveClickColaEnter(self, conteudo, x, y):
-        objTools.debbug(myIdx.noJumpLin, 'moveClickColaEnter()')
+        objTools.debbug(myIdx.noJumpLin, 'objBots().moveClickColaEnter()')
         pyautogui.moveTo(x, y)    
         pyautogui.click()
         pyautogui.write(conteudo)
@@ -221,7 +220,7 @@ class Bots:
 
 
     def colar_e_enter(self, conteudo, tCurto): 
-        objTools.debbug(myIdx.noJumpLin, 'colar_e_enter()')   
+        objTools.debbug(myIdx.noJumpLin, 'objBots().colar_e_enter()')   
         pyautogui.write(conteudo)
         pyautogui.hotkey('shift', 'insert')
         time.sleep(tCurto)    
@@ -229,7 +228,7 @@ class Bots:
         pyperclip.copy('')
 
     def colar_space_enter(self, conteudo, tCurto): 
-        objTools.debbug(myIdx.noJumpLin, 'colar_space_enter()')   
+        objTools.debbug(myIdx.noJumpLin, 'objBots().colar_space_enter()')   
         pyautogui.write(conteudo)
         pyautogui.hotkey('shift', 'insert')
         time.sleep(tCurto)    
@@ -238,53 +237,49 @@ class Bots:
    
 
     def clickArrasteCopy(self, start_x, start_y, numCharToRightX, numLinToUpY, duration, tFast):
-        """
-        Move the mouse to the starting position, click and drag to the ending position,
-        and copy the selection to the clipboard.
-
-        Parameters:
-            start_x (int): Starting X coordinate.
-            start_y (int): Starting Y coordinate.       
-        """
-        objTools.debbug(myIdx.noJumpLin, 'clickArrasteCopy('+str(start_x)+', '+str(start_y)+', '+str( numCharToRightX)+', '+str(numLinToUpY)+', '+str(tFast)+')')
+        """ Seleciona parte(x,y) da tela e copias texto """
+        objTools.debbug(myIdx.noJumpLin, 'objBots().clickArrasteCopy('+str(start_x)+', '+str(start_y)+', '+str( numCharToRightX)+', '+str(numLinToUpY)+', '+str(tFast)+')')
 
         # calc. num Char e Linhas de retorno
         nCharToRightX = start_x + (myIdx.largCharPx * numCharToRightX)    # Pega X linhas(esquerda p/ direita) (980 - (25*6)) = 830  
         nLinToUpY = start_y - (myIdx.altLinPx * numLinToUpY)         # Pega Y linhas(baixo p/ Cima) (980 - (25*6)) = 830  
 
 
-        try:
-            # Move to the start position
-            pyautogui.moveTo(start_x, start_y, duration)
-            
-            # Click and hold
-            pyautogui.mouseDown()
+        # try:
+        # Move to the start position
+        pyautogui.moveTo(start_x, start_y, duration)
+        
+        # Click and hold
+        pyautogui.mouseDown()
 
-            # Drag to the end position
-            pyautogui.moveTo(nCharToRightX, nLinToUpY, duration)
+        # Drag to the end position
+        pyautogui.moveTo(nCharToRightX, nLinToUpY, duration)
 
-            # Release the mouse
-            pyautogui.mouseUp()
+        # Release the mouse
+        pyautogui.mouseUp()
 
-            # Wait for the selection to be made
-            time.sleep(tFast)
+        # Wait for the selection to be made
+        time.sleep(tFast)
 
-            # Copy the selection to clipboard (Ctrl+C)
-            pyautogui.hotkey('ctrl', 'c')
+        # Copy the selection to clipboard (Ctrl+C)
+        pyautogui.hotkey('ctrl', 'c')
 
-            # Wait a moment to ensure clipboard is updated
-            time.sleep(tFast)
+        # Wait a moment to ensure clipboard is updated
+        time.sleep(tFast)
 
-            # Retrieve the copied content
-            copied_content = pyperclip.paste()
-            pyperclip.copy('')
-            return copied_content
-
+        # Retrieve the copied content
+        copied_content = pyperclip.paste()
+        pyperclip.copy('')
+        return copied_content
+        
+        """
         except Exception as e:
             print("Exception clickArrasteCopy()->lin620")
             print(f"An error occurred: {e}")
             return None
 
+        """
 
+    # end def clickArrasteCopy
 
  

@@ -12,7 +12,6 @@ objBots = Bots()
 objTools = Tools()
 
 class Terminal:
-    """Classe responsável por gravar linhas em arquivos de transferência de dados."""
 
     def __init__(self):
         self.dados = []
@@ -57,7 +56,7 @@ class Terminal:
         
 
     def ativaMoba(self, icoMobaX, icoMobaY, janMobaX, janMobaY, tFast):
-        objTools.debbug(myIdx.noJumpLin, 'ativaMoba()')
+        objTools.debbug(myIdx.noJumpLin, 'objTerminal().ativaMoba()')
 
         # Se ativar_MobaTerminal falhar(3x), exec.manual(click no icone)
         # Isso evita, entre outreas coisas, que navegador seja mexido no lugar do MobaTerm, e bagunça td
@@ -66,7 +65,7 @@ class Terminal:
                 if self.ativarMobaXterm() == False: 
                     #print("ativaMoba()")
 
-                    objTools.debbug(myIdx.noJumpLin, 'ativaMoba('+str(icoMobaX)+', '+str(icoMobaY)+', '+str(janMobaX)+', '+str(janMobaY)+', '+str(tFast)+')')
+                    objTools.debbug(myIdx.noJumpLin, 'objTerminal().ativaMoba('+str(icoMobaX)+', '+str(icoMobaY)+', '+str(janMobaX)+', '+str(janMobaY)+', '+str(tFast)+')')
                 
                     #Ativar janela Moba 
                     objBots.mover_e_clicar('Unknown', icoMobaX, icoMobaY)
@@ -78,7 +77,7 @@ class Terminal:
 
 
     def ativaMoba_old_semXterm(self, icoMobaX, icoMobaY, janMobaX, janMobaY, tFast):
-        objTools.debbug(myIdx.noJumpLin, 'ativaMoba()')
+        objTools.debbug(myIdx.noJumpLin, 'objTerminal().ativaMoba_old_semXterm()')
 
         #print("ativaMoba()")
         #Ativar janela Moba 
@@ -92,7 +91,7 @@ class Terminal:
     
     def prepararMoba(self, origem, abaMoba3X, abaMoba3Y, nEnter, tFast):
         
-        objTools.debbug(myIdx.noJumpLin, 'prepararMoba('+ origem + ' call, ' + str(abaMoba3X) + ', ' + str(abaMoba3Y) + ', ' + str(nEnter) + ', ' + str(tFast)+')')
+        objTools.debbug(myIdx.noJumpLin, 'objTerminal().prepararMoba('+ origem + ' call, ' + str(abaMoba3X) + ', ' + str(abaMoba3Y) + ', ' + str(nEnter) + ', ' + str(tFast)+')')
 
         #print("preparar()")
         pyperclip.copy('')

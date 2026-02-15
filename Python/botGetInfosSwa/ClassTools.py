@@ -6,7 +6,6 @@ from ClassIndices import myIdx  # Importando a classe
 
 
 class Tools:
-    """Classe responsável por gravar linhas em arquivos de transferência de dados."""
 
     def __init__(self):
         self.dados = []
@@ -41,12 +40,12 @@ class Tools:
                 print(f"Erro ao escrever no log: {e}")
 
     def separaCelulas(self, linha):
-        self.debbug(myIdx.noJumpLin, 'separaCelulas()')   
+        self.debbug(myIdx.noJumpLin, 'objTools().separaCelulas()')   
         # Separa a linha usando o delimitador ';' e retorna uma lista com os dados
         return linha.split(";")
 
     def formatar(self, codigo, num):
-        self.debbug(myIdx.noJumpLin, 'formatar()')
+        self.debbug(myIdx.noJumpLin, 'objTools().formatar()')
         # Verifica se o código segue o formato esperado e tem comprimento adequado
         if len(codigo) >= 18 and codigo[8] == '-' and codigo[9:].isalnum():
             # Extrai os últimos 7 caracteres após o hífen
@@ -57,6 +56,9 @@ class Tools:
 
 
     def filtrarLin(self, linha):
+                
+        self.debbug(myIdx.noJumpLin, 'objTools().filtrarLin()')
+
         if 'name' in linha: return True
         elif 'nomeIpSwa' in linha: return True
         #    varIni = lerVarsIni()
@@ -77,6 +79,7 @@ class Tools:
         else: return False
 
     def validar(self, elto, tipo):
+
         # Validar formato do swa e/ou RA
         # m-br-ma-sls-lsv-swa-01 10.51.228.26
         # SWA:   m-br-ma-sls-lsv-swa-01(22), m-br-ma-sls-lsvx-swa-01(23) 
@@ -226,13 +229,5 @@ class Tools:
 
 
     def getLetras(self, texto):
-        """
-        Retorna apenas os caracteres alfabéticos de uma string.
-        
-        Parâmetros:
-        texto (str): String de entrada contendo vários caracteres
-        
-        Retorna:
-        str: String contendo apenas letras (maiúsculas e minúsculas)
-        """
+        """ Retorna apenas os caracteres alfabéticos de uma string. """
         return ''.join(caractere for caractere in texto if caractere.isalpha())

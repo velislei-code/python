@@ -3,7 +3,6 @@ import time
 
 
 class Sons:
-    """Classe responsável por gravar linhas em arquivos de transferência de dados."""
 
     def __init__(self):
         self.dados = []

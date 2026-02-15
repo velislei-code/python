@@ -11,7 +11,7 @@ import pygetwindow as gw    # Ativar janela(Moba)
 # --------------------------------------------------------#
 # Notificao tipo Toast
 # pip install plyer
-from plyer import notification # notification.notify
+# from plyer import notification # notification.notify
 #--------------------------------------------------------#
 
 
@@ -22,7 +22,6 @@ from ClassIndices import myIdx  # Importando a classe
 objTools = Tools()
 
 class Windows:
-    """Classe responsável por gravar linhas em arquivos de transferência de dados."""
 
     def __init__(self):
         self.dados = []
@@ -30,16 +29,24 @@ class Windows:
     def carregar(self):
         print("Carregando...")
 
+    def inicializar(self):
+        print("Inicializando...")
+        self.myToast()       # ← método "privado"
 
     @staticmethod 
     def myToast(self, titulo, msg, appName, time):
+        print(F"{appName}-{titulo}\n{msg}\n")
+
+    """
+    # Esta bloqueado pq ao compilar(só roda no VsCode) não consegue carregar plyer
+        from plyer import notification # notification.notify
         notification.notify(
                 title=titulo,
                 message=msg,
                 app_name=appName,
                 timeout=time  # segundos (padrão é 10)
             )
-
+    """
 
     def posicionar_janela(self, pos_x, pos_y, largura_janela, altura_janela):
         """Posiciona a janela do console no canto superior direito da tela (Windows)"""
@@ -123,9 +130,7 @@ class Windows:
 
     def zoomMais(self, quantidade, intervalo):
         """
-        Segura Ctrl e rola para frente (zoom in/para cima).
-        
-        Parâmetros:
+        Clicka em Ctrl e rola para frente (zoom in/para cima).               
         quantidade (int): Número de vezes a rolar
         intervalo (float): Intervalo entre os scrolls
         """
@@ -143,9 +148,7 @@ class Windows:
 
     def zoomMenos(self, quantidade, intervalo):
         """
-        Segura Ctrl e rola para trás (zoom out/para baixo).
-        
-        Parâmetros:
+        Clicka Ctrl e rola para trás (zoom out/para baixo).
         quantidade (int): Número de vezes a rolar
         intervalo (float): Intervalo entre os scrolls
         """
