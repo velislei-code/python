@@ -1,0 +1,370 @@
+	
+	/* Estilo da placar-projeção */
+	.data {
+		width: 120px; /* Largura da placa */
+		height: 15px; /* Altura da placa */
+		background-color: #00BFFF; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 10px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+
+	.placa {
+		width: 120px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #ffcc00; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+
+	.placa_tunnel {
+		width: 150px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #ffcc00; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+	.placa_aviso {
+		position: fixed; /* Fixa a div na tela */
+		top: 15px; /* Distância do topo */
+		left: 200px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 220px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #7FFF00; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+	.msg_confirma {
+		position: fixed; /* Fixa a div na tela */
+		top: 20px; /* Distância do topo */
+		left: 500px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 450px; /* Largura da placa */
+		height: 50px; /* Altura da placa */
+		background-color: #FFA500; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+	.swa_ra_pt {
+		position: fixed; /* Fixa a div na tela */
+		top: 15px; /* Distância do topo */
+		left: 750px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 350px; /* Largura da placa */
+		height: 100px; /* Altura da placa */
+		background-color: #00FFFF; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+	.div_tunnel {
+		position: fixed; /* Fixa a div na tela */
+		top: 670px; /* Distância do topo */
+		left: 350px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 850px; /* Largura da placa */
+		height: 50px; /* Altura da placa */
+		background-color: #90c8ee; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+
+    /********** divs representacao dos fluxo Vlans/MPLS/Interface ***********************/
+    <?Php
+
+        $ajtLeft = 100;
+
+
+
+    ?>
+
+    .cVlan {
+		position: fixed; /* Fixa a div na tela */
+		top: 75px; /* Distância do topo */
+		left: 30px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 50px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #eeede5; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .sVlan {
+		position: fixed; /* Fixa a div na tela */
+		top: 55px; /* Distância do topo */
+		left: 50px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 50px; /* Largura da placa */
+		height: 50px; /* Altura da placa */
+		background-color: #90b2ee; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: top; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .interface {
+		position: fixed; /* Fixa a div na tela */
+		top: 35px; /* Distância do topo */
+		left: 80px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 150px; /* Largura da placa */
+		height: 80px; /* Altura da placa */
+		background-color: #9390ee; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: top; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .swa {
+		position: fixed; /* Fixa a div na tela */
+		top: 15px; /* Distância do topo */
+		left: 120px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 150px; /* Largura da placa */
+		height: 120px; /* Altura da placa */
+		background-color: #c890ee; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: bottom; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .fibra {
+		position: fixed; /* Fixa a div na tela */
+		top: 75px; /* Distância do topo */
+		left: 250px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 100px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #e9f00a; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .fibra2 {
+		position: fixed; /* Fixa a div na tela */
+		top: 75px; /* Distância do topo */
+		left: 450px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 100px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #e9f00a; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .fibra3 {
+		position: fixed; /* Fixa a div na tela */
+		top: 75px; /* Distância do topo */
+		left: 670px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 100px; /* Largura da placa */
+		height: 20px; /* Altura da placa */
+		background-color: #e9f00a; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: center; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .gwD {
+		position: fixed; /* Fixa a div na tela */
+		top: 15px; /* Distância do topo */
+		left: 320px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 150px; /* Largura da placa */
+		height: 120px; /* Altura da placa */
+		background-color: #b2ee90; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: bottom; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .gwC {
+		position: fixed; /* Fixa a div na tela */
+		top: 15px; /* Distância do topo */
+		left: 530px; /* Distância da esquerda */
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 150px; /* Largura da placa */
+		height: 120px; /* Altura da placa */
+		background-color: #90eebc; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: bottom; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
+    .rsd {
+		position: fixed; /* Fixa a div na tela */
+		top: 15px; /* Distância do topo */
+		left: <?php echo $ajtLeft + 750; ?>px; /*750 Distância da esquerda */       
+		width: 200px; /* Largura da div */
+		height: 100px; /* Altura da div */
+
+		width: 150px; /* Largura da placa */
+		height: 120px; /* Altura da placa */
+		background-color: #90c7ee; /* Cor de fundo (amarelo) */
+		border: 2px solid #000; /* Borda preta */
+		border-radius: 5px; /* Cantos arredondados */
+		display: flex;
+		justify-content: center; /* Centraliza horizontalmente */
+		align-items: bottom; /* Centraliza verticalmente */
+		font-family: Arial, sans-serif; /* Fonte do texto */
+		font-size: 12px; /* Tamanho do texto */
+		font-weight: bold; /* Texto em negrito */
+		color: #000; /* Cor do texto */
+		text-align: center; /* Alinhamento do texto */
+		/* box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3); /* Sombra */
+	}
